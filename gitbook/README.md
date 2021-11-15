@@ -1,6 +1,6 @@
 ---
-coverY: -42.5234899328859
-cover: https://www.livre-afravih.org/img/transistion.png
+coverY: 0
+cover: .gitbook/assets/cover_livre_afravih.png
 ---
 
 # Introduction
@@ -9,4 +9,4 @@ Ce site accueillera prochainement le **Manuel AFRAVIH**, un ouvrage accessible e
 
 En attendant, vous pouvez retrouver le Livre AFRAVIH sur [https://www.livre-afravih.org/](https://www.livre-afravih.org)
 
-![](https://www.livre-afravih.org/img/book.png)
+![](.gitbook/assets/livre\_afravih.png)
