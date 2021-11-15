@@ -5,3 +5,7 @@
 ## VIH
 
 * [À venir](vih/a-venir.md)
+
+***
+
+* [Contributeurs](contributeurs.md)
