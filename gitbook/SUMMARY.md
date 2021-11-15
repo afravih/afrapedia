@@ -6,6 +6,7 @@
 
 * [À venir](vih/a-venir.md)
 
-***
+## À propos
 
-* [Contributeurs](contributeurs.md)
+* [Contributeurs·rices](a-propos/contributeurs.md)
+* [Licence](a-propos/licence.md)
