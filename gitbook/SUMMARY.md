@@ -8,5 +8,5 @@
 
 ## À propos
 
-* [Contributeurs·rices](a-propos/contributeurs.md)
+* [Contributrices & Contributeur](a-propos/contributeurs.md)
 * [Licence](a-propos/licence.md)
