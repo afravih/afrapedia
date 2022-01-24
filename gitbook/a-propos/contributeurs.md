@@ -1,3 +1,3 @@
-# Contributeurs
+# Contributrices & Contributeurs
 
-Cette page accueillera la liste des personnes ayant contribué au _Manuel AFRAVIH_.
+Cette page accueillera la liste des personnes ayant contribué à l'AFRAPEDIA.
