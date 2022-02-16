@@ -1,6 +1,6 @@
 ---
-coverY: 0
-cover: .gitbook/assets/cover_livre_afravih.png
+coverY: 199.51824817518252
+cover: .gitbook/assets/bannière 2 AFRAPEDIA test.png
 ---
 
 # Introduction
