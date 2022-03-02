@@ -1,6 +1,6 @@
 ---
-coverY: 565.301703163017
-cover: .gitbook/assets/bannière 1 AFRAPEDIA V4 avec logo.png
+coverY: 299.2773722627737
+cover: .gitbook/assets/bannière 1 AFRAPEDIA test Gitbook.png
 ---
 
 # Introduction
