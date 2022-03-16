@@ -4,7 +4,7 @@ description: Charlotte Charpentier & Christine Katlama
 
 # Qu'est-ce que le VIH ?
 
-## Qu’est ce qu’un virus ?
+### Qu’est ce qu’un virus ?
 
 ![](../.gitbook/assets/Virus.png)
 
@@ -46,7 +46,7 @@ La proportion de virus recombinants est de 23 %. **** En Afrique centrale, circu
 
 ![Figure 3. Répartition des sous-types viraux dans le monde, d’après M. Peeter (2000)](<../.gitbook/assets/Figure 3.png>)
 
-## **Variabilité du VIH**
+### **Variabilité du VIH**
 
 Le VIH dispose d’une capacité très importante de muter, de faire varier son apparence et son contenu, en se reproduisant mais jamais complètement à l’identique, en mutant notamment sur ses enzymes. Sa diversité génétique est grande ; on dit qu’il est très variable.
 
@@ -59,7 +59,7 @@ Cette variabilité des VIH leur confère la possibilité de :
 * développer des mutations de résistance aux médicaments antirétroviraux,
 * échapper à l’action des anticorps produits par le système immunitaire en réaction à l’infection virale.
 
-## **Structure du VIH**
+### **Structure du VIH**
 
 Le VIH a une structure sphérique d’environ 100 nm de diamètre, avec une enveloppe composée d’une bicouche lipidique d’origine cellulaire et de la glycoprotéine d’enveloppe.
 
@@ -73,11 +73,11 @@ L’enveloppe virale est constituée de deux parties : une sous-unité transmemb
 
 Les cellules cibles du VIH portent à leur surface le principal récepteur du VIH : la molécule CD4. Ces cellules sont les lymphocytes T CD4+, en moindre proportion les macrophages, cellules chargées d’éliminer les éléments pathogènes intrus et les cellules dendritiques, chargées quant à elles d’apporter aux ganglions lymphatiques, piliers du système immunitaire, la particule virale à éliminer. Mais ce faisant, ces cellules circulantes vont contribuer à la dissémination du virus dans tout l’organisme.
 
-## **Cycle de multiplication du VIH**
+### <mark style="color:orange;">**Cycle de multiplication du VIH**</mark>
 
 ![Figure 5. Les étapes du cycle de réplication virale](<../.gitbook/assets/Figure 5.png>)
 
-### _Entrée du virus dans la cellule_
+#### _Entrée du virus dans la cellule_
 
 L’entrée du virus dans la cellule cible se fait en trois étapes consécutives :
 
@@ -85,17 +85,17 @@ L’entrée du virus dans la cellule cible se fait en trois étapes consécutive
 * Liaison de la glycoprotéine de surface à un corécepteur qui est une molécule insérée dans la membrane cytoplasmique de la cellule cible. Il existe deux principaux corécepteurs : (i) CCR5, principalement présent sur les monocytes-macrophages, et (ii) CXCR4, principalement présent sur les lymphocytes T ;
 * Fusion entre l’enveloppe virale et la membrane cellulaire, réalisée par la glycoprotéine transmembranaire de surface qui permet l’introduction de la particule virale à l’intérieur de la cellule.
 
-### _Rétro-transcription par la transcriptase inverse virale (TI)_
+#### _Rétro-transcription par la transcriptase inverse virale (TI)_
 
 Par une opération complexe, la TI va synthétiser un double brin d’ADN viral à partir du génome viral à ARN. La TI doit, de façon répétée, s’attacher et se détacher de l’ADN et de l’ARN viral, et c’est à cette étape que survient le risque d’erreur par dérapage à chaque ré-attachement et donc l’introduction de mutations. Or, ces erreurs ne peuvent pas être corrigées car la TI du VIH ne possède pas de propriété de « relecture ».
 
-### _Intégration de l’ADN viral_
+#### _Intégration de l’ADN viral_
 
 Cet ADN double brin est ensuite importé dans le noyau de la cellule lymphocytaire au sein d’un complexe de pré-intégration, puis intégré dans le génome humain par l’intégrase virale. Il est alors appelé ADN proviral.
 
 Une partie de cet ADN VIH intégré dans le noyau du lymphocyte CD4, niché dans ses chromosomes, va rester en sommeil. L’autre partie va refabriquer de l’ARN, se multiplier et produire de nouveaux virions (nouvelles copies du virus).
 
-### _Étapes tardives du cycle de réplication virale_
+#### _Étapes tardives du cycle de réplication virale_
 
 Une fois dans le cytoplasme, l’ARN doit refabriquer les protéines structurelles du VIH. Ainsi, les gènes constitutifs du VIH (Gag et Pol), _via_ l’action de la protéase virale, vont conduire à la fabrication des nouveaux virus. Une étape de maturation va permettre que soient libérés des virions.
 
