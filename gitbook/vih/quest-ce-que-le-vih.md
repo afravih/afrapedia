@@ -50,7 +50,7 @@ La proportion de virus recombinants est de 23 %. **** En Afrique centrale, circu
 
 Le VIH dispose d’une capacité très importante de muter, de faire varier son apparence et son contenu, en se reproduisant mais jamais complètement à l’identique, en mutant notamment sur ses enzymes. Sa diversité génétique est grande ; on dit qu’il est très variable.
 
-Le facteur le plus contributif à la diversité génétique du VIH est le taux d’erreur de l’enzyme virale Transcriptase Inverse (TI), quand elle recopie le génome viral au cours du cycle de réplication. Cette introduction de mutations à une fréquence élevée, associée à un taux élevé de réplication virale (entre 109 et 1010 nouveaux virus produits par jour chez une personne infectée ) en absence de traitement, génère une quantité importante de variants viraux par jour, appelés quasi-espèces.
+Le facteur le plus contributif à la diversité génétique du VIH est le taux d’erreur de l’enzyme virale Transcriptase Inverse (TI), quand elle recopie le génome viral au cours du cycle de réplication. Cette introduction de mutations à une fréquence élevée, associée à un taux élevé de réplication virale (entre 109 et 1010 nouveaux virus produits par jour chez une personne infectée) en absence de traitement, génère une quantité importante de variants viraux par jour, appelés quasi-espèces.
 
 À ces deux facteurs s’ajoutent les phénomènes de recombinaison entre deux génomes viraux, phénomène habituel entre virus qui s’échangent ainsi du matériel génétique.&#x20;
 
