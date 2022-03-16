@@ -1,6 +1,6 @@
 ---
+cover: .gitbook/assets/bannière 1 AFRAPEDIA test Gitbook.png
 coverY: 299.2773722627737
-cover: .gitbook/assets/bannière 1 AFRAPEDIA test Gitbook.png
 ---
 
 # Introduction
