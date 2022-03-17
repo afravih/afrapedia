@@ -4,7 +4,7 @@ description: Charlotte Charpentier & Christine Katlama
 
 # Qu'est-ce que le VIH ?
 
-### Qu’est ce qu’un virus ?
+### Qu’est-ce qu’un virus ?
 
 ![](../.gitbook/assets/Virus.png)
 
