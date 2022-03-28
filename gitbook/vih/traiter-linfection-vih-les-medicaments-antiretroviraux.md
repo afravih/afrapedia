@@ -1,8 +1,8 @@
 # Traiter l'infection VIH : les médicaments antirétroviraux
 
-Le développement des médicaments ARV a connu un développement spectaculaire depuis près de 30 ans. Les progrès ont concerné d’abord l’efficacité avec une puissance plus grande ( du simple au triple ) , la simplicité des prises - on est passé de plusieurs gélules plusieurs fois par jour à un traitement en une prise une fois par jour ! enfin la robustesse vis-à-vis de la résistance . Le défi en cours est celui des molécules longue durée, actives pendant plusieurs semaines ou plusieurs mois. Ces médicaments récents ont permis de faire évoluer les stratégies thérapeutiques (Chapitre XX )
+Le développement des médicaments ARV a connu un développement spectaculaire depuis près de 30 ans. Les progrès ont concerné d’abord l’efficacité avec une puissance plus grande ( du simple au triple ) , la simplicité des prises - on est passé de plusieurs gélules plusieurs fois par jour à un traitement en une prise une fois par jour ! enfin la robustesse vis-à-vis de la résistance . Le défi en cours est celui des molécules longue durée, actives pendant plusieurs semaines ou plusieurs mois. Ces médicaments récents ont permis de faire évoluer les stratégies thérapeutiques ([Chapitre "Traiter l'infection VIH : les stratégies thérapeutiques antirétrovirales](traiter-linfection-vih-les-strategies-therapeutiques-antiretrovirales.md))
 
-**Un peu d’histoire**
+## **Un peu d’histoire**
 
 L’histoire de la thérapeutique anti VIH débute à partir de 1986. Le VIH/SIDA a déjà commencé sa course mortifère avec la mort inéluctable des patients diagnostiqués à un stade d’immunodépression majeure . Si on arrive à traiter quelques-unes des infections opportunistes qui caractérisent le sida, l’impuissance à contrôler la production de milliards de virus VIH par jour conduisait habituellement au décès en moins de 2 ans .
 
@@ -20,9 +20,9 @@ La nécessité d’un _traitement à vie_, sans interruption puisque le VIH ne p
 
 ![](<../.gitbook/assets/0 (3)>)
 
-Les antirétroviraux (ARV) sont des molécules chimiques qui vont empêcher le déroulement du cycle du VIH (voir chapitre C2 ) en empêchant (inhibant) les enzymes qui activent une ou plusieurs étapes du cycle ce qui conduit à l’arêt de la production de nouveaux virus .
+Les antirétroviraux (ARV) sont des molécules chimiques qui vont empêcher le déroulement du cycle du VIH ([cf chapitre "Qu'est-ce que le VIH ?"](quest-ce-que-le-vih.md)) en empêchant (inhibant) les enzymes qui activent une ou plusieurs étapes du cycle ce qui conduit à l’arêt de la production de nouveaux virus.
 
-Plusieurs molécules / médicaments peuvent avoir la même action inhibitrice sur une enzymes. Tous les médicaments ayant la même action sur une enzymes appartiennent à la même classe. Les classes de molécules utilisées aujourd’hui en routine sont :
+Plusieurs molécules / médicaments peuvent avoir la même action inhibitrice sur une enzyme. Tous les médicaments ayant la même action sur une enzyme appartiennent à la même classe. Les classes de molécules utilisées aujourd’hui en routine sont :
 
 * Les INTI : inhibiteurs nucléosidiques ou nucléotidiques de la transcriptase inverse
 * Les INNTI : inhibiteurs non nucléosidiques de la transcriptase inverse
@@ -30,12 +30,13 @@ Plusieurs molécules / médicaments peuvent avoir la même action inhibitrice su
 * Les INI : inhibiteurs d’intégrase
 * Les inhibiteurs d’entrée
 
-En développement : Un inhibiteur de capside
+En développement : un inhibiteur de capside
 
 ![](<../.gitbook/assets/1 (4)>)
 
 ![](<../.gitbook/assets/2 (4)>)
 
+{% hint style="info" %}
 **Abréviations des antirétroviraux**
 
 **INTI : Inhibiteurs nucléos(t)idiques de la transcriptase inverse**
@@ -57,10 +58,13 @@ BIC : bictégravir – CAB : cabotégravir – DTG : dolutégravir – EVG : elv
 **Inhibiteur du CCR5**
 
 MVC : maraviroc
+{% endhint %}
 
+{% hint style="warning" %}
 Le site de l’_European Medicines Agency_ (EMA) [https://www.ema.europa.eu/en ](https://www.ema.europa.eu/en)permet d’accéder aux dernières informations à jour sur les médicaments concernés.
+{% endhint %}
 
-**Les inhibiteurs nucléos(t)idiques de la transcriptase inverse (INTI)**
+## **Les inhibiteurs nucléos(t)idiques de la transcriptase inverse (INTI)**
 
 En 1986, la zidovudine (ZDV) a été le premier ARV à démontrer un bénéfice clinique, seul critère d’évaluation à l’époque. La charge virale plasmatique ne deviendra le marqueur d’évaluation des ARV que dix ans plus tard. Jusqu’en 1996, les INTI ont été les seuls ARV disponibles : didanosine (ddI), stavudine (d4T), didéoxycytidine (ddC) et lamivudine (3TC). Au début des années 2000, sont mis sur le marché abacavir (ABC), emtricitabine (FTC) et ténofovir disoproxil fumarate (TDF), permettant l’abandon progressif des INTI les plus toxiques (ddI, d4T et ddC), puis en 2016 le ténofovir alafénamide (TAF).
 
@@ -68,29 +72,31 @@ Cette classe de médicaments, la plus ancienne dans l’arsenal thérapeutique, 
 
 Les INTI sont des molécules de petite masse molaire (<300 g/mol), ce qui permet qu’ils soient aisément co-formulés. Dérivés des nucléosides naturels, ils bloquent l’enzyme permettant la synthèse d’ADN complémentaire à partir de l’ARN viral, avant son intégration dans le génome de la cellule infectée. Ces composés sont actifs sur le VIH-1 et le VIH-2.
 
-_Puissance virologique_
+### _Puissance virologique_
 
 Les INTI sont des médicaments modérément puissants, qui réduisent la charge virale VIH d’en moyenne 1 log10 soit un facteur 10 (3TC) jusqu’à 1,5 log10 (ABC, TDF, TAF).
 
-Une puissance ARV de 1 log10 fait passer une charge virale de 100 000 copies ARN/mL à 10 000 cp/mL , 2 log de 100 000 cp/mL à 1000 cp/ml .
+Une puissance ARV de 1 log10 fait passer une charge virale de 100 000 copies ARN/mL à 10 000 cp/mL, 2 log de 100 000 cp/mL à 1000 cp/ml.
 
-Outre leur activité sur VIH , le TDF, le TAF et la lamivudine sont très efficaces sur le virus de l’hépatite B (VHB ) ;
+Outre leur activité sur VIH, le TDF, le TAF et la lamivudine sont très efficaces sur le virus de l’hépatite B (VHB) ;
 
 Tout patient co-infecté VIH et VHB doit bénéficier d’un traitement ARV comportant TDF/FTC ou TAF/FTC.
 
-**Résistance** _HINT INFO_
+{% hint style="info" %}
+**Résistance**
 
 **Le traitement : un combat entre le virus et le médicament**
 
 Le virus, comme tout être vivant, doit survivre.
 
-Si les médicaments qu’on administre face à lui ne sont pas capables de le rendre indetectable , alors le virus sélectionne au sein de sa population des particules virales qui seront devenues résistantes à cette molécule .
+Si les médicaments qu’on administre face à lui ne sont pas capables de le rendre indétectable, alors le virus sélectionne au sein de sa population des particules virales qui seront devenues résistantes à cette molécule.
 
-Si le virus se réplique en présence de médicament , Il va induire de la résistance contre ces molécules. Cette capacité de générer de la résistance depend de chaque medicament et de chaque classe . On parle de barrière génétique à la résistance. Plus elle est faible, plus grand sera le risque de survenue de la résistance .
+Si le virus se réplique en présence de médicament , Il va induire de la résistance contre ces molécules. Cette capacité de générer de la résistance depend de chaque medicament et de chaque classe. On parle de barrière génétique à la résistance. Plus elle est faible, plus grand sera le risque de survenue de la résistance.
+{% endhint %}
 
-Au sein de la classe des INTI , la barrière génétique à la résistance est assez élevée pour TDF ou TAF , faible pour 3TC , intermédiaire pour les autres .
+Au sein de la classe des INTI, la barrière génétique à la résistance est assez élevée pour TDF ou TAF, faible pour 3TC, intermédiaire pour les autres.
 
-_Tolérance_
+### _Tolérance_
 
 Les INTI de première génération (AZT, d4T, ddI, ddC) se sont révélés mal tolérés, avec la survenue d’effets secondaires en lien avec leur toxicité mitochondriale (baisse des globules sanguins avec anémie pour l’AZT, troubles digestifs, douleurs musculaires, perte de la graisse avec creusement des joues, neuropathie des membres inférieurs). Pour ces raisons, ils ne sont plus recommandés.
 
@@ -100,7 +106,7 @@ L’**abacavir (ABC)** est bien toléré ; cependant, il ne doit pas être utili
 
 Les __ **ténofovir (TDF ou TAF)** sont de loin les INTI les plus utilisés, combinés à 3TC ou FTC Leur tolérance clinique est bonne. Cependant, dans de rares cas (moins de 2%), le TDF peut endommager la fonction rénale (il faut surveiller la créatinine dans le sang). Par ailleurs, le TDF est associé à une déminéralisation osseuse plus importante que les autres ARV, sans qu’un risque plus élevé de fracture osseuse ait été clairement démontré. Ces inconvénients sont bien moins importants avec le TAF.
 
-**Les inhibiteurs non nucléosidiques de la transcriptase inverse (INNTI)**
+## **Les inhibiteurs non nucléosidiques de la transcriptase inverse (INNTI)**
 
 Trente ans après le début de l’ère des traitements antirétroviraux hautement actifs, les INNTI restent l’une des quatre classes majeures de l’arsenal thérapeutique dans l’infection à VIH.
 
@@ -133,29 +139,28 @@ TAF/FTC/RPV (Odefsey®)
 TDF/3TC/DOR (Delstrigo®)
 
 * de comprimés en association avec dolutégravir : DTG/RPV (Juluca®)
+* la rilpivirine existe sous forme injectable (Rekambys®) administrée en intramusculaire tous les 2 mois.
 
-\- la rilpivirine existe sous forme injectable (Rekambys®) administrée en intramusculaire tous les 2 mois.
-
-_Efficacité_&#x20;
+### _Efficacité_&#x20;
 
 Les INNTI sont de puissants antirétroviraux (réduction virale de plus de 1 log10). En revanche, ils ne sont pas actifs sur VIH-2.
 
-_Pharmacologie_
+### _Pharmacologie_
 
 Tous les INNTI, sauf la doravirine, induisent des interactions médicamenteuses, c’est-à-dire qu’administrés en même temps que d’autres médicaments :
 
-* leur concentration sanguine peut augmenter et exposer alors à un risque de toxicité ;
+* leur concentration sanguine peut augmenter et exposer alors à un risque de toxicité;
 * ou bien eux-mêmes peuvent diminuer les concentrations des médicaments associés et donc en réduire l’efficacité.
 
-_Tolérance_
+### _Tolérance_
 
 Leurs effets secondaires sont liés à une hypersensibilité, rare, qui apparait précocement (premières semaines du traitement) et qui doit conduire à leur interruption. D’autres effets concernent des troubles de la sphère neuropsychique : troubles du sommeil, rêves anormaux, troubles de l’humeur, dépression. En revanche, ils n’entrainent pas d’effets délétères rénaux, lipidiques et métaboliques ni une modification du poids, et sont adaptés à la prise au long cours.
 
-_Résistance_
+### _Résistance_
 
 La barrière génétique des INNTI est faible à l’exception d’étravirine ou doravirine, les plus récemment développés. En cas de réplication persistante, des mutations de résistance émergent rapidement avec névirapine, efavirenz et rilpivirine notamment. Etravirine et doravirine peuvent perdre de leur efficacité en cas de mutations à névirapine, efavirenz, rilpivirine.
 
-**Les inhibiteurs de protéase (IP)**
+## **Les inhibiteurs de protéase (IP)**
 
 En 1996, l’arrivée de la classe des inhibiteurs de la protéase du VIH, puissants et actifs sur les virus résistants aux INTI, a marqué le début de l’ère des _Highly Active Antiretroviral Therapies_ (HAART ou cART) et a révolutionné la thérapie. En 2022, cette classe d’ARV occupe toujours une place importante même si elle n’occupe plus le devant de la scène thérapeutique.
 
@@ -177,19 +182,19 @@ Les IP les plus anciens tels que indinavir (Crixivan®), saquinavir (Invirase®)
 
 Il peut s’utiliser en une prise quotidienne en l’absence de résistance ou en deux prises en cas de résistance aux IP.
 
-_Tolérance_
+### _Tolérance_
 
 Les IP peuvent occasionner des troubles digestifs (diarrhées, embarras gastrique), une augmentation du cholestérol et des triglycérides, un subictère (« jaunisse »).
 
-_Résistance_
+### _Résistance_
 
 Les IP ont tous une barrière à la résistance élevée, c’est-à-dire une capacité importante à résister à la « résistance ». D’une part, l’acquisition de mutations par le virus est relativement lente en comparaison des INNTI ou des INTI. D’autre part, il faut plusieurs mutations pour impacter négativement leur efficacité.
 
 Même s’ils ont souvent perdu leur place de troisième agent préféré en initiation de traitement au profit des INI, les IP, et en particulier DRV, constituent une classe très solide d’ARV, indispensables partenaires d’un traitement antirétroviral qui doit assurer une charge virale indétectable toute la vie. Leur robustesse virologique, leur souplesse pharmacologique avec l’utilisation possible de dosages plus faibles, leur efficacité dans des stratégies allégées en bithérapie IP + 3TC, constituent des atouts pour aller vers une adaptation plus grande des traitements ARV à l’individu.
 
-**Les inhibiteurs de l’intégrase (INI)**
+## **Les inhibiteurs de l’intégrase (INI)**
 
-Le développement des inhibiteurs de l’intégrase du VIH (INI), une classe nouvelle d’ARV avec un mécanisme d’action innovant l’inhibition de l’intégration du VIH dans le noyau de la cellules infectée , débuté à la fin des années 1990 avec le raltégravir commercialisé en 2007 , a permis de franchir une étape majeure dans la thérapeutique Actuellement, les INI constituent une classe majeure de l’arsenal thérapeutique et ont fait leur entrée dans toutes les recommandations mondiales, de l’initiation aux lignes ultérieures.
+Le développement des inhibiteurs de l’intégrase du VIH (INI), une classe nouvelle d’ARV avec un mécanisme d’action innovant l’inhibition de l’intégration du VIH dans le noyau de la cellules infectée, débuté à la fin des années 1990 avec le raltégravir commercialisé en 2007, a permis de franchir une étape majeure dans la thérapeutique Actuellement, les INI constituent une classe majeure de l’arsenal thérapeutique et ont fait leur entrée dans toutes les recommandations mondiales, de l’initiation aux lignes ultérieures.
 
 Il existe cinq médicaments actifs sur VIH-1 et VIH-2, par voie orale ou injectable (« _Long Acting_ » en intramusculaire), en composé simple comme en combinaison fixe, en bi- ou mono-prise quotidienne, associés soit avec des INTI en bi- ou trithérapie soit avec un INNTI en bithérapie :
 
@@ -199,23 +204,23 @@ Il existe cinq médicaments actifs sur VIH-1 et VIH-2, par voie orale ou injecta
 * **bictégravir** qui n’existe que combiné à TAF/FTC (Bictarvy®)
 * **cabotégravir** oral (un mois) puis _IM_ (Vocabria®)
 
-_Efficacité_&#x20;
+### _Efficacité_&#x20;
 
 Les INI entraînent une décroissance rapide de la charge virale plasmatique, conduisant plus rapidement à son indétectabilité que les INNTI ou les IP.
 
 Ils n’entrainent pas d’interactions majeures ni avec les autres ARV ni avec les médicaments associés.
 
-_Résistance_
+### _Résistance_
 
 Les INI de première génération (RAL et EVG) ont une faible barrière génétique à la résistance. Les molécules de deuxième génération comme DTG ou BIC ont une barrière génétique élevée à la résistance avec tres peu /voire pas de résistance en cas d’échec à DTG chez les patients naïfs d’ARV. _****_ La barrière génétique à la résistance de CAB semble intermédiaire entre celles des INI de première et de deuxième génération.
 
-_Tolérance_
+### _Tolérance_
 
 Les INI sont bien tolérés avec peu (moins de 5%) d’effets secondaires nécessitant leur interruption. Des troubles neuropsychiques sont possibles : insomnie, cauchemars, troubles de la concentration, vertiges, maux de tête.
 
 Des prises de poids parfois notables (entre 5 et 10 kg) ont été observées sous INI, en particulier avec DTG et BIC, moins avec RAL et peu avec EVG chez des patients en initiation de traitement. Ce phénomène est moins net chez des patients contrôlés virologiquement chez lesquels est introduit l’INI. Initialement impliqué dans des anomalies fœtales neurologiques chez les femmes enceintes, le DTG n’est maintenant plus contre-indiqué chez la femme enceinte compte tenu d’un ratio bénéfice /risque important.
 
-**Les inhibiteurs d’entrée**
+## **Les inhibiteurs d’entrée**
 
 Les inhibiteurs de l’entrée du VIH dans les cellules cibles humaines se répartissent en plusieurs classes de molécules, chacune ayant un mécanisme de blocage spécifique d’une étape des différentes interactions entre constituants de l’enveloppe virale et de la surface cellulaire. Ce processus d’entrée complexe peut être divisé en trois étapes :
 
@@ -225,7 +230,7 @@ Les inhibiteurs de l’entrée du VIH dans les cellules cibles humaines se répa
 
 **Schéma des étapes d’entrée du VIH et des cibles des inhibiteurs d’entrée**
 
-![](../.gitbook/assets/3)
+![](<../.gitbook/assets/schéma C12.png>)
 
 **Enfuvirtide** **(ENF ou T20)**
 
@@ -245,7 +250,7 @@ Ibalizumab (Trogarzo®) est un anticorps monoclonal, indiqué en association ave
 
 Il s’administre par voie intraveineuse avec une dose de charge initiale (2 g) puis une perfusion toutes les 2 semaines (800 mg). Sa puissance est de 0,5 à 1,7 log10 copies/ml. Sa voie d’administration et son coût limitent son utilisation.
 
-**Médicaments en développement**
+## **Médicaments en développement**
 
 La recherche en matière d’ARV continue fort heureusement de se développer, avec un focus essentiel sur les médicaments dits à longue durée.
 
@@ -255,6 +260,8 @@ Le lenacapavir est un médicament puissant (>1,5 log10), actif sur les virus ré
 
 Si son efficacité et sa bonne tolérance se confirment dans les essais en cours, de nouvelles perspectives de prise en charge seront ouvertes, tant en traitement qu’en prévention de l’infection VIH.
 
+{% hint style="success" %}
 * Les médicaments antirétroviraux disponibles permettent d’obtenir le contrôle de la réplication virale chez tous les patients vivant avec le VIH.
 * Ils doivent être pris à vie car aucun d’entre eux ne permet d’éradiquer le VIH.
 * Tous ces médicaments conduisent à de la résistance, en cas de réplication persistante sous ARV.
+{% endhint %}
