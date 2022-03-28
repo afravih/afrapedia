@@ -53,7 +53,7 @@ Ainsi on décrit :
 
 Ces puissantes défenses spécifiques vont permettre de contrôler partiellement seulement, le pic de réplication virale initial, sans toutefois assurer son éradication **\[2]**.
 
-![](../../.gitbook/assets/0)
+![](<../../.gitbook/assets/0 (6)>)
 
 **Mécanismes d’échappement immunitaire du VIH**
 
