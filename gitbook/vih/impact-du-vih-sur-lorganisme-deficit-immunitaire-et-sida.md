@@ -16,9 +16,9 @@ _La deuxième ligne de défense_ est composée de casernes spécialisées relié
 
 Ces lymphocytes sont chargés des défenses « intelligentes », adaptées à chaque agent infectieux : on parle _d’immunité adaptative_. Les lymphocytes se répartissent en deux groupes ou corps d’armée: le premier, les lymphocytes T, travaillent directement de cellule à cellule, comme des fantassins ; la moitié porte à leur surface la molécule CD4 et a pour rôle de commander à toutes les autres cellules immunes de se mettre en ordre de bataille.
 
-![](<../.gitbook/assets/2 (3)>)
+![Un lymphocyte CD8](<../.gitbook/assets/2 (3)>)
 
-D’autres lymphocytes T, appelés CD8+, sont chargés de détruire les cellules infectées dans les tissus malades. Le second corps d’armée, les lymphocytes B, agit comme des artilleurs et produit des anticorps envoyés partout dans le corps pour le protéger contre les microbes. En situation normale environ 2% de tous ces lymphocytes circulent dans le sang : la moitié est composée de lymphocytes CD4+ et un quart de lymphocytes CD8. Un lymphocyte CD8
+D’autres lymphocytes T, appelés CD8+, sont chargés de détruire les cellules infectées dans les tissus malades. Le second corps d’armée, les lymphocytes B, agit comme des artilleurs et produit des anticorps envoyés partout dans le corps pour le protéger contre les microbes. En situation normale environ 2% de tous ces lymphocytes circulent dans le sang : la moitié est composée de lymphocytes CD4+ et un quart de lymphocytes CD8.&#x20;
 
 Ainsi, le taux normal de lymphocytes CD4+ sanguins est en moyenne autour de 1000/mm3. On évalue également le bon fonctionnement du système immunitaire avec le rapport CD4/CD8 qui est normalement égal ou supérieur à un. Les taux de l’ensemble des lymphocytes sanguins reflètent non seulement les lymphocytes T CD4+, représentant habituellement entre 35 et 60% des lymphocytes, mais aussi les lymphocytes T CD8+, entre 15 et 35%, les lymphocytes B et les lymphocytes NK, chacun entre 5 et 10%.
 
@@ -56,7 +56,7 @@ La quasi-totalité du virus (90-95%) se trouve dans les lymphocytes T CD4 qui re
 
 ### _Ces lymphocytes T CD4+ mémoire constituent ainsi le réservoir principal de VIH._
 
-L’ADN de celui-ci est intégré dans le noyau de la cellule qui l’héberge. Or, pour se répliquer le VIH a besoin que la cellule CD4+ s’active : ainsi l’activation de défenses immunes contre n’importe quel agent infectieux ou vaccin déclenchera fatalement la production de VIH. C’est le phénomène de la « belle au bois dormant » : à tout moment il y aura deux types de cellules CD4+ infectées : les cellules dormantes au repos, non activées et incapables de produire du virus, et des cellules CD4+ qui ont reçu un signal d’activation, se réveillant au contact du baiser du prince charmant mais produisant alors automatiquement du VIH. Comme nous le verrons plus loin, le VIH des cellules dormantes n’est pas sensible aux antirétroviraux et constitue le réservoir latent du virus pouvant se maintenir durant des dizaines d’années
+L’ADN de celui-ci est intégré dans le noyau de la cellule qui l’héberge. Or, pour se répliquer le VIH a besoin que la cellule CD4+ s’active : ainsi l’activation de défenses immunes contre n’importe quel agent infectieux ou vaccin déclenchera fatalement la production de VIH. C’est le phénomène de la « belle au bois dormant » : à tout moment il y aura deux types de cellules CD4+ infectées : les cellules dormantes au repos, non activées et incapables de produire du virus, et des cellules CD4+ qui ont reçu un signal d’activation, se réveillant au contact du baiser du prince charmant mais produisant alors automatiquement du VIH. Comme nous le verrons plus loin, le VIH des cellules dormantes n’est pas sensible aux antirétroviraux et constitue le réservoir latent du virus pouvant se maintenir durant des dizaines d’années.
 
 ## **Comment le VIH détruit-il le système immunitaire et conduit-il au SIDA?**
 
@@ -76,7 +76,7 @@ La lymphopénie T CD4+ chez les enfants est plus difficile à évaluer en cas d�
 
 De façon tout à fait exceptionnelle, chez certaines personnes, cette lymphopénie CD4 ne se produit pas ou très lentement et leur système immunitaire parvient à contrôler fortement et durablement le VIH, grâce à des gènes très particuliers. On parle de non progresseurs ou de Contrôleurs (_HIV Controllers_) mais ceux-ci représentent moins de 1% de l’ensemble des personnes infectées par le VIH.
 
-Plusieurs mécanismes interviennent dans cette perte de lymphocytes T CD4+
+Plusieurs mécanismes interviennent dans cette perte de lymphocytes T CD4+ :
 
 * _Destruction des cellules CD4+ infectées par le virus lui-même et par les défenses immunes_
 
@@ -94,7 +94,7 @@ Le renouvellement normal des stocks de lymphocytes T CD4+, ne suffit pas à comp
 
 De plus l’activation permanente des lymphocytes CD4 mémoires non infectés conduit à un épuisement les rendant incapables de se multiplier.
 
-_Perte des fonctions de défense et maladies opportunistes_
+* _Perte des fonctions de défense et maladies opportunistes_
 
 Cette lymphopénie T CD4+ désorganise toutes les lignes de défense immune, elles-mêmes altérées par l’inflammation et l’épuisement chronique.
 
@@ -110,7 +110,7 @@ A partir du moment où les 1eres infections et cancers opportunistes apparaissen
 
 __
 
-![Figure 3 : Lymphopénie CD4 et SIDA](<../.gitbook/assets/Capture d’écran 2022-03-28 à 14.40.35.png>)
+![Figure 3 : Lymphopénie CD4 et SIDA](<../.gitbook/assets/Capture d’écran 2022-03-28 à 14.40.35.png>)
 
 ## **Restauration immunitaire sous antirétroviraux**
 
