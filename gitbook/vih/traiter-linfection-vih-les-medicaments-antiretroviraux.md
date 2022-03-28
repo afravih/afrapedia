@@ -4,17 +4,17 @@ Le développement des médicaments ARV a connu un développement spectaculaire d
 
 ## **Un peu d’histoire**
 
-L’histoire de la thérapeutique anti VIH débute à partir de 1986. Le VIH/SIDA a déjà commencé sa course mortifère avec la mort inéluctable des patients diagnostiqués à un stade d’immunodépression majeure . Si on arrive à traiter quelques-unes des infections opportunistes qui caractérisent le sida, l’impuissance à contrôler la production de milliards de virus VIH par jour conduisait habituellement au décès en moins de 2 ans .
+L’histoire de la thérapeutique anti VIH débute à partir de 1986. Le VIH/SIDA a déjà commencé sa course mortifère avec la mort inéluctable des patients diagnostiqués à un stade d’immunodépression majeure . Si on arrive à traiter quelques-unes des infections opportunistes qui caractérisent le sida, l’impuissance à contrôler la production de milliards de virus VIH par jour conduisait habituellement au décès en moins de 2 ans.
 
 A cette époque, les traitements antiviraux existent à peine ; on dispose tout juste de l’aciclovir contre les herpes virus qui justifieront un prix Nobel en 1988 pour la virologue biochimiste nord-américaine Gertrude Elion.
 
 Avec son pronostic impitoyable, incontestablement le VIH/SIDA va donner une impulsion majeure au développement des médicaments antiviraux qui se prolongera par la fantastique mise au point des médicaments anti hépatite C, infection que l’on guérit aujourd’hui complètement.
 
-En matière de VIH, la 1 ère classe utilisée est celle des INTI avec la zidovudine partir de 1986 , une molécule qui avait été évaluée sans succès dans un autre contexte. Sur son modèle, seront fabriquées d’autres molécules de la même classe. En parallèle, on constate que l’AZT utilisé seule (on parle de monothérapie) ne suffit pas face aux charges virales énormes qui caractérisent les patients que l’on traite dans ces années 1990 .
+En matière de VIH, la 1 ère classe utilisée est celle des INTI avec la zidovudine partir de 1986, une molécule qui avait été évaluée sans succès dans un autre contexte. Sur son modèle, seront fabriquées d’autres molécules de la même classe. En parallèle, on constate que l’AZT utilisé seule (on parle de monothérapie) ne suffit pas face aux charges virales énormes qui caractérisent les patients que l’on traite dans ces années 1990.
 
-Ce sera ensuite l’ère des bithérapies d’INTI. Puis, même si les bithérapies font un peu mieux que les monothérapies , on se rend compte sur la mesure de la charge virale , technique qui fait son apparition au milieu des années 90 , que la résistance se développe avec un virus incomplètement contrôlé. Viendra à partir de 1996 la révolution de la trithérapie composée d’un « socle «  de 2 INTIs et d’un 3eme médicament appartenant à la classe des IP ou INNTI .
+Ce sera ensuite l’ère des bithérapies d’INTI. Puis, même si les bithérapies font un peu mieux que les monothérapies, on se rend compte sur la mesure de la charge virale , technique qui fait son apparition au milieu des années 90 , que la résistance se développe avec un virus incomplètement contrôlé. Viendra à partir de 1996 la révolution de la trithérapie composée d’un "socle" de 2 INTIs et d’un 3eme médicament appartenant à la classe des IP ou INNTI.
 
-Depuis 30 ans , le développement des médicaments anti rétroviraux ( actif sur les rétrovirus VIH ) s’est poursuivi dans le sens d’une moindre toxicité , d’une plus grande simplicité de prise , d’une plus grande efficacité sur des virus résistants . Il existe actuellement 8 classes de médicaments et plus de 20 médicaments ont été développés au cours du temps .
+Depuis 30 ans, le développement des médicaments anti rétroviraux (actif sur les rétrovirus VIH) s’est poursuivi dans le sens d’une moindre toxicité, d’une plus grande simplicité de prise , d’une plus grande efficacité sur des virus résistants . Il existe actuellement 8 classes de médicaments et plus de 20 médicaments ont été développés au cours du temps.
 
 La nécessité d’un _traitement à vie_, sans interruption puisque le VIH ne peut être éradiqué à orienter, la recherche médicamenteuse vers la mise au point de médicaments à longue durée d’action, permettant des prises espacées de plusieurs semaines voire plusieurs mois par voie injectable. Une nouvelle ère commence à la fois pour le traitement du VIH mais aussi la prévention.
 
@@ -230,7 +230,7 @@ Les inhibiteurs de l’entrée du VIH dans les cellules cibles humaines se répa
 
 **Schéma des étapes d’entrée du VIH et des cibles des inhibiteurs d’entrée**
 
-![](<../.gitbook/assets/schéma C12.png>)
+![](<../.gitbook/assets/schéma C12.png>)
 
 **Enfuvirtide** **(ENF ou T20)**
 
