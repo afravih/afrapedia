@@ -79,7 +79,7 @@ Les autotests sont des tests rapides, réalisés sur le sang total (sang du bout
 
 : un programme d’autotests en Afrique
 
-_Test de confirmation: Western Blot/Immunoblot_
+#### _Test de confirmation: Western Blot/Immunoblot_
 
 Le Western Blot est un test de confirmation réalisé après la découverte d’une sérologie ELISA positive (figure 3). Il permet de mettre en évidence les différents anticorps dirigés contre les différentes protéines du VIH.
 
@@ -89,19 +89,19 @@ Figure 3 Exemples de différents résultats de Western-Blot VIH-1, illustrant di
 
 ![](<../.gitbook/assets/6 (1)>)
 
-_Détection de l’antigène p24 (capside)_
+#### _Détection de l’antigène p24 (capside)_
 
 Elle se fait par technique ELISA. Son intérêt essentiel est le diagnostic d’une primo-infection VIH avant l’apparition des anticorps, car l’antigène p24 est détectable environ quinze jours après la contamination, alors que les anticorps sont présents seulement vingt-et-un à vingt-six jours après. Les tests ELISA combinés de 4e génération (antigène-anticorps) remplacent la recherche isolée de l’antigène p24.
 
-**Les outils virologiques du suivi de l’infection VIH**
+## **Les outils virologiques du suivi de l’infection VIH**
 
 Lorsqu’apparait l’épidémie en 1981 ou même lorsque le VIH est découvert, la virologie clinique est balbutiante. Seule la quantification de l’antigénémie VIH, imparfaite mesure de quantification, sera disponible au début des années 1990. Il faudra attendre 1995 pour que la mise au point des techniques PCR (_Polymerase Chain Reaction)_ en routine puisse permettre de quantifier la production virale. C’est une technologie de biologie moléculaire très sensible qui mesure directement la production de virus.
 
 Actuellement, le suivi virologique est un élément clé pour évaluer l’efficacité d’un traitement ARV, déterminer si le virus est contrôlé (succès virologique) ou si persiste la réplication (échec virologique) et pouvoir confirmer la non-transmission.
 
-**Comment mesurer la réplication du VIH ?**
+### **Comment mesurer la réplication du VIH ?**
 
-_La technique PCR_
+#### _La technique PCR_
 
 L’ARN VIH dans le plasma (charge virale) est quantifié par des technologies d’amplification des acides nucléiques (_reverse transcriptase-polymerase chain reaction_ \[RT-PCR]). La première étape consiste en l’extraction de l’ARN, puis se déroule une étape d’amplification des quantités plus ou moins importantes d’acides nucléiques viraux qui vont être ciblées à l’aide d’amorces et de sondes spécifiques du génome viral VIH-1 (figure 4).
 
@@ -115,7 +115,7 @@ Les techniques de quantification permettent d’amplifier les différents groupe
 
 La charge virale (CV) peut se mesurer dans différents liquides biologiques : sang, sperme, secrétions vaginales, lait, liquide céphalorachidien pour apprécier la production de virus au niveau cérébral.
 
-_À quoi sert la mesure de la charge virale ?_
+#### _À quoi sert la mesure de la charge virale ?_
 
 La quantification de la réplication virale est un marqueur pronostique de l’évolution de l’infection sans traitement et permet de mesurer l’efficacité du traitement. La quantification de la CV est devenue une recommandation forte de l’OMS pour toutes les personnes vivant avec le VIH.
 
@@ -123,7 +123,7 @@ L’ARN viral est détectable dès sept à dix jours après la contamination. La
 
 La mesure de la CV est aussi indispensable à la prise en charge d’un patient sous traitement ARV. La réplication virale sous traitement mesurée par la CV a des conséquences importantes sur l’émergence de résistance aux ARV, ainsi que sur la transmission du VIH.
 
-_Approches alternatives à la quantification de la charge virale plasmatique_
+#### _Approches alternatives à la quantification de la charge virale plasmatique_
 
 Dans les pays à ressources limitées, le nombre restreint de laboratoires spécialisés aptes à pratiquer ces tests de biologie moléculaire a conduit au développement d’approches alternatives pour permettre l’accès plus large à la CV.
 
@@ -135,9 +135,9 @@ _- Système de charge virale en point of care (POC)_
 
 Ces techniques pourraient favoriser l’expansion nécessaire des tests de CV au niveau des sites décentralisés et pallier les contraintes de transport des échantillons et des DBS. De plus, elles permettent d’effectuer la CV à proximité du point de prise en charge du patient. De nombreux systèmes sont développés, incluant les étapes d’extraction et d’amplification en temps réel avec un rendu en moins de deux heures.
 
-**Résistance du VIH aux antirétroviraux**
+### **Résistance du VIH aux antirétroviraux**
 
-_Principes de la résistance du VIH aux antirétroviraux_
+#### _Principes de la résistance du VIH aux antirétroviraux_
 
 La résistance du VIH aux ARV est liée à la sélection de mutations au niveau des gènes qui codent les enzymes cibles des ARV. Cette résistance ne se développe qu’en cas de réplication virale persistant sous médicaments ARV.
 
@@ -155,7 +155,7 @@ Figure 5 Principe de la sélection de variants résistants sous pression de sél
 
 ![](../.gitbook/assets/9)
 
-### _Barrière génétique à la résistance_
+#### _Barrière génétique à la résistance_
 
 La barrière génétique à la résistance est définie par le nombre de mutations de résistance nécessaires pour induire la résistance à un ARV donné et par la rapidité à laquelle ces mutations sont sélectionnées en cas de réplication virale sous cet ARV. La résistance à certains ARV, névirapine ou lamivudine par exemple, est liée à la présence d’une seule mutation dans le gène de la transcriptase inverse. On parle alors de faible barrière génétique à la résistance (figure 6). Chez des individus qui n’ont jamais reçu ces ARV, avec une CV VIH plasmatique de 10 000 copies/mL, un génome viral portant déjà cette mutation peut être présent.
 
@@ -167,7 +167,7 @@ Figure 6 Principe de la barrière génétique à la résistance d’un antirétr
 
 ![](../.gitbook/assets/10)
 
-_Les techniques_
+#### _Les techniques_
 
 Les tests génotypiques d’analyse de la résistance aux ARV sont très largement utilisés pour la prise en charge thérapeutique des patients. Ils sont recommandés au moment du diagnostic avant l’initiation du traitement afin de rechercher une possible transmission de résistance, détectée dans environ 10% des nouvelles infections, et bien évidemment en cas d’échec sous traitement ARV.
 
@@ -209,7 +209,7 @@ Les pays du Sud souffrent d’un manque de ressources adaptées à ces technique
 
 Le prélèvement de sang séché sur papier buvard (DBS, _dried blood spot_ en anglais) est relativement facile à réaliser, stocker et transporter. Contrairement au sang total et au plasma, les contraintes liées à la chaîne du froid et au risque biologique sont réduites. Selon l’OMS, le DBS est un prélèvement fiable et adapté à la surveillance des résistances dans les pays du Sud. Les séquences obtenues sur DBS ont une bonne similarité comparée au plasma. La sensibilité (> 5 000 copies/ml) est cependant limitée en raison du faible volume de sang testé. Ce support de prélèvements permet d’effectuer les analyses de résistance de façon centralisée et élargissent aujourd’hui l’accès aux tests de résistance.
 
-**Quantifier le réservoir cellulaire (ADN VIH)**
+### **Quantifier le réservoir cellulaire (ADN VIH)**
 
 La taille du réservoir viral est estimée par la quantité d’ADN VIH présent dans les cellules cibles du VIH. L’ADN VIH dans les cellules sanguines cibles peut être détecté et/ou quantifié par PCR en copies par million de cellules sanguines mononuclées(PBMC).
 

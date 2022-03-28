@@ -54,7 +54,7 @@ Une nouvelle architecture de l’aide en santé s’est mise en place progressi
 
 Figure 1
 
-![](<../../.gitbook/assets/0 (1)>)\
+![](<../.gitbook/assets/0 (1)>)\
 
 
 La reconnaissance politique du sida comme menace pour le développement
@@ -77,13 +77,13 @@ Sur le plan financier, la lutte contre le sida fait l’objet d’une mobilisati
 
 Figure 2
 
-![Image 3](<../../.gitbook/assets/1 (1)>)
+![Image 3](<../.gitbook/assets/1 (1)>)
 
 L’épidémie devient la première priorité de l’aide en santé à partir de l’année 2003, devant la santé des enfants et des nouveau-nés, la santé sexuelle et maternelle, le paludisme, la tuberculose et le renforcement des systèmes de santé (source : _Institute for Health Metrics and Evaluation_ - IHME), et elle représente encore aujourd’hui presque le quart du budget de l’aide en santé. Au-delà de l’importance des volumes financiers récoltés grâce à cette dynamique mondiale, il est important de noter que le tiers des financements passe par des organisations multilatérales. La circulation des capitaux n’est plus uniquement interétatique, elle ne dépend plus seulement de règles fixées par les États entre eux, elle est devenue « globale » au sens où elle se développe dans un cadre étendu à l’échelle du monde, en incluant des acteurs non étatiques, comme les fondations.
 
 Figure 3
 
-![Espace réservé du contenu 4](<../../.gitbook/assets/2 (1)>)
+![Espace réservé du contenu 4](<../.gitbook/assets/2 (1)>)
 
 ### Évolution de la mobilisation financière
 
