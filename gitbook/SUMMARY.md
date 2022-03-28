@@ -15,8 +15,8 @@
 * [Politiques de réduction des risques liés à l'usage de drogues](vih/politiques-de-reduction-des-risques-lies-a-lusage-de-drogues.md)
 * [Organisation et financement de la riposte contre le VIH](vih/organisation-et-financement-de-la-riposte-contre-le-vih.md)
 * [Spécificités, organisation et financement de la riposte internationale contre le VIH](vih/specificites-organisation-et-financement-de-la-riposte-internationale-contre-le-vih/README.md)
-  * [C20 Défenses immunes et vaccins contre le VIH](vih/specificites-organisation-et-financement-de-la-riposte-internationale-contre-le-vih/c20-defenses-immunes-et-vaccins-contre-le-vih.md)
-  * [C20 Défenses immunes et vaccins contre le VIH](vih/specificites-organisation-et-financement-de-la-riposte-internationale-contre-le-vih/c20-defenses-immunes-et-vaccins-contre-le-vih-1.md)
+  * [C20 Défenses immunes et vaccins contre le VIH](vih/specificites-organisation-et-financement-de-la-riposte-internationale-contre-le-vih/c20-defenses-immunes-et-vaccins-contre-le-vih.md)
+  * [C20 Défenses immunes et vaccins contre le VIH](vih/specificites-organisation-et-financement-de-la-riposte-internationale-contre-le-vih/c20-defenses-immunes-et-vaccins-contre-le-vih-1.md)
 * [Ce qu'en pensent les personnes atteintes : qualité de vie, accès aux soins, stigmatisation](vih/ce-quen-pensent-les-personnes-atteintes-qualite-de-vie-acces-aux-soins-stigmatisation.md)
 
 ## À propos

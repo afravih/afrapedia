@@ -1,16 +1,8 @@
 # Les outils virologiques du diagnostic et du suivi de l'infection VIH
 
-**AFRAPEDIA C6**
+## **Diagnostic et dépistage**&#x20;
 
-**Les outils virologiques du dépistage, du diagnostic et du suivi**
-
-**de l’infection VIH**
-
-Charlotte Charpentier & Christine Katlama
-
-**Diagnostic et dépistage**&#x20;
-
-**Enjeux**
+### **Enjeux**
 
 Le dépistage et le diagnostic de l’infection à VIH sont des enjeux majeurs de la lutte contre l’épidémie, pour les individus comme pour la collectivité. L’enjeu, pour les individus, réside dans la prescription rapide d’un traitement antirétroviral (ARV) qui va réduire, voire supprimer, les complications et le risque de mortalité liés au VIH.
 
@@ -18,7 +10,7 @@ Au niveau de la collectivité, le traitement ARV précoce, conséquence bénéfi
 
 Le dépistage représente un outil important dans les stratégies de prévention en permettant, en cas de positivité du test, de débuter le traitement et renforcer les conseils pouvant éviter une transmission ou, en cas de test négatif, en proposant notamment une prophylaxie adaptée (préservatif, prophylaxie préexposition / PrEP, traitement post-exposition / TPE).
 
-**Outils du dépistage et du diagnostic**
+### **Outils du dépistage et du diagnostic**
 
 La temporalité d’apparition des marqueurs virologiques et immunologiques (figure 1) permet de comprendre les indications et les limites des différents tests de dépistage. Après la contamination, une période d’environ dix jours, dite d’« éclipse » ou « fenêtre virologique », est caractérisée par l’absence de tout marqueur détectable. L’ARN VIH plasmatique est le marqueur virologique le plus précoce, qui peut être détecté dans un délai médian de dix jours après la contamination.
 
@@ -42,7 +34,7 @@ Fenêtre virologique
 
 Fenêtre sérologique
 
-**Les tests**
+### **Les tests**
 
 Les tests biologiques de détection du VIH sont de deux types :
 
@@ -51,13 +43,13 @@ Les tests biologiques de détection du VIH sont de deux types :
 
 Le choix des tests dépend de l’âge du sujet testé : chez l’adulte et l’enfant de plus de dix-huit mois, le dépistage et le diagnostic de l’infection à VIH se font à l’aide des tests sérologiques ; chez l’enfant de moins de dix-huit mois, ils font obligatoirement appel aux tests de détection directe du virus. L’enfant né d’une mère séropositive aura les anticorps de sa mère sans pour autant être infecté. Cas particuliers : en cas de suspicion d’infection très récente, on préfèrera un test vital direct en raison du risque de négativité des anticorps (fenêtre sérologique).
 
-_Test de dépistage ELISA_
+#### _Test de dépistage ELISA_
 
 Le principe des tests immuno-enzymatiques anticorps (dit « de 3e génération ») consiste à utiliser des peptides immunogènes ou des protéines recombinantes du VIH-1 (groupe M et O) et du VIH-2 sur un support solide pour capter les anticorps spécifiques présents dans le sang. Les tests de 3e génération détectant les IgG et IgM spécifiques du VIH sont positifs en médiane vingt-trois jours (interquartile 25-75 % : 18-29 jours) après la contamination.
 
 Les tests ELISA dits de 4e génération permettent de détecter également l’antigène p24 du VIH-1. Ces tests sont dits mixtes, car ils détectent les anticorps anti-VIH-1 et anti-VIH-2, et combinés car ils détectent aussi l’Ag p24. Ils sont plus sensibles pour dépister une infection récente (dix-huit jours en médiane après la contamination). Ils sont très fiables (précision supérieure à 99 %), automatisables et peu coûteux.
 
-_Test rapide d’orientation diagnostique (TROD)_
+#### _Test rapide d’orientation diagnostique (TROD)_
 
 Les TROD sont des tests de détection des anticorps anti-VIH-1 et anti-VIH-2. Ce sont des tests réalisés à l’unité, à lecture visuelle subjective, de réalisation simple et donnant un résultat en moins de trente minutes (figure 2).
 
@@ -79,7 +71,7 @@ B
 
 ![](../.gitbook/assets/4)
 
-_Les autotests_
+#### _Les autotests_
 
 Les autotests sont des tests rapides, réalisés sur le sang total (sang du bout du doigt) ou sur la salive, qui exploitent la même technologie que les TROD. Ils sont destinés à être utilisés dans un environnement domestique par des utilisateurs profanes. Le prélèvement et l’interprétation sont effectués directement par l’intéressé.
 
