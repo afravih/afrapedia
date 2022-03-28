@@ -1,28 +1,24 @@
 # Impact du VIH sur l'organisme, déficit immunitaire et Sida
 
-**AFRAPEDIA C8**
-
-**Impact du VIH sur l’organisme : déficit immunitaire et Sida**
-
-Brigitte Autran, Christine Katlama
-
 L’infection VIH conduit en une dizaine d’années à une perte massive des défenses immunitaires contre les agents infectieux mais aussi contre les cancers, créant cette maladie constamment mortelle que l’on appelle SIDA. Bien que le virus n’infecte qu’une part minime des cellules du système immunitaire, il cible les lymphocytes CD4, cellules chefs d’orchestre de ces défenses immunes en se fixant sur leur membrane à la molécule CD4, conduisant à la destruction et à la désorganisation du système de défense.
 
-**Comment fonctionne le système immunitaire ?**
+## **Comment fonctionne le système immunitaire ?**
 
 Ces défenses sont organisées en deux grandes lignes de bataille comme une armée :
 
-![Macrophages images libres de droit, photos de Macrophages | Depositphotos](<../.gitbook/assets/0 (4)>)_Une première ligne de défense, l’immunité innée_, est exercée par des patrouilles circulant dans tout le corps, comprenant notamment les cellules appelées macrophages portant la molécule CD4. Ce sont les sentinelles du corps. Ils résident dans tous les tissus pour surveiller l’invasion éventuelle d’agents étrangers et exercer immédiatement un premier contrôle en les amenant aux casernes de la deuxième ligne de défense. Un macrophage
+![Un macrophage](<../.gitbook/assets/0 (4)>)
 
-![cellule t-plan - lymphocytes photos et images de collection](<../.gitbook/assets/1 (3)>)
+_Une première ligne de défense, l’immunité innée_, est exercée par des patrouilles circulant dans tout le corps, comprenant notamment les cellules appelées macrophages portant la molécule CD4. Ce sont les sentinelles du corps. Ils résident dans tous les tissus pour surveiller l’invasion éventuelle d’agents étrangers et exercer immédiatement un premier contrôle en les amenant aux casernes de la deuxième ligne de défense. Un macrophage
+
+![Un lymphocyte](<../.gitbook/assets/1 (3)>)
 
 _La deuxième ligne de défense_ est composée de casernes spécialisées reliées par des canaux. Ce sont : les ganglions, la rate et les parois de l’intestin et des bronches composent les tissus lymphoïdes emplis de cellules appelées _lymphocytes._
 
-Un lymphocyte
-
 Ces lymphocytes sont chargés des défenses « intelligentes », adaptées à chaque agent infectieux : on parle _d’immunité adaptative_. Les lymphocytes se répartissent en deux groupes ou corps d’armée: le premier, les lymphocytes T, travaillent directement de cellule à cellule, comme des fantassins ; la moitié porte à leur surface la molécule CD4 et a pour rôle de commander à toutes les autres cellules immunes de se mettre en ordre de bataille.
 
-![](<../.gitbook/assets/2 (3)>)D’autres lymphocytes T, appelés CD8+, sont chargés de détruire les cellules infectées dans les tissus malades. Le second corps d’armée, les lymphocytes B, agit comme des artilleurs et produit des anticorps envoyés partout dans le corps pour le protéger contre les microbes. En situation normale environ 2% de tous ces lymphocytes circulent dans le sang : la moitié est composée de lymphocytes CD4+ et un quart de lymphocytes CD8. Un lymphocyte CD8
+![](<../.gitbook/assets/2 (3)>)
+
+D’autres lymphocytes T, appelés CD8+, sont chargés de détruire les cellules infectées dans les tissus malades. Le second corps d’armée, les lymphocytes B, agit comme des artilleurs et produit des anticorps envoyés partout dans le corps pour le protéger contre les microbes. En situation normale environ 2% de tous ces lymphocytes circulent dans le sang : la moitié est composée de lymphocytes CD4+ et un quart de lymphocytes CD8. Un lymphocyte CD8
 
 Ainsi, le taux normal de lymphocytes CD4+ sanguins est en moyenne autour de 1000/mm3. On évalue également le bon fonctionnement du système immunitaire avec le rapport CD4/CD8 qui est normalement égal ou supérieur à un. Les taux de l’ensemble des lymphocytes sanguins reflètent non seulement les lymphocytes T CD4+, représentant habituellement entre 35 et 60% des lymphocytes, mais aussi les lymphocytes T CD8+, entre 15 et 35%, les lymphocytes B et les lymphocytes NK, chacun entre 5 et 10%.
 
@@ -38,11 +34,9 @@ Dans la _deuxième ligne_, les lymphocytes CD4 s’activent et se multiplient et
 
 _Juste après la bataille_, lorsque l’infection est maîtrisée, un grand nombre de ces lymphocytes T et B, épuisés et devenus inutiles, meurent ; les moins épuisés survivent et gardent en mémoire toute cette activation et cette maturation. Ces _lymphocytes T et B mémoire_ persistent des dizaines d’années et seront capables de produire immédiatement à tout moment des défenses adaptées lorsque le même agent infectieux se représentera.
 
-Figure 1 : Fonctionnement système immunitaire
+![Figure 1 : Fonctionnement système immunitaire](<../.gitbook/assets/3 (1)>)
 
-![](<../.gitbook/assets/3 (1)>)
-
-**Comment le VIH infecte-t-il le système immunitaire ?**
+## **Comment le VIH infecte-t-il le système immunitaire ?**
 
 Le VIH touche le cœur du système immunitaire et paralyse l’ensemble des défenses en ciblant les macrophages et les lymphocytes. Le VIH infecte les cellules CD4+ en fixant fortement son enveloppe, par la molécule gp120, sur la molécule CD4. La gp120 doit ensuite se fixer sur un deuxième récepteur membranaire, le CCR5, pour injecter le virus dans la cellule. La paroi du lymphocyte CD4 se comporte comme une porte blindée avec deux serrures que la clé gp120 doit ouvrir successivement : d’abord la gp120 puis le CCR5.
 
@@ -52,21 +46,23 @@ _A ce jour, aucun traitement ne peut éliminer ce provirus intégré. Neuf cellu
 
 La majorité des contaminations se fait par voie sexuelle. Le VIH pénètre donc le plus souvent par des brèches dans les muqueuses ; il est immédiatement détecté par les macrophages CD4+ auxquels il se colle ou qu’il infecte immédiatement. Comme le rôle des macrophages est d’apporter les fragments d’agents infectieux aux ganglions voisins, ceux-ci vont, très rapidement, diffuser le VIH aux lymphocytes CD4+ situés dans les ganglions. Quelques lymphocytes CD4 intra-ganglionnaires, contenant le VIH s’échappent dans le sang, disséminant alors l’infection dans la totalité de l’organisme en quelques heures (24-36H). Lors d’une infection par voie sanguine, le processus est encore plus rapide.
 
-Figure 2 : Infection du système immunitaire par le VIH![](<../.gitbook/assets/4 (2)>)
 
-_Mais le VIH n’infecte pas toutes les cellules CD4+._
+
+![Figure 2 : Infection du système immunitaire par le VIH](<../.gitbook/assets/4 (2)>)
+
+### _Mais le VIH n’infecte pas toutes les cellules CD4+._
 
 La quasi-totalité du virus (90-95%) se trouve dans les lymphocytes T CD4 qui recirculent en permanence dans l’organisme ; les 5-10% restants sont des macrophages, les cellules sentinelles patrouillant dans les tissus. Et à l’intérieur du compartiment de lymphocytes T CD4, le virus va infecter plus facilement les lymphocytes T CD4+ mémoire qui co-expriment les deux récepteurs CD4 et CCR5 et s’activent plus rapidement.
 
-_Ces lymphocytes T CD4+ mémoire constituent ainsi le réservoir principal de VIH._
+### _Ces lymphocytes T CD4+ mémoire constituent ainsi le réservoir principal de VIH._
 
 L’ADN de celui-ci est intégré dans le noyau de la cellule qui l’héberge. Or, pour se répliquer le VIH a besoin que la cellule CD4+ s’active : ainsi l’activation de défenses immunes contre n’importe quel agent infectieux ou vaccin déclenchera fatalement la production de VIH. C’est le phénomène de la « belle au bois dormant » : à tout moment il y aura deux types de cellules CD4+ infectées : les cellules dormantes au repos, non activées et incapables de produire du virus, et des cellules CD4+ qui ont reçu un signal d’activation, se réveillant au contact du baiser du prince charmant mais produisant alors automatiquement du VIH. Comme nous le verrons plus loin, le VIH des cellules dormantes n’est pas sensible aux antirétroviraux et constitue le réservoir latent du virus pouvant se maintenir durant des dizaines d’années
 
-**Comment le VIH détruit-il le système immunitaire et conduit-il au SIDA?**
+## **Comment le VIH détruit-il le système immunitaire et conduit-il au SIDA?**
 
 En détruisant les cellules CD4+, le VIH altère profondément le fonctionnement du système immunitaire et conduit au syndrome d’immunodéficience acquise ou SIDA. Sans macrophages CD4+ et surtout sans lymphocytes CD4+, le système immunitaire est paralysé. Cette destruction est lente et se produit sur environ 10 ans conduisant à la disparition des lymphocytes T CD4+ ou lymphopénie CD4 caractéristique du SIDA. Cette destruction est aggravée par une paralysie du système immunitaire empêchant toute nouvelle défense immune.
 
-_Lymphopénie T CD4+_
+### _Lymphopénie T CD4+_
 
 Le taux de lymphocytes T CD4+ baisse inéluctablement en l’absence de traitement antirétroviral. La surveillance du taux de lymphocytes T CD4+ dans le sang permet d’estimer la gravité et l’ancienneté de l’infection VIH. On décrit 3 phases dans cette lymphopénie CD4 :
 
@@ -112,33 +108,11 @@ L’inflammation croissante altère également l’ensemble du métabolisme et �
 
 A partir du moment où les 1eres infections et cancers opportunistes apparaissent le déclin est inévitable et conduit à la mort du patient.
 
-_Figure 3 : Lymphopénie CD4 et SIDA_
+__
 
-**Virus**
+![Figure 3 : Lymphopénie CD4 et SIDA](<../.gitbook/assets/Capture d’écran 2022-03-28 à 14.40.35.png>)
 
-**Inflammation**
-
-**ARV:**
-
-**Inh. of RT, Protease, Integrase**
-
-**Entrée**
-
-**CD4**
-
-**500**
-
-**200**
-
-**AIDS**
-
-**Opportuniste**
-
-**Evénement**
-
-**0 0.3 8 0 1 années**
-
-_**Restauration immunitaire sous antirétroviraux**_
+## **Restauration immunitaire sous antirétroviraux**
 
 Ces altérations mortelles ne sont pas définitives. L’arrêt de la réplication virale sous antirétroviraux permet au système immun de se reconstituer, de renouveler les stocks de lymphocytes T CD4+ qui ne sont plus détruits par le VIH, et de restaurer des défenses immunes efficaces contre tous les agents infectieux et les cancers. L’inflammation elle aussi se réduit bien que plus lentement.
 
