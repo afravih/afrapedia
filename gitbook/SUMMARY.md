@@ -25,6 +25,7 @@
 * [Politiques de réduction des risques liés à l'usage de drogues](vih/politiques-de-reduction-des-risques-lies-a-lusage-de-drogues.md)
 * [Vaccins et VIH](vih/vaccins-et-vih/README.md)
   * [C20 Défenses immunes et vaccins contre le VIH](vih/vaccins-et-vih/c20-defenses-immunes-et-vaccins-contre-le-vih.md)
+  * [C20 Défenses immunes et vaccins contre le VIH](vih/vaccins-et-vih/c20-defenses-immunes-et-vaccins-contre-le-vih-1.md)
 * [VIH et droits des personnes](vih/vih-et-droits-des-personnes.md)
 * [Organisation et financement de la riposte contre le VIH](vih/organisation-et-financement-de-la-riposte-contre-le-vih.md)
 * [L'action communautaire en pratique](vih/laction-communautaire-en-pratique.md)
