@@ -34,29 +34,29 @@ Le comité d’experts va émettre une série de recommandations qui vont faire 
 
 En premier lieu, un **conseil** individualisé pré- et post-test est essentiel, tant pour l’annonce d’un résultat positif que pour éduquer les personnes dépistées afin de favoriser l’adoption de comportements à moindre risque.
 
-> « Il est donc impératif d’informer les sujets avant de pratiquer l’épreuve \[de recherche du VIH] et d’accompagner de conseils l’annonce des résultats à l’intéressé ; dans tous les cas où cela sera possible, les résultats seront communiqués personnellement par un conseiller qualifié. »
+> « Il est donc impératif d’informer les sujets avant de pratiquer l’épreuve \[de recherche du VIH] et d’accompagner de conseils l’annonce des résultats à l’intéressé ; dans tous les cas où cela sera possible, les résultats seront communiqués personnellement par un conseiller qualifié. »
 
 Le **consentement éclairé** et la **confidentialité des données** constituent deux autres prérequis essentiels au dépistage.
 
-« Le fait d’être la cible d’un programme de dépistage peut avoir pour les intéressés \[…] des conséquences sociales adverses graves, notamment l’isolement social, des pertes économiques, l’annulation de contrats d’assurance et la discrimination sur le plan de l’emploi, des études, du logement, des soins de santé et des services sociaux. Ces conséquences potentiellement destructives donnent une urgence spéciale aux problèmes de consentement éclairé du sujet et de la confidentialité des données. »
+> « Le fait d’être la cible d’un programme de dépistage peut avoir pour les intéressés \[…] des conséquences sociales adverses graves, notamment l’isolement social, des pertes économiques, l’annulation de contrats d’assurance et la discrimination sur le plan de l’emploi, des études, du logement, des soins de santé et des services sociaux. Ces conséquences potentiellement destructives donnent une urgence spéciale aux problèmes de consentement éclairé du sujet et de la confidentialité des données. »
 
 Ainsi, le dépistage du VIH s’est inscrit très tôt dans une perspective de respect des **droits de l’Homme**.
 
-« Le droit de toute personne au respect de sa vie privée peut être violé si des renseignements concernant les résultats de la sérologie du VIH (ou même simplement le fait que cet examen a été prescrit ou demandé) sont divulgués sans l’autorisation de la personne concernée ou sans que ce soit pour des raisons évidentes de santé publique. Pour respecter les droits de l’Homme, il convient d’utiliser les mesures les moins inopportunes qui permettront d’atteindre les objectifs de santé publique visés. »
+> « Le droit de toute personne au respect de sa vie privée peut être violé si des renseignements concernant les résultats de la sérologie du VIH (ou même simplement le fait que cet examen a été prescrit ou demandé) sont divulgués sans l’autorisation de la personne concernée ou sans que ce soit pour des raisons évidentes de santé publique. Pour respecter les droits de l’Homme, il convient d’utiliser les mesures les moins inopportunes qui permettront d’atteindre les objectifs de santé publique visés. »
 
 Enfin, dans un contexte où certains gouvernements envisageaient la mise en place de programmes de dépistage obligatoires, le comité d’experts réunis par l’OMS a insisté sur le caractère **volontaire** que devait avoir le dépistage du VIH.
 
-« Le contrôle universel des donneurs de sang ou de produit sanguins et de cellules/tissus/organes se justifie tout à fait. \[…] Comme les autres modes de transmission \[…] sont la conséquence de comportements d’ordre privé, l’efficacité de programmes de santé publique complémentaires dépendra largement de la participation volontaire et d’un effort d’éducation visant à susciter une modification des comportements dangereux.
+> « Le contrôle universel des donneurs de sang ou de produit sanguins et de cellules/tissus/organes se justifie tout à fait. \[…] Comme les autres modes de transmission \[…] sont la conséquence de comportements d’ordre privé, l’efficacité de programmes de santé publique complémentaires dépendra largement de la participation volontaire et d’un effort d’éducation visant à susciter une modification des comportements dangereux.
+>
+> Les participants à la réunion ont été d’avis que des services de conseil et de recherche des anticorps anti-VIH facilement accessibles, assurés sur une base volontaire, ont plus de chance que le dépistage obligatoire de susciter des modifications de comportement qui contribueront à \[…] la réduction de la propagation du VIH. Il y a des mesures de prévention plus efficaces, moins importunes et moins coûteuses que le dépistage universel obligatoire. »
 
-Les participants à la réunion ont été d’avis que des services de conseil et de recherche des anticorps anti-VIH facilement accessibles, assurés sur une base volontaire, ont plus de chance que le dépistage obligatoire de susciter des modifications de comportement qui contribueront à \[…] la réduction de la propagation du VIH. Il y a des mesures de prévention plus efficaces, moins importunes et moins coûteuses que le dépistage universel obligatoire. »
+Dans plusieurs régions du monde, des programmes de dépistage obligatoire vont être envisagés voire mis en œuvre par certains gouvernements. En 1992, l’Assemblée mondiale de la santé va se positionner contre le dépistage obligatoire :&#x20;
 
-Dans plusieurs régions du monde, des programmes de dépistage obligatoire vont être envisagés voire mis en œuvre par certains gouvernements. En 1992, l’Assemblée mondiale de la santé va se positionner contre le dépistage obligatoire :
-
-« Aucune considération de santé publique ne peut légitimer des mesures de lutte contre le sida attentatoires aux droits des individus et notamment des mesures tendant à l’instauration d’un dépistage obligatoire. »
+> « Aucune considération de santé publique ne peut légitimer des mesures de lutte contre le sida attentatoires aux droits des individus et notamment des mesures tendant à l’instauration d’un dépistage obligatoire. »
 
 Une [consultation sur le dépistage de l’infection à VIH](https://apps.who.int/iris/handle/10665/59333) sous l’égide de l’OMS en novembre 1992 va préciser cela.
 
-« Le test obligatoire et autres types de test sans consentement éclairé n’ont pas leur place dans un programme de lutte contre le sida. »
+> « Le test obligatoire et autres types de test sans consentement éclairé n’ont pas leur place dans un programme de lutte contre le sida. »
 
 Est promu un dépistage volontaire qui doit :
 
@@ -81,7 +81,7 @@ L’arrivée des inhibiteurs de la protéase en 1996 et des fameuses « trithé
 
 La perspective d’un traitement relance la nécessité de développer des programmes de dépistage, à tout le moins dans les pays du Nord.
 
-En Afrique subsaharienne, les traitements resteront encore plusieurs années difficilement accessibles et limités à une « poignée » de patients. Avec la création du Fonds mondial de lutte contre le sida, la tuberculose et le paludisme en 2002 et du _President’s emergency plan for AIDS relief_ (Pepfar) en 2003, l’accès gratuit aux traitements antirétroviraux va devenir progressivement une réalité dans nombre de pays africains à partir de 2004.
+En Afrique subsaharienne, les traitements resteront encore plusieurs années difficilement accessibles et limités à une « poignée » de patients. Avec la création du Fonds mondial de lutte contre le sida, la tuberculose et le paludisme en 2002 et du _President’s emergency plan for AIDS relief_ (Pepfar) en 2003, l’accès gratuit aux traitements antirétroviraux va devenir progressivement une réalité dans nombre de pays africains à partir de 2004.
 
 Afin d’identifier les personnes à prendre en charge, _les programmes de dépistage_ vont se développer en parallèle. Ainsi, dans un pays comme la Côte d’Ivoire, le nombre de centres de dépistage volontaire va augmenter de 85 à 549 entre 2004 et 2009. Cependant, le retard pris en matière de dépistage est massif. En 2003, seuls 0,2 % des adultes des pays à faibles et moyens revenus avaient eu accès à des services de conseil et dépistage du VIH. Au niveau mondial, en 2005, l’Onusida estimait que seuls 12 % des personnes souhaitant se faire dépister avaient été en capacité de le faire.
 

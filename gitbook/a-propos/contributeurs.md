@@ -19,13 +19,13 @@ coverY: 0
 
 ![Joseph Larmarange](<../.gitbook/assets/Joseph Larmarange.png>)
 
-![Françoise Linard](<../.gitbook/assets/Françoise Linard.png>)
+![Françoise Linard](<../.gitbook/assets/Françoise Linard.png>)
 
 ![Nicolas Ritter](<../.gitbook/assets/Nicolas Ritter.png>)
 
 ![Bruno Spire](<../.gitbook/assets/Bruno Spire.png>)
 
-![Stéphanie Tchiombiano](<../.gitbook/assets/Stéphanie Tchiombiano.png>)
+![Stéphanie Tchiombiano](<../.gitbook/assets/Stéphanie Tchiombiano.png>)
 
 ### Relecteurs scientifiques
 
