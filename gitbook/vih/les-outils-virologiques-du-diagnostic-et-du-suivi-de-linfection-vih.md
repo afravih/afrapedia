@@ -5,9 +5,9 @@ coverY: 0
 
 # Les outils virologiques du diagnostic et du suivi de l'infection VIH
 
-## **Diagnostic et dépistage**&#x20;
+## Diagnostic et dépistage
 
-### **Enjeux**
+### Enjeux
 
 Le dépistage et le diagnostic de l’infection à VIH sont des enjeux majeurs de la lutte contre l’épidémie, pour les individus comme pour la collectivité. L’enjeu, pour les individus, réside dans la prescription rapide d’un traitement antirétroviral (ARV) qui va réduire, voire supprimer, les complications et le risque de mortalité liés au VIH.
 
@@ -15,7 +15,7 @@ Au niveau de la collectivité, le traitement ARV précoce, conséquence bénéfi
 
 Le dépistage représente un outil important dans les stratégies de prévention en permettant, en cas de positivité du test, de débuter le traitement et renforcer les conseils pouvant éviter une transmission ou, en cas de test négatif, en proposant notamment une prophylaxie adaptée (préservatif, prophylaxie préexposition / PrEP, traitement post-exposition / TPE).
 
-### **Outils du dépistage et du diagnostic**
+### Outils du dépistage et du diagnostic
 
 La temporalité d’apparition des marqueurs virologiques et immunologiques (figure 1) permet de comprendre les indications et les limites des différents tests de dépistage. Après la contamination, une période d’environ dix jours, dite d’« éclipse » ou « fenêtre virologique », est caractérisée par l’absence de tout marqueur détectable. L’ARN VIH plasmatique est le marqueur virologique le plus précoce, qui peut être détecté dans un délai médian de dix jours après la contamination.
 
@@ -23,7 +23,7 @@ L’antigène p24, protéine de capside du VIH, est détectable à partir du qui
 
 ![Figure 1. Evolution des marqueurs au cours de l’infection par le VIH](<../.gitbook/assets/Capture d’écran 2022-03-31 à 02.15.00.png>)
 
-### **Les tests**
+### Les tests
 
 Les tests biologiques de détection du VIH sont de deux types :
 
@@ -72,13 +72,13 @@ Le Western Blot VIH-1 est considéré comme positif quand le sérum du sujet con
 
 Elle se fait par technique ELISA. Son intérêt essentiel est le diagnostic d’une primo-infection VIH avant l’apparition des anticorps, car l’antigène p24 est détectable environ quinze jours après la contamination, alors que les anticorps sont présents seulement vingt-et-un à vingt-six jours après. Les tests ELISA combinés de 4e génération (antigène-anticorps) remplacent la recherche isolée de l’antigène p24.
 
-## **Les outils virologiques du suivi de l’infection VIH**
+## Les outils virologiques du suivi de l’infection VIH
 
 Lorsqu’apparait l’épidémie en 1981 ou même lorsque le VIH est découvert, la virologie clinique est balbutiante. Seule la quantification de l’antigénémie VIH, imparfaite mesure de quantification, sera disponible au début des années 1990. Il faudra attendre 1995 pour que la mise au point des techniques PCR (_Polymerase Chain Reaction)_ en routine puisse permettre de quantifier la production virale. C’est une technologie de biologie moléculaire très sensible qui mesure directement la production de virus.
 
 Actuellement, le suivi virologique est un élément clé pour évaluer l’efficacité d’un traitement ARV, déterminer si le virus est contrôlé (succès virologique) ou si persiste la réplication (échec virologique) et pouvoir confirmer la non-transmission.
 
-### **Comment mesurer la réplication du VIH ?**
+### Comment mesurer la réplication du VIH ?
 
 #### La technique PCR
 
@@ -114,7 +114,7 @@ Le sang total est déposé directement sur un buvard, séché à l’air libre p
 
 Ces techniques pourraient favoriser l’expansion nécessaire des tests de CV au niveau des sites décentralisés et pallier les contraintes de transport des échantillons et des DBS. De plus, elles permettent d’effectuer la CV à proximité du point de prise en charge du patient. De nombreux systèmes sont développés, incluant les étapes d’extraction et d’amplification en temps réel avec un rendu en moins de deux heures.
 
-### **Résistance du VIH aux antirétroviraux**
+### Résistance du VIH aux antirétroviraux
 
 #### Principes de la résistance du VIH aux antirétroviraux
 
@@ -167,13 +167,13 @@ Deux génotypes de résistance interprétés selon l’algorithme ANRS :
 
 ![Virus résistant IP et INI](../.gitbook/assets/13)
 
-#### **Séquençage sur papier buvard et (DBS)**
+#### Séquençage sur papier buvard et (DBS)
 
 Les pays du Sud souffrent d’un manque de ressources adaptées à ces techniques de biologie moléculaires disponibles en routine.
 
 Le prélèvement de sang séché sur papier buvard (DBS, _dried blood spot_ en anglais) est relativement facile à réaliser, stocker et transporter. Contrairement au sang total et au plasma, les contraintes liées à la chaîne du froid et au risque biologique sont réduites. Selon l’OMS, le DBS est un prélèvement fiable et adapté à la surveillance des résistances dans les pays du Sud. Les séquences obtenues sur DBS ont une bonne similarité comparée au plasma. La sensibilité (> 5 000 copies/ml) est cependant limitée en raison du faible volume de sang testé. Ce support de prélèvements permet d’effectuer les analyses de résistance de façon centralisée et élargissent aujourd’hui l’accès aux tests de résistance.
 
-### **Quantifier le réservoir cellulaire (ADN VIH)**
+### Quantifier le réservoir cellulaire (ADN VIH)
 
 La taille du réservoir viral est estimée par la quantité d’ADN VIH présent dans les cellules cibles du VIH. L’ADN VIH dans les cellules sanguines cibles peut être détecté et/ou quantifié par PCR en copies par million de cellules sanguines mononuclées(PBMC).
 
