@@ -11,7 +11,7 @@ Parce que le VIH se réplique massivement dès sa pénétration dans l’organis
 
 ### Un traitement ARV pour contrôler la progression de l’infection VIH
 
-L’objectif du traitement ARV (TARV) est de contrôler (empêcher) la réplication virale jusqu’à ce que celle-ci ne soit plus détectable par les [techniques de PCR](les-outils-virologiques-du-diagnostic-et-du-suivi-de-linfection-vih.md) avec des valeurs sous le seuil de 50 copies/ml. Ce contrôle, ou suppression virologique, permet la restauration de l’immunité et l’arrêt des phénomènes inflammatoires délétères induits par le VIH.
+L’objectif du traitement ARV (TARV) est de contrôler (empêcher) la réplication virale jusqu’à ce que celle-ci ne soit plus détectable par les [techniques de PCR](les-outils-virologiques.md) avec des valeurs sous le seuil de 50 copies/ml. Ce contrôle, ou suppression virologique, permet la restauration de l’immunité et l’arrêt des phénomènes inflammatoires délétères induits par le VIH.
 
 ### Un traitement ARV pour ne pas risquer de contaminer
 

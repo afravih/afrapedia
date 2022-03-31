@@ -7,8 +7,8 @@ coverY: 0
 
 L’agent causal du sida, le VIH, est découvert en 1983. Faire le diagnostic de la maladie va constituer la première étape majeure de sa prise en charge. On ne sait pas détecter le virus dans le sang de façon directe : la mesure du virus dans le sang par PCR n’apparaitra qu’en 1995. Par contre, on peut dès 1985 dépister les anticorps fabriqués par l’organisme quand il est infecté, au moyen de tests sérologiques.
 
-{% content-ref url="les-outils-virologiques-du-diagnostic-et-du-suivi-de-linfection-vih.md" %}
-[les-outils-virologiques-du-diagnostic-et-du-suivi-de-linfection-vih.md](les-outils-virologiques-du-diagnostic-et-du-suivi-de-linfection-vih.md)
+{% content-ref url="les-outils-virologiques.md" %}
+[les-outils-virologiques.md](les-outils-virologiques.md)
 {% endcontent-ref %}
 
 Les activités prioritaires du dépistage vont être dans un premier temps :
