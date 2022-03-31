@@ -5,8 +5,11 @@ coverY: 0
 
 # Introduction
 
-Ce site accueillera prochainement **AFRAPEDIA : Repères sur le VIH, les hépatites virales, les émergences et la santé sexuelle par l'AFRAVIH**, un ouvrage accessible en libre accès présentant l'état des connaissances sur le VIH, les hépatites virales, la santé sexuelle et les infections chroniques ou émergentes.
+Suite au succès du [Livre "VIH, Hépatites virales, Santé sexuelle"](https://www.livre-afravih.org) - plus de 3000 téléchargements - l'AFRAVIH s'est lancée dans **l'AFRAPEDIA, un livre multimédia à destination du grand public averti** qui présente l'état des connaissances sur le VIH, les hépatites virales, la santé sexuelle et les infections chroniques ou émergentes.
 
-En attendant, vous pouvez retrouver le Livre AFRAVIH sur [https://www.livre-afravih.org/](https://www.livre-afravih.org)
+Vous y trouverez des repères sur les thématiques clés de l'AFRAVIH, sous forme écrite mais aussi en vidéo.&#x20;
 
-![](.gitbook/assets/livre\_afravih.png)
+![](<.gitbook/assets/Couverture AFRAPEDIA.png>)
+
+&#x20;
+
