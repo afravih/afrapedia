@@ -9,6 +9,8 @@ Suite au succès du [Livre "VIH, Hépatites virales, Santé sexuelle"](https://w
 
 Vous y trouverez des repères sur les thématiques clés de l'AFRAVIH, sous forme écrite mais aussi en vidéo.&#x20;
 
+[Nos contributeurs & contributrices](a-propos/contributeurs.md)
+
 ![](<.gitbook/assets/Couverture AFRAPEDIA.png>)
 
 &#x20;
