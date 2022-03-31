@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
 coverY: 0
 ---
 
@@ -234,7 +234,7 @@ Les inhibiteurs de l’entrée du VIH dans les cellules cibles humaines se répa
 
 **Schéma des étapes d’entrée du VIH et des cibles des inhibiteurs d’entrée**
 
-![](<../.gitbook/assets/schéma C12.png>)
+![](<../.gitbook/assets/schéma C12.png>)
 
 **Enfuvirtide** **(ENF ou T20)**
 

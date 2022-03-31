@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
 coverY: 0
 ---
 
@@ -15,7 +15,7 @@ L’injection de drogue n’entraîne pas par elle-même de contamination, mais 
 
 Certes, la ministre de la santé Michèle Barzach, elle-même médecin, parvient à faire abroger le décret de 1972 et à libéraliser la vente des seringues en pharmacie. Son décret paraît le 13 mai 1987, après huit mois de lutte contre certains professionnels de santé et une partie de ses collègues ministres. Néanmoins, le texte est adopté à titre expérimental, pour un an. Renouvelé en 1988 pour un an supplémentaire, il est finalement pérennisé en 1989. Il faudra attendre encore encore six années de plus pour qu’advienne une politique de réduction des risques (RdR). Ce chemin parcouru à pas de tortue a indubitablement coûté bien des vies. Publié en 1995, le rapport de la Commission Henrion affirme que « _la politique de lutte contre la toxicomanie, fondée sur l'idée selon laquelle il ne faut rien faire pour faciliter la vie des toxicomanes, a provoqué des catastrophes sanitaires et sociales_ ». Et de fait, en 1989, le rapport Trautmann sur la lutte contre la toxicomanie et le trafic des stupéfiants n’abordait quasiment pas la question du sida. En décembre 1990, la Délégation générale à la lutte contre la drogue et la toxicomanie n’en dit pas un mot dans sa campagne nationale intitulée « _Combat pour la vie »_. Entre 1990 et 1992, l’AFLS (Association française de lutte contre le sida) finance toutefois certaines actions de proximité, notamment des campagnes de sensibilisation auprès des pharmaciens et des projets de mise à disposition de matériel en vrac, jusqu’à l’arrivée des premiers Stéribox® en 1991.&#x20;
 
-![Stéribox®](../.gitbook/assets/Stéribox.png)
+![Stéribox®](../.gitbook/assets/Stéribox.png)
 
 Côté associatif, les choses s’accélèrent également. En 1989, trois programmes d’échange de seringues voient le jour, en toute illégalité : à Marseille (géré par l’AMPT, Association Méditerranéenne de Prévention et de Traitement des Addictions, devenue Addiction Méditerranée), à Saint-Denis (repris ensuite par l’association Arcades) et à Paris (par Médecins du Monde). Un __ projet commun est tout d’abord envisagé avec des spécialistes mais n'aboutit pas et MdM se lance seul dans un programme d'échanges des seringues. __ La décision provoque d’ailleurs des remous car la distribution de seringues est considérée par certains volontaires de l’association comme une incitation à l’usage de drogues. Au fil des mois, et à la limite de la légalité parfois, d’autres acteurs inventent des moyens d’accueillir les usagers et de mettre du matériel à leur disposition (dans leurs locaux, dans des bus, _via_ des automates). Ils agissent sur fonds propres et, parfois, avec des crédits de l’AFLS ou des directions départementales des affaires sanitaires et sociales. Par ailleurs, suite à la circulaire de 1990 qui modifie le protocole méthadone de 1973, le docteur A. Charles-Nicolas ouvre douze places au Centre Pierre-Nicolle, à Paris.
 

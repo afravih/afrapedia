@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Contributeurs.png
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Contributeurs.png
 coverY: 0
 ---
 

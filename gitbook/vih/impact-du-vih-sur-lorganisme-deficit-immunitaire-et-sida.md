@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
 coverY: 0
 ---
 
@@ -115,7 +115,7 @@ A partir du moment où les 1eres infections et cancers opportunistes apparaissen
 
 __
 
-![Figure 3. Lymphopénie CD4 et SIDA](<../.gitbook/assets/Capture d’écran 2022-03-28 à 14.40.35.png>)
+![Figure 3. Lymphopénie CD4 et SIDA](<../.gitbook/assets/Capture d’écran 2022-03-28 à 14.40.35.png>)
 
 ### **Restauration immunitaire sous antirétroviraux**
 
