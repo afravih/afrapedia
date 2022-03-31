@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+coverY: 0
+---
+
 # Qu'est-ce que le VIH ?
 
 ![](../.gitbook/assets/Virus.png)

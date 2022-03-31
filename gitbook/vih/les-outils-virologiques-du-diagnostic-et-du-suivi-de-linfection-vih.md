@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+coverY: 0
+---
+
 # Les outils virologiques du diagnostic et du suivi de l'infection VIH
 
 ## **Diagnostic et dépistage**&#x20;

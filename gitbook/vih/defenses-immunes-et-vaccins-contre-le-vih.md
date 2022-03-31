@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+coverY: 0
+---
+
 # Défenses immunes et vaccins contre le VIH
 
 Lors de l’infection par le VIH le système immunitaire n’est pas encore malade ou paralysé par le virus. Il va donc lancer toutes ses lignes de défense pour répondre à l’attaque du VIH.

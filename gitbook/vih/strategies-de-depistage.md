@@ -1,4 +1,9 @@
-# Stratégies de dépistage
+---
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+coverY: 0
+---
+
+# Stratégies de dépistage
 
 L’agent causal du sida, le VIH, est découvert en 1983. Faire le diagnostic de la maladie va constituer la première étape majeure de sa prise en charge. On ne sait pas détecter le virus dans le sang de façon directe : la mesure du virus dans le sang par PCR n’apparaitra qu’en 1995. Par contre, on peut dès 1985 dépister les anticorps fabriqués par l’organisme quand il est infecté, au moyen de tests sérologiques.
 

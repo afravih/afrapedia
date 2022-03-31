@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+coverY: 0
+---
+
 # Retentissements psychologiques et sociaux de l'infection par le VIH
 
 Dans le monde, les problèmes de santé mentale ont un retentissement important sur l’existence des personnes en termes de souffrance psychique, de retentissement sur la vie affective et professionnelle, d’augmentation des addictions, voire de la survenue de suicides. Cette situation a été aggravée par la pandémie de COVID-19, qui a contribué à une dégradation de l’état psychique des populations. L’Organisation mondiale de la santé (OMS) rapporte une augmentation significative des problèmes de santé mentale dans la population générale au cours de la première année de la pandémie. En 2020, les cas de troubles dépressifs majeurs et de troubles anxieux ont augmenté respectivement de 27,6% et 25,6% dans le monde. Le jeune âge, le sexe féminin et les problèmes de santé préexistants sont des facteurs de risque souvent signalés.

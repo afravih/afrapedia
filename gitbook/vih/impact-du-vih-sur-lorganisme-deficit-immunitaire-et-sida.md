@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+coverY: 0
+---
+
 # Impact du VIH sur l'organisme, déficit immunitaire et Sida
 
 L’infection VIH conduit en une dizaine d’années à une perte massive des défenses immunitaires contre les agents infectieux mais aussi contre les cancers, créant cette maladie constamment mortelle que l’on appelle SIDA. Bien que le virus n’infecte qu’une part minime des cellules du système immunitaire, il cible les lymphocytes CD4, cellules chefs d’orchestre de ces défenses immunes en se fixant sur leur membrane à la molécule CD4, conduisant à la destruction et à la désorganisation du système de défense.

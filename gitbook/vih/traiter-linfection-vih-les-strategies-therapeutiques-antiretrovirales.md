@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+coverY: 0
+---
+
 # Traiter l’infection VIH : les stratégies thérapeutiques antirétrovirales
 
 ## **Principes du traitement antirétroviral**

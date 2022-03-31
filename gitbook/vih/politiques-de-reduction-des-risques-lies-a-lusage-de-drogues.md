@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+coverY: 0
+---
+
 # Politiques de réduction des risques liés à l'usage de drogues
 
 Pour comprendre comment se sont organisés le soutien et la prévention auprès des usagers de drogue par voie intraveineuse, il faut revenir brièvement sur une conjonction historique propre aux années 1980 : l’apparition de l’épidémie de sida, la consommation accrue d’héroïne et l’intensification des politiques répressives contre la drogue.

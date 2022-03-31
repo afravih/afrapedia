@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+coverY: 0
+---
+
 # Traiter l'infection VIH : les médicaments antirétroviraux
 
 Le développement des médicaments ARV a connu un développement spectaculaire depuis près de 30 ans. Les progrès ont concerné d’abord l’efficacité avec une puissance plus grande ( du simple au triple ) , la simplicité des prises - on est passé de plusieurs gélules plusieurs fois par jour à un traitement en une prise une fois par jour ! enfin la robustesse vis-à-vis de la résistance . Le défi en cours est celui des molécules longue durée, actives pendant plusieurs semaines ou plusieurs mois. Ces médicaments récents ont permis de faire évoluer les stratégies thérapeutiques ([Chapitre "Traiter l'infection VIH : les stratégies thérapeutiques antirétrovirales](traiter-linfection-vih-les-strategies-therapeutiques-antiretrovirales.md)")

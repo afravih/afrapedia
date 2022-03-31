@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+coverY: 0
+---
+
 # Spécificités, organisation et financement de la riposte internationale contre le VIH
 
 De la même façon qu’on considère souvent le VIH/sida comme une maladie exceptionnelle (par sa gravité, sa dimension mondiale, ses implications sociales et politiques), l’histoire de la riposte internationale contre la pandémie est impressionnante : jamais une maladie n’avait provoqué une telle mobilisation sur la scène internationale, jusqu’à la pandémie de Covid-19.
