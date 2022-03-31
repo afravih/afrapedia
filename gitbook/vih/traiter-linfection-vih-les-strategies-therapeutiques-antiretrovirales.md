@@ -155,7 +155,7 @@ Ainsi, la tendance actuelle est davantage à l’individualisation du traitement
 
 L’allègement se définit par une diminution de l’exposition de l’organisme aux ARV. Il ne doit pas être confondu avec une simplification du traitement, qui va comporter moins de comprimés ou moins de prises, comme par exemple avec une combinaison d’ARV en prise unique.
 
-![Figure 1 Différentes stratégies d’allègement du traitement ARV chez des patients avec charge virale indétectable (stratégies de switch)](<../.gitbook/assets/Capture d’écran 2022-03-28 à 17.47.33.png>)
+![Figure 1 Différentes stratégies d’allègement du traitement ARV chez des patients avec charge virale indétectable (stratégies de switch)](<../.gitbook/assets/Capture d’écran 2022-03-28 à 17.47.33.png>)
 
 ### _Réduction de posologie_
 
@@ -174,7 +174,7 @@ Plusieurs stratégies se sont révélées aussi efficaces que la poursuite d’u
 
 Ce type de stratégie, dont le but est une réduction de l’exposition aux médicaments, a été évalué dans plusieurs études pilotes. En Afrique du Sud l’essai Breather (cinq jours sur sept) et en France l’essai ANRS 4D vont montrer que des trithérapies comportant des prises quatre jours consécutifs sur sept (lundi-mardi-mercredi-jeudi) et le week-end _off_ permettent de maintenir un excellent taux d’indétectabilité (>90%) (figure 2). Ces résultats vont être validés à plus large échelle dans l’essai comparatif randomisé QUATUOR chez plus de 600 patients, avec des taux de succès virologique équivalents pour la trithérapie quatre jours sur sept comparée à la trithérapie standard sept jours sur sept. Figure 2&#x20;
 
-![Figure 2 Stratégie d’allégement du traitement antirétroviral par intermittence (4 jours par semaine)](<../.gitbook/assets/Capture d’écran 2022-03-28 à 18.26.17.png>)
+![Figure 2 Stratégie d’allégement du traitement antirétroviral par intermittence (4 jours par semaine)](<../.gitbook/assets/Capture d’écran 2022-03-28 à 18.26.17.png>)
 
 Largement utilisée dans certains centres ou par certains médecins, cette stratégie quatre jours sur sept recueille les faveurs des patients qui disposent d’un long week-end end sans TARV ! Elle réduit de 40% l’exposition aux molécules et le coût de la thérapie sans mettre en péril la suppression virologique.
 

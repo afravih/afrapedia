@@ -16,23 +16,7 @@ La temporalité d’apparition des marqueurs virologiques et immunologiques (fig
 
 L’antigène p24, protéine de capside du VIH, est détectable à partir du quinzième jour. La réponse anticorps spécifique du VIH (IgM et IgG) apparaît à partir de vingt et un jours en moyenne. Le délai à partir duquel ces anticorps peuvent être détectés va dépendre de la sensibilité des différents tests utilisés. La période sans détection possible d’anticorps est appelée fenêtre sérologique.
 
-Figure 1 **** Evolution des marqueurs au cours de l’infection par le VIH
-
-![](<../.gitbook/assets/0 (2)>)![](<../.gitbook/assets/1 (2)>)![](../.gitbook/assets/2)
-
-Anticorps
-
-ARN plasmatique
-
-Seuil de détection
-
-Ag p24
-
-Exposition 11-12 14-15 20-21 28-29 Temps (jours)
-
-Fenêtre virologique
-
-Fenêtre sérologique
+![Figure 1. Evolution des marqueurs au cours de l’infection par le VIH](<../.gitbook/assets/Capture d’écran 2022-03-31 à 02.15.00.png>)
 
 ### **Les tests**
 
@@ -43,13 +27,13 @@ Les tests biologiques de détection du VIH sont de deux types :
 
 Le choix des tests dépend de l’âge du sujet testé : chez l’adulte et l’enfant de plus de dix-huit mois, le dépistage et le diagnostic de l’infection à VIH se font à l’aide des tests sérologiques ; chez l’enfant de moins de dix-huit mois, ils font obligatoirement appel aux tests de détection directe du virus. L’enfant né d’une mère séropositive aura les anticorps de sa mère sans pour autant être infecté. Cas particuliers : en cas de suspicion d’infection très récente, on préfèrera un test vital direct en raison du risque de négativité des anticorps (fenêtre sérologique).
 
-#### _Test de dépistage ELISA_
+#### Test de dépistage ELISA
 
 Le principe des tests immuno-enzymatiques anticorps (dit « de 3e génération ») consiste à utiliser des peptides immunogènes ou des protéines recombinantes du VIH-1 (groupe M et O) et du VIH-2 sur un support solide pour capter les anticorps spécifiques présents dans le sang. Les tests de 3e génération détectant les IgG et IgM spécifiques du VIH sont positifs en médiane vingt-trois jours (interquartile 25-75 % : 18-29 jours) après la contamination.
 
 Les tests ELISA dits de 4e génération permettent de détecter également l’antigène p24 du VIH-1. Ces tests sont dits mixtes, car ils détectent les anticorps anti-VIH-1 et anti-VIH-2, et combinés car ils détectent aussi l’Ag p24. Ils sont plus sensibles pour dépister une infection récente (dix-huit jours en médiane après la contamination). Ils sont très fiables (précision supérieure à 99 %), automatisables et peu coûteux.
 
-#### _Test rapide d’orientation diagnostique (TROD)_
+#### Test rapide d’orientation diagnostique (TROD)
 
 Les TROD sont des tests de détection des anticorps anti-VIH-1 et anti-VIH-2. Ce sont des tests réalisés à l’unité, à lecture visuelle subjective, de réalisation simple et donnant un résultat en moins de trente minutes (figure 2).
 
@@ -61,35 +45,25 @@ Ces tests peuvent être _négatifs en cas de primo-infection_ ou d’utilisation
 
 Le taux de faux positifs est estimé entre 1 et 5 % et rend indispensable l’utilisation d’un second test de dépistage (test ELISA).
 
-Figure 2 Réalisation (A) et lecture (B) d’un TROD
+![Figure 2. Réalisation d'un TROD](<../.gitbook/assets/3 (3)>)
 
-![Le dépistage du VIH, pourquoi et comment ? | Plate-Forme Prévention Sida](<../.gitbook/assets/3 (3)>)
+![Figure 2. Lecture d'un TROD](../.gitbook/assets/4)
 
-A
-
-B
-
-![](../.gitbook/assets/4)
-
-#### _Les autotests_
+#### Les autotests
 
 Les autotests sont des tests rapides, réalisés sur le sang total (sang du bout du doigt) ou sur la salive, qui exploitent la même technologie que les TROD. Ils sont destinés à être utilisés dans un environnement domestique par des utilisateurs profanes. Le prélèvement et l’interprétation sont effectués directement par l’intéressé.
 
-![](<../.gitbook/assets/5 (1)>)
+![Projet Atlas : un programme d'autotests en Afrique](<../.gitbook/assets/5 (1)>)
 
-: un programme d’autotests en Afrique
-
-#### _Test de confirmation: Western Blot/Immunoblot_
+#### Test de confirmation: Western Blot/Immunoblot
 
 Le Western Blot est un test de confirmation réalisé après la découverte d’une sérologie ELISA positive (figure 3). Il permet de mettre en évidence les différents anticorps dirigés contre les différentes protéines du VIH.
 
 Le Western Blot VIH-1 est considéré comme positif quand le sérum du sujet contient des anticorps contre au moins deux bandes d’enveloppe parmi les suivantes (gp160, gp120, gp41) et une autre bande correspondant à une réactivité contre une protéine gag ou pol.
 
-Figure 3 Exemples de différents résultats de Western-Blot VIH-1, illustrant différentes situations d’infection VIH
+![Figure 3. Exemples de différents résultats de Western-Blot VIH-1, illustrant différentes situations d’infection VIH](<../.gitbook/assets/6 (1)>)
 
-![](<../.gitbook/assets/6 (1)>)
-
-#### _Détection de l’antigène p24 (capside)_
+#### Détection de l’antigène p24 (capside)
 
 Elle se fait par technique ELISA. Son intérêt essentiel est le diagnostic d’une primo-infection VIH avant l’apparition des anticorps, car l’antigène p24 est détectable environ quinze jours après la contamination, alors que les anticorps sont présents seulement vingt-et-un à vingt-six jours après. Les tests ELISA combinés de 4e génération (antigène-anticorps) remplacent la recherche isolée de l’antigène p24.
 
@@ -101,13 +75,13 @@ Actuellement, le suivi virologique est un élément clé pour évaluer l’effic
 
 ### **Comment mesurer la réplication du VIH ?**
 
-#### _La technique PCR_
+#### La technique PCR
 
 L’ARN VIH dans le plasma (charge virale) est quantifié par des technologies d’amplification des acides nucléiques (_reverse transcriptase-polymerase chain reaction_ \[RT-PCR]). La première étape consiste en l’extraction de l’ARN, puis se déroule une étape d’amplification des quantités plus ou moins importantes d’acides nucléiques viraux qui vont être ciblées à l’aide d’amorces et de sondes spécifiques du génome viral VIH-1 (figure 4).
 
-![](../.gitbook/assets/7)_Figure 4 Exemples de systèmes de mesure de la charge virale VIH-1 automatisés et en système fermé_
+![Figure 4. Exemples de systèmes de mesure de la charge virale VIH-1 automatisés et en système fermé (système haut débit)](../.gitbook/assets/7)
 
-![](<../.gitbook/assets/8 (1)>)_A. Système haut débit  B Système unitaire_
+![Figure 4. Exemples de systèmes de mesure de la charge virale VIH-1 automatisés et en système fermé (système unitaire)](<../.gitbook/assets/8 (1)>)
 
 Les seuils de quantification sont compris entre 10 et 200 copies/mL de plasma selon les kits commerciaux et l’étendue d’amplification peut atteindre 108 copies/mL.
 
@@ -115,7 +89,7 @@ Les techniques de quantification permettent d’amplifier les différents groupe
 
 La charge virale (CV) peut se mesurer dans différents liquides biologiques : sang, sperme, secrétions vaginales, lait, liquide céphalorachidien pour apprécier la production de virus au niveau cérébral.
 
-#### _À quoi sert la mesure de la charge virale ?_
+#### À quoi sert la mesure de la charge virale ?
 
 La quantification de la réplication virale est un marqueur pronostique de l’évolution de l’infection sans traitement et permet de mesurer l’efficacité du traitement. La quantification de la CV est devenue une recommandation forte de l’OMS pour toutes les personnes vivant avec le VIH.
 
@@ -123,21 +97,21 @@ L’ARN viral est détectable dès sept à dix jours après la contamination. La
 
 La mesure de la CV est aussi indispensable à la prise en charge d’un patient sous traitement ARV. La réplication virale sous traitement mesurée par la CV a des conséquences importantes sur l’émergence de résistance aux ARV, ainsi que sur la transmission du VIH.
 
-#### _Approches alternatives à la quantification de la charge virale plasmatique_
+#### Approches alternatives à la quantification de la charge virale plasmatique
 
 Dans les pays à ressources limitées, le nombre restreint de laboratoires spécialisés aptes à pratiquer ces tests de biologie moléculaire a conduit au développement d’approches alternatives pour permettre l’accès plus large à la CV.
 
-_- Sang séché sur buvard ou dried blot spot (DBS)_
+* _Sang séché sur buvard ou dried blot spot (DBS)_
 
 Le sang total est déposé directement sur un buvard, séché à l’air libre puis conservé au froid (-20°C), Après préparation simple pour fixer le prélèvement, la CV peut être quantifiée avec des kits commerciaux comme NucliSENS EasyQ. HIV-1 v. 2.0, Abbott m2000rt Real Time™ HIV-1 assay et Generic HIV Charge virale®. Le seuil de détection reste cependant assez élevé, environ 800-1 500 copies/mL.
 
-_- Système de charge virale en point of care (POC)_
+* _Système de charge virale en point of care (POC)_
 
 Ces techniques pourraient favoriser l’expansion nécessaire des tests de CV au niveau des sites décentralisés et pallier les contraintes de transport des échantillons et des DBS. De plus, elles permettent d’effectuer la CV à proximité du point de prise en charge du patient. De nombreux systèmes sont développés, incluant les étapes d’extraction et d’amplification en temps réel avec un rendu en moins de deux heures.
 
 ### **Résistance du VIH aux antirétroviraux**
 
-#### _Principes de la résistance du VIH aux antirétroviraux_
+#### Principes de la résistance du VIH aux antirétroviraux
 
 La résistance du VIH aux ARV est liée à la sélection de mutations au niveau des gènes qui codent les enzymes cibles des ARV. Cette résistance ne se développe qu’en cas de réplication virale persistant sous médicaments ARV.
 
@@ -151,11 +125,9 @@ Toute réplication sous traitement ARV « non suppressif », c’est-à-dire ne 
 
 Cette sélection est rendue possible par la grande diversité génétique du VIH chez un même individu. Ainsi, chaque jour, sont générés des virus portant des mutations à chacune des positions du génome, notamment au niveau des gènes cibles des ARV. Les mutants résistants sont donc préexistants à l’instauration de la thérapeutique, en proportion minoritaire parmi les copies présentes dans l’organisme. Les mutations entraînent des modifications de structure des enzymes cibles dont l’interaction avec les ARV correspondants est perturbée, empêchant ainsi les ARV de se fixer à leur cible, donc de l’inhiber. Ainsi, les virus avec des mutations sélectionnées par les ARV sont capables de se multiplier en présence de l’ARV mais au prix d’une capacité réplicative virale diminuée.
 
-Figure 5 Principe de la sélection de variants résistants sous pression de sélection antirétrovirale et réémergence des variants sauvages en cas d’arrêt de traitement
+![Figure 5. Principe de la sélection de variants résistants sous pression de sélection antirétrovirale et réémergence des variants sauvages en cas d’arrêt de traitement](<../.gitbook/assets/Capture d’écran 2022-03-31 à 02.26.01.png>)
 
-![](../.gitbook/assets/9)
-
-#### _Barrière génétique à la résistance_
+#### Barrière génétique à la résistance
 
 La barrière génétique à la résistance est définie par le nombre de mutations de résistance nécessaires pour induire la résistance à un ARV donné et par la rapidité à laquelle ces mutations sont sélectionnées en cas de réplication virale sous cet ARV. La résistance à certains ARV, névirapine ou lamivudine par exemple, est liée à la présence d’une seule mutation dans le gène de la transcriptase inverse. On parle alors de faible barrière génétique à la résistance (figure 6). Chez des individus qui n’ont jamais reçu ces ARV, avec une CV VIH plasmatique de 10 000 copies/mL, un génome viral portant déjà cette mutation peut être présent.
 
@@ -163,11 +135,9 @@ Si la multiplication virale est mal contrôlée chez un patient traité par l’
 
 Il existe une notion plus globale qui est la barrière thérapeutique à la résistance : cette notion concerne la combinaison ARV utilisée et comprend à la fois la puissance anti-rétrovirale de la combinaison, des critères virologiques (barrière génétique à la résistance) et pharmacologiques (demi-vie des ARV).
 
-Figure 6 Principe de la barrière génétique à la résistance d’un antirétroviral
+![Figure 6. Principe de la barrière génétique à la résistance d’un antirétroviral](../.gitbook/assets/10)
 
-![](../.gitbook/assets/10)
-
-#### _Les techniques_
+#### Les techniques
 
 Les tests génotypiques d’analyse de la résistance aux ARV sont très largement utilisés pour la prise en charge thérapeutique des patients. Ils sont recommandés au moment du diagnostic avant l’initiation du traitement afin de rechercher une possible transmission de résistance, détectée dans environ 10% des nouvelles infections, et bien évidemment en cas d’échec sous traitement ARV.
 
@@ -175,35 +145,24 @@ Les tests génotypiques analysent les séquences des gènes de la transcriptase 
 
 Leur réalisation dans le contexte d’un échappement thérapeutique doit se faire alors que le patient est toujours sous médication ARV ou, si cela n’est pas possible, le plus précocement dans les semaines qui suivent l’arrêt du traitement. Les tests génotypiques doivent être effectués en cas d’échec virologique (CV > 50 copies/mL, confirmée sur deux mesures consécutives).
 
-Figure 7 Les différentes étapes de biologie moléculaire d’un test génotypique de résistance
-
-![Capture d’écran 2022-02-09 à 17](../.gitbook/assets/11)
-
-Source : Image B. Visseaux
+![Figure 7. Les différentes étapes de biologie moléculaire d’un test génotypique de résistance&#x20;
+Source : Image B. Visseaux](../.gitbook/assets/11)
 
 Les séquences génotypiques sont interprétées à l’aide d’algorithmes définissant le virus comme « sensible », « résistant » ou « résistant possible » aux différents ARV en fonction des mutations mises en évidence (figure 8). Les algorithmes de l’ANRS I MIE, Stanford et Rega sont les plus utilisés, publiquement accessibles et régulièrement mis à jour.
 
-[_(www.hivfrenchresistance.or_](http://www.hivfrenchresistance.org)_g,_ [_https://hivdb.stanford.edu)._](https://hivdb.stanford.edu)
+[_(www.hivfrenchresistance.or_](http://www.hivfrenchresistance.org)__[_g_](https://www.hivfrenchresistance.org)_,_ [_https://hivdb.stanford.edu)_](https://hivdb.stanford.edu)
 
 L’interprétation des tests de résistance doit se faire en concertation entre cliniciens, virologues et pharmacologues, examinant ensemble l’histoire du traitement du patient, l’évolution de la CV et du nombre de lymphocytes T CD4+, les éventuels problèmes d’observance, d’intolérance et d’interactions médicamenteuses.
 
 Dans les centres de prise en charge, les réunions de discussion de dossiers (RCP) sont importantes et doivent prendre en compte l’ensemble des génotypes de résistance disponibles au cours de l’histoire thérapeutique du patient (génotype de résistance dit « cumulé »).
 
-Figure 8 Deux génotypes de résistance interprétés selon l’algorithme ANRS
+Deux génotypes de résistance interprétés selon l’algorithme ANRS :
 
-![C:\Users\503800\AppData\Local\Microsoft\Windows\INetCache\Content.Word\génotype vert sans nom et CB.jpg](../.gitbook/assets/12)
+![Virus entièrement sensible](../.gitbook/assets/12)
 
-**Virus**
+![Virus résistant IP et INI](../.gitbook/assets/13)
 
-**entièrement**
-
-**sensible**
-
-![C:\Users\503800\AppData\Local\Microsoft\Windows\INetCache\Content.Word\génotype V et R sans nom et CB  \_LI.jpg](../.gitbook/assets/13)
-
-**Virus résistant IP et INI**
-
-**Séquençage sur papier buvard et (DBS)**
+#### **Séquençage sur papier buvard et (DBS)**
 
 Les pays du Sud souffrent d’un manque de ressources adaptées à ces techniques de biologie moléculaires disponibles en routine.
 
@@ -215,4 +174,6 @@ La taille du réservoir viral est estimée par la quantité d’ADN VIH présent
 
 Il est possible de détecter les virus résistants archivés dans le réservoir cellulaire par génotype. Ainsi, dans le cadre d’un changement de traitement (allègement thérapeutique par exemple) chez une personne présentant une CV plasmatique indétectable, un test de résistance peut être réalisé à partir de l’ADN VIH dans les cellules cibles.
 
+{% hint style="danger" %}
 _Attention_ : l’absence de détection de mutations de résistance dans l’ADN proviral ne signifie pas que la mutation n’est pas archivée, elle peut être présente en proportion minoritaire ou dans un autre réservoir.
+{% endhint %}
