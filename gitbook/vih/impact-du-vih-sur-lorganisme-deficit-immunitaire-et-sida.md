@@ -34,7 +34,7 @@ Dans la _deuxième ligne_, les lymphocytes CD4 s’activent et se multiplient et
 
 _Juste après la bataille_, lorsque l’infection est maîtrisée, un grand nombre de ces lymphocytes T et B, épuisés et devenus inutiles, meurent ; les moins épuisés survivent et gardent en mémoire toute cette activation et cette maturation. Ces _lymphocytes T et B mémoire_ persistent des dizaines d’années et seront capables de produire immédiatement à tout moment des défenses adaptées lorsque le même agent infectieux se représentera.
 
-![Figure 1 : Fonctionnement système immunitaire](<../.gitbook/assets/3 (1)>)
+![Figure 1. Fonctionnement système immunitaire](<../.gitbook/assets/3 (1)>)
 
 ## **Comment le VIH infecte-t-il le système immunitaire ?**
 
@@ -48,13 +48,13 @@ La majorité des contaminations se fait par voie sexuelle. Le VIH pénètre donc
 
 
 
-![Figure 2 : Infection du système immunitaire par le VIH](<../.gitbook/assets/4 (2)>)
+![Figure 2. Infection du système immunitaire par le VIH](<../.gitbook/assets/4 (2)>)
 
-### _Mais le VIH n’infecte pas toutes les cellules CD4+._
+### Mais le VIH n’infecte pas toutes les cellules CD4+.
 
 La quasi-totalité du virus (90-95%) se trouve dans les lymphocytes T CD4 qui recirculent en permanence dans l’organisme ; les 5-10% restants sont des macrophages, les cellules sentinelles patrouillant dans les tissus. Et à l’intérieur du compartiment de lymphocytes T CD4, le virus va infecter plus facilement les lymphocytes T CD4+ mémoire qui co-expriment les deux récepteurs CD4 et CCR5 et s’activent plus rapidement.
 
-### _Ces lymphocytes T CD4+ mémoire constituent ainsi le réservoir principal de VIH._
+### Ces lymphocytes T CD4+ mémoire constituent ainsi le réservoir principal de VIH.
 
 L’ADN de celui-ci est intégré dans le noyau de la cellule qui l’héberge. Or, pour se répliquer le VIH a besoin que la cellule CD4+ s’active : ainsi l’activation de défenses immunes contre n’importe quel agent infectieux ou vaccin déclenchera fatalement la production de VIH. C’est le phénomène de la « belle au bois dormant » : à tout moment il y aura deux types de cellules CD4+ infectées : les cellules dormantes au repos, non activées et incapables de produire du virus, et des cellules CD4+ qui ont reçu un signal d’activation, se réveillant au contact du baiser du prince charmant mais produisant alors automatiquement du VIH. Comme nous le verrons plus loin, le VIH des cellules dormantes n’est pas sensible aux antirétroviraux et constitue le réservoir latent du virus pouvant se maintenir durant des dizaines d’années.
 
@@ -62,7 +62,7 @@ L’ADN de celui-ci est intégré dans le noyau de la cellule qui l’héberge. 
 
 En détruisant les cellules CD4+, le VIH altère profondément le fonctionnement du système immunitaire et conduit au syndrome d’immunodéficience acquise ou SIDA. Sans macrophages CD4+ et surtout sans lymphocytes CD4+, le système immunitaire est paralysé. Cette destruction est lente et se produit sur environ 10 ans conduisant à la disparition des lymphocytes T CD4+ ou lymphopénie CD4 caractéristique du SIDA. Cette destruction est aggravée par une paralysie du système immunitaire empêchant toute nouvelle défense immune.
 
-### _Lymphopénie T CD4+_
+### Lymphopénie T CD4+
 
 Le taux de lymphocytes T CD4+ baisse inéluctablement en l’absence de traitement antirétroviral. La surveillance du taux de lymphocytes T CD4+ dans le sang permet d’estimer la gravité et l’ancienneté de l’infection VIH. On décrit 3 phases dans cette lymphopénie CD4 :
 
@@ -110,9 +110,9 @@ A partir du moment où les 1eres infections et cancers opportunistes apparaissen
 
 __
 
-![Figure 3 : Lymphopénie CD4 et SIDA](<../.gitbook/assets/Capture d’écran 2022-03-28 à 14.40.35.png>)
+![Figure 3. Lymphopénie CD4 et SIDA](<../.gitbook/assets/Capture d’écran 2022-03-28 à 14.40.35.png>)
 
-## **Restauration immunitaire sous antirétroviraux**
+### **Restauration immunitaire sous antirétroviraux**
 
 Ces altérations mortelles ne sont pas définitives. L’arrêt de la réplication virale sous antirétroviraux permet au système immun de se reconstituer, de renouveler les stocks de lymphocytes T CD4+ qui ne sont plus détruits par le VIH, et de restaurer des défenses immunes efficaces contre tous les agents infectieux et les cancers. L’inflammation elle aussi se réduit bien que plus lentement.
 

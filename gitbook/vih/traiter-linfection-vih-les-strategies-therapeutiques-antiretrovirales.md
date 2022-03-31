@@ -4,11 +4,11 @@
 
 Parce que le VIH se réplique massivement dès sa pénétration dans l’organisme, parce qu’il est constamment délétère et responsable d’un déficit immunitaire progressif, parce que la transmission du VIH est étroitement liée à son niveau de réplication et parce qu’il n’existe pas de guérison spontanée de l’infection VIH, seul le contrôle du virus par des antirétroviraux (ARV) bloquant son cycle de multiplication peut arrêter son processus mortifère.
 
-### _Un traitement ARV pour contrôler la progression de l’infection VIH_
+### Un traitement ARV pour contrôler la progression de l’infection VIH
 
 L’objectif du traitement ARV (TARV) est de contrôler (empêcher) la réplication virale jusqu’à ce que celle-ci ne soit plus détectable par les [techniques de PCR](les-outils-virologiques-du-diagnostic-et-du-suivi-de-linfection-vih.md) avec des valeurs sous le seuil de 50 copies/ml. Ce contrôle, ou suppression virologique, permet la restauration de l’immunité et l’arrêt des phénomènes inflammatoires délétères induits par le VIH.
 
-### _Un traitement ARV pour ne pas risquer de contaminer_
+### Un traitement ARV pour ne pas risquer de contaminer
 
 Un bénéfice majeur du TARV est, outre le contrôle du VIH dans le sang, celui de son contrôle dans les secrétions potentiellement contaminantes comme les secrétions sexuelles (sperme, secrétions génitales). Des études contrôlées (essai HPTN 052, PARTNERS) ont de façon convaincante confirmé cette efficacité protectrice du traitement antirétroviral (> 95%) vis-à-vis du partenaire non-infecté.
 
@@ -25,7 +25,7 @@ Trois décennies de recherche intense ont permis :
 * De protéger les personnes non infectées par la prise d’un traitement préventif (prophylaxie préexposition ou PrEP).
 {% endhint %}
 
-### _Un traitement à vie_
+### Un traitement à vie
 
 Parce que le VIH est intégré dans le noyau des cellules lymphocytaires, intimement mêlé à l’ADN de ces cellules et qu’il y est en partie inactif, il n’est pas possible de l’éliminer de l’organisme. La réplication quotidienne du VIH impose que celui-ci soit en permanence inhibé par les molécules ARV actives.
 
@@ -89,7 +89,7 @@ Tableau 2 - Stratégies alternatives : recommandations OMS 2021
 
 _Source : OMS_ [_https://www.who.int/publications/i/item/9789240031593_](https://www.who.int/publications/i/item/9789240031593)
 
-### _Trithérapie classique_
+### Trithérapie classique
 
 Le ténofovir disoproxil fumarate (TDF) ou ténofovir alafénamide (TAF) accompagné par l’emtricitabine, constitue la charpente la plus utilisée des trithérapies. L’abacavir doit être utilisé seulement lorsqu’un test génétique HLA-B\*5701 est négatif, en tout cas dans les populations caucasiennes chez lesquelles ce profil génétique est rencontré.
 
@@ -104,7 +104,7 @@ Le choix d’un **3e agent, c’est-à-dire le médicament combiné en trithéra
 
 L’éfavirenz ou la rilpivirine ne sont plus recommandées en médiation de traitement pour des raisons de puissances (rilpivirine) ou de tolérance (éfavirenz). Enfin, l’utilisation d’IP en première ligne de traitement __ reste une option, notamment si le risque de résistance transmise ou acquise est évoqué, ou si d’autres options sont inadéquates. Dans ces situations, le choix se portera sur le darunavir boosté soit par du cobicistat soit par du ritonavir.
 
-### _Cas particuliers_
+### Cas particuliers
 
 * _Grossesse_ : le TARV est une urgence. Le DTG peut maintenant être donné, après une alerte écartée en 2021 sur des anomalies fœtales neurologiques, compte tenu d’un bénéfice important sur la vitesse de suppression virale, particulièrement sensible dans un contexte de découverte de VIH et de grossesse.
 * _Co-infection avec Virus Hépatite B_ : le traitement doit impérativement associer le TDF ou le TAF, actifs sur VHB.
@@ -134,7 +134,7 @@ BIC : bictégravir – CAB : cabotégravir – DTG : dolutégravir – EVG : elv
 MVC : maraviroc
 {% endhint %}
 
-### _Bithérapie en initiation_
+### Bithérapie en initiation
 
 Seule l’association DTG/3TC (DovatoR) est recommandée en initiation chez des patients non porteurs du VHB.
 
@@ -155,13 +155,13 @@ Ainsi, la tendance actuelle est davantage à l’individualisation du traitement
 
 L’allègement se définit par une diminution de l’exposition de l’organisme aux ARV. Il ne doit pas être confondu avec une simplification du traitement, qui va comporter moins de comprimés ou moins de prises, comme par exemple avec une combinaison d’ARV en prise unique.
 
-![Figure 1 Différentes stratégies d’allègement du traitement ARV chez des patients avec charge virale indétectable (stratégies de switch)](<../.gitbook/assets/Capture d’écran 2022-03-28 à 17.47.33.png>)
+![Figure 1. Différentes stratégies d’allègement du traitement ARV chez des patients avec charge virale indétectable (stratégies de switch)](<../.gitbook/assets/Capture d’écran 2022-03-28 à 17.47.33.png>)
 
-### _Réduction de posologie_
+### Réduction de posologie
 
 Seules quelques médicaments validés dans des essais cliniques peuvent être utilisés à posologie réduite en trithérapie : l’efavirenz (Sustiva®) 400 mg, le darunavir (Prezista®) 400 mg ou encore l’atazanavir (Reyataz®) utilisé non boosté.
 
-### _Bithérapies en switch_
+### Bithérapies en switch
 
 Plusieurs stratégies se sont révélées aussi efficaces que la poursuite d’une trithérapie pour le maintien du contrôle virologique et figurent dans les recommandations européennes :
 
@@ -170,17 +170,17 @@ Plusieurs stratégies se sont révélées aussi efficaces que la poursuite d’u
 * Bithérapie CAB/RPV longue durée Vocabria ®, Rekambys ® _IM_
 * Bithérapie IP/3TC : DRV/r +3TC ; LPV/3TC ; ATV/3TC.
 
-### _Allégement avec traitement intermittent 4 jours par semaine_
+### Allégement avec traitement intermittent 4 jours par semaine
 
 Ce type de stratégie, dont le but est une réduction de l’exposition aux médicaments, a été évalué dans plusieurs études pilotes. En Afrique du Sud l’essai Breather (cinq jours sur sept) et en France l’essai ANRS 4D vont montrer que des trithérapies comportant des prises quatre jours consécutifs sur sept (lundi-mardi-mercredi-jeudi) et le week-end _off_ permettent de maintenir un excellent taux d’indétectabilité (>90%) (figure 2). Ces résultats vont être validés à plus large échelle dans l’essai comparatif randomisé QUATUOR chez plus de 600 patients, avec des taux de succès virologique équivalents pour la trithérapie quatre jours sur sept comparée à la trithérapie standard sept jours sur sept. Figure 2&#x20;
 
-![Figure 2 Stratégie d’allégement du traitement antirétroviral par intermittence (4 jours par semaine)](<../.gitbook/assets/Capture d’écran 2022-03-28 à 18.26.17.png>)
+![Figure 2. Stratégie d’allégement du traitement antirétroviral par intermittence (4 jours par semaine)](<../.gitbook/assets/Capture d’écran 2022-03-28 à 18.26.17.png>)
 
 Largement utilisée dans certains centres ou par certains médecins, cette stratégie quatre jours sur sept recueille les faveurs des patients qui disposent d’un long week-end end sans TARV ! Elle réduit de 40% l’exposition aux molécules et le coût de la thérapie sans mettre en péril la suppression virologique.
 
 ## **Comment surveiller un traitement antirétroviral ?**
 
-### _Surveillance de l’efficacité virologique_
+### Surveillance de l’efficacité virologique
 
 L’objectif permanent du TARV étant la suppression virologique, avec maintien d’une CV <50 copies/ml dans le sang, il faut impérativement disposer de la mesure de cette CV pour surveiller l’efficacité du traitement.
 
@@ -198,7 +198,7 @@ Au cours du suivi : une fois acquise l’indétectabilité, mesure de la CV tous
 
 Dans certains cas de CV initiale très élevée, l’indétectabilité peut parfois n’être atteinte qu’au bout d’un an.
 
-### _Surveillance immunitaire_
+### Surveillance immunitaire
 
 La mesure de la restauration immunitaire se fait à 3 et/ou 6 mois en fonction du niveau initial, puis une fois par an.
 

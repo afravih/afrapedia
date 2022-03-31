@@ -1,6 +1,6 @@
 # Traiter l'infection VIH : les médicaments antirétroviraux
 
-Le développement des médicaments ARV a connu un développement spectaculaire depuis près de 30 ans. Les progrès ont concerné d’abord l’efficacité avec une puissance plus grande ( du simple au triple ) , la simplicité des prises - on est passé de plusieurs gélules plusieurs fois par jour à un traitement en une prise une fois par jour ! enfin la robustesse vis-à-vis de la résistance . Le défi en cours est celui des molécules longue durée, actives pendant plusieurs semaines ou plusieurs mois. Ces médicaments récents ont permis de faire évoluer les stratégies thérapeutiques ([Chapitre "Traiter l'infection VIH : les stratégies thérapeutiques antirétrovirales](traiter-linfection-vih-les-strategies-therapeutiques-antiretrovirales.md))
+Le développement des médicaments ARV a connu un développement spectaculaire depuis près de 30 ans. Les progrès ont concerné d’abord l’efficacité avec une puissance plus grande ( du simple au triple ) , la simplicité des prises - on est passé de plusieurs gélules plusieurs fois par jour à un traitement en une prise une fois par jour ! enfin la robustesse vis-à-vis de la résistance . Le défi en cours est celui des molécules longue durée, actives pendant plusieurs semaines ou plusieurs mois. Ces médicaments récents ont permis de faire évoluer les stratégies thérapeutiques ([Chapitre "Traiter l'infection VIH : les stratégies thérapeutiques antirétrovirales](traiter-linfection-vih-les-strategies-therapeutiques-antiretrovirales.md)")
 
 ## **Un peu d’histoire**
 
@@ -29,8 +29,7 @@ Plusieurs molécules / médicaments peuvent avoir la même action inhibitrice su
 * Les IP : inhibiteurs de la protéase
 * Les INI : inhibiteurs d’intégrase
 * Les inhibiteurs d’entrée
-
-En développement : un inhibiteur de capside
+* En développement : un inhibiteur de capside
 
 ![](<../.gitbook/assets/1 (4)>)
 
@@ -72,7 +71,7 @@ Cette classe de médicaments, la plus ancienne dans l’arsenal thérapeutique, 
 
 Les INTI sont des molécules de petite masse molaire (<300 g/mol), ce qui permet qu’ils soient aisément co-formulés. Dérivés des nucléosides naturels, ils bloquent l’enzyme permettant la synthèse d’ADN complémentaire à partir de l’ARN viral, avant son intégration dans le génome de la cellule infectée. Ces composés sont actifs sur le VIH-1 et le VIH-2.
 
-### _Puissance virologique_
+### Puissance virologique
 
 Les INTI sont des médicaments modérément puissants, qui réduisent la charge virale VIH d’en moyenne 1 log10 soit un facteur 10 (3TC) jusqu’à 1,5 log10 (ABC, TDF, TAF).
 
@@ -96,7 +95,7 @@ Si le virus se réplique en présence de médicament , Il va induire de la rési
 
 Au sein de la classe des INTI, la barrière génétique à la résistance est assez élevée pour TDF ou TAF, faible pour 3TC, intermédiaire pour les autres.
 
-### _Tolérance_
+### Tolérance
 
 Les INTI de première génération (AZT, d4T, ddI, ddC) se sont révélés mal tolérés, avec la survenue d’effets secondaires en lien avec leur toxicité mitochondriale (baisse des globules sanguins avec anémie pour l’AZT, troubles digestifs, douleurs musculaires, perte de la graisse avec creusement des joues, neuropathie des membres inférieurs). Pour ces raisons, ils ne sont plus recommandés.
 
@@ -141,22 +140,22 @@ TDF/3TC/DOR (Delstrigo®)
 * de comprimés en association avec dolutégravir : DTG/RPV (Juluca®)
 * la rilpivirine existe sous forme injectable (Rekambys®) administrée en intramusculaire tous les 2 mois.
 
-### _Efficacité_&#x20;
+### Efficacité&#x20;
 
 Les INNTI sont de puissants antirétroviraux (réduction virale de plus de 1 log10). En revanche, ils ne sont pas actifs sur VIH-2.
 
-### _Pharmacologie_
+### Pharmacologie
 
 Tous les INNTI, sauf la doravirine, induisent des interactions médicamenteuses, c’est-à-dire qu’administrés en même temps que d’autres médicaments :
 
 * leur concentration sanguine peut augmenter et exposer alors à un risque de toxicité;
 * ou bien eux-mêmes peuvent diminuer les concentrations des médicaments associés et donc en réduire l’efficacité.
 
-### _Tolérance_
+### Tolérance
 
 Leurs effets secondaires sont liés à une hypersensibilité, rare, qui apparait précocement (premières semaines du traitement) et qui doit conduire à leur interruption. D’autres effets concernent des troubles de la sphère neuropsychique : troubles du sommeil, rêves anormaux, troubles de l’humeur, dépression. En revanche, ils n’entrainent pas d’effets délétères rénaux, lipidiques et métaboliques ni une modification du poids, et sont adaptés à la prise au long cours.
 
-### _Résistance_
+### Résistance
 
 La barrière génétique des INNTI est faible à l’exception d’étravirine ou doravirine, les plus récemment développés. En cas de réplication persistante, des mutations de résistance émergent rapidement avec névirapine, efavirenz et rilpivirine notamment. Etravirine et doravirine peuvent perdre de leur efficacité en cas de mutations à névirapine, efavirenz, rilpivirine.
 
@@ -182,11 +181,11 @@ Les IP les plus anciens tels que indinavir (Crixivan®), saquinavir (Invirase®)
 
 Il peut s’utiliser en une prise quotidienne en l’absence de résistance ou en deux prises en cas de résistance aux IP.
 
-### _Tolérance_
+### Tolérance
 
 Les IP peuvent occasionner des troubles digestifs (diarrhées, embarras gastrique), une augmentation du cholestérol et des triglycérides, un subictère (« jaunisse »).
 
-### _Résistance_
+### Résistance
 
 Les IP ont tous une barrière à la résistance élevée, c’est-à-dire une capacité importante à résister à la « résistance ». D’une part, l’acquisition de mutations par le virus est relativement lente en comparaison des INNTI ou des INTI. D’autre part, il faut plusieurs mutations pour impacter négativement leur efficacité.
 
@@ -204,17 +203,17 @@ Il existe cinq médicaments actifs sur VIH-1 et VIH-2, par voie orale ou injecta
 * **bictégravir** qui n’existe que combiné à TAF/FTC (Bictarvy®)
 * **cabotégravir** oral (un mois) puis _IM_ (Vocabria®)
 
-### _Efficacité_&#x20;
+### Efficacité&#x20;
 
 Les INI entraînent une décroissance rapide de la charge virale plasmatique, conduisant plus rapidement à son indétectabilité que les INNTI ou les IP.
 
 Ils n’entrainent pas d’interactions majeures ni avec les autres ARV ni avec les médicaments associés.
 
-### _Résistance_
+### Résistance
 
 Les INI de première génération (RAL et EVG) ont une faible barrière génétique à la résistance. Les molécules de deuxième génération comme DTG ou BIC ont une barrière génétique élevée à la résistance avec tres peu /voire pas de résistance en cas d’échec à DTG chez les patients naïfs d’ARV. _****_ La barrière génétique à la résistance de CAB semble intermédiaire entre celles des INI de première et de deuxième génération.
 
-### _Tolérance_
+### Tolérance
 
 Les INI sont bien tolérés avec peu (moins de 5%) d’effets secondaires nécessitant leur interruption. Des troubles neuropsychiques sont possibles : insomnie, cauchemars, troubles de la concentration, vertiges, maux de tête.
 
