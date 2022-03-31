@@ -5,7 +5,11 @@ coverY: 0
 
 # Traiter l'infection VIH : les médicaments antirétroviraux
 
-Le développement des médicaments ARV a connu un développement spectaculaire depuis près de 30 ans. Les progrès ont concerné d’abord l’efficacité avec une puissance plus grande (du simple au triple), la simplicité des prises - on est passé de plusieurs gélules plusieurs fois par jour à un traitement en une prise une fois par jour ! enfin la robustesse vis-à-vis de la résistance. Le défi en cours est celui des molécules longue durée, actives pendant plusieurs semaines ou plusieurs mois. Ces médicaments récents ont permis de faire évoluer les stratégies thérapeutiques ([Chapitre "Traiter l'infection VIH : les stratégies thérapeutiques antirétrovirales](traiter-linfection-vih-les-strategies-therapeutiques-antiretrovirales.md)")
+Le développement des médicaments ARV a connu un développement spectaculaire depuis près de 30 ans. Les progrès ont concerné d’abord l’efficacité avec une puissance plus grande (du simple au triple), la simplicité des prises - on est passé de plusieurs gélules plusieurs fois par jour à un traitement en une prise une fois par jour ! enfin la robustesse vis-à-vis de la résistance. Le défi en cours est celui des molécules longue durée, actives pendant plusieurs semaines ou plusieurs mois. Ces médicaments récents ont permis de faire évoluer les stratégies thérapeutiques.
+
+{% content-ref url="traiter-linfection-vih-les-strategies-therapeutiques-antiretrovirales.md" %}
+[traiter-linfection-vih-les-strategies-therapeutiques-antiretrovirales.md](traiter-linfection-vih-les-strategies-therapeutiques-antiretrovirales.md)
+{% endcontent-ref %}
 
 ## **Un peu d’histoire**
 
@@ -26,6 +30,10 @@ La nécessité d’un _traitement à vie_, sans interruption puisque le VIH ne p
 ![](<../.gitbook/assets/0 (3)>)
 
 Les antirétroviraux (ARV) sont des molécules chimiques qui vont empêcher le déroulement du cycle du VIH ([cf chapitre "Qu'est-ce que le VIH ?"](quest-ce-que-le-vih.md)) en empêchant (inhibant) les enzymes qui activent une ou plusieurs étapes du cycle ce qui conduit à l’arêt de la production de nouveaux virus.
+
+{% content-ref url="quest-ce-que-le-vih.md" %}
+[quest-ce-que-le-vih.md](quest-ce-que-le-vih.md)
+{% endcontent-ref %}
 
 Plusieurs molécules / médicaments peuvent avoir la même action inhibitrice sur une enzyme. Tous les médicaments ayant la même action sur une enzyme appartiennent à la même classe. Les classes de molécules utilisées aujourd’hui en routine sont :
 

@@ -13,6 +13,10 @@ Parce que le VIH se réplique massivement dès sa pénétration dans l’organis
 
 L’objectif du traitement ARV (TARV) est de contrôler (empêcher) la réplication virale jusqu’à ce que celle-ci ne soit plus détectable par les [techniques de PCR](les-outils-virologiques.md) avec des valeurs sous le seuil de 50 copies/ml. Ce contrôle, ou suppression virologique, permet la restauration de l’immunité et l’arrêt des phénomènes inflammatoires délétères induits par le VIH.
 
+{% content-ref url="les-outils-virologiques.md" %}
+[les-outils-virologiques.md](les-outils-virologiques.md)
+{% endcontent-ref %}
+
 ### Un traitement ARV pour ne pas risquer de contaminer
 
 Un bénéfice majeur du TARV est, outre le contrôle du VIH dans le sang, celui de son contrôle dans les secrétions potentiellement contaminantes comme les secrétions sexuelles (sperme, secrétions génitales). Des études contrôlées (essai HPTN 052, PARTNERS) ont de façon convaincante confirmé cette efficacité protectrice du traitement antirétroviral (> 95%) vis-à-vis du partenaire non-infecté.
@@ -57,6 +61,10 @@ Il est évidemment important d’apprécier la capacité du patient à débuter 
 ## **Stratégies thérapeutiques d’initiation**
 
 Si le socle classique du TARV ([cf chapitre "Traiter l'infection VIH : les médicaments antirétroviraux"](traiter-linfection-vih-les-medicaments-antiretroviraux.md)) reste la trithérapie composée de deux inhibiteurs nucléosidiques (INTI) et d’un troisième agent soit inhibiteur d’intégrase (INI) ou inhibiteur non nucléosidique (INNTI), voire un IP, l’évolution au cours des cinq dernières années s’est faite progressivement vers un allègement du traitement. En effet, plusieurs stratégies d’allègement se sont révélées efficaces soit en initiation de traitement pour induire l’indétectabilité de la charge virale soit pour la maintenir (stratégies de maintenance).
+
+{% content-ref url="traiter-linfection-vih-les-medicaments-antiretroviraux.md" %}
+[traiter-linfection-vih-les-medicaments-antiretroviraux.md](traiter-linfection-vih-les-medicaments-antiretroviraux.md)
+{% endcontent-ref %}
 
 Plusieurs bithérapies commencent à entrer dans la pratique et figurent dans les recommandations nationales et internationales.
 

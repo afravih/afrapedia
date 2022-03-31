@@ -60,6 +60,8 @@ Quelques programmes de prévention et de recherche sont financés. En Afrique co
 Si les risques infectieux liés à l’usage de produits dans les pays du Nord et en France en particulier ont diminué depuis les années 1990, il faut néanmoins rester particulièrement vigilant en accompagnant les structures associatives communautaires qui sont des sentinelles, attentives aux nouvelles pratiques et qui permettent d’alerter les autorités sanitaires sur de nouveaux risques. Au Sud, la prévention, le soutien, la prise en charge doivent être développés auprès des usagers et l’accompagnement politique et scientifique intensifiés auprès des autorités judiciaires et sanitaires des pays.
 {% endhint %}
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6401774.svg)](https://doi.org/10.5281/zenodo.6401774)
+
 **Pour en savoir plus**&#x20;
 
 * COPPEL Anne, _Peut-on civiliser les drogues ? De la guerre à la drogue à la réduction des risques_, Paris, Éditions La Découverte, 2002

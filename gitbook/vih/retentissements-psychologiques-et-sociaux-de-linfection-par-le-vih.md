@@ -96,3 +96,5 @@ Mais la principale difficulté réside dans les interactions nombreuses des psyc
 **Vidéo** : dialogue entre Christine Kafando et Françoise Linard
 
 {% embed url="https://youtu.be/2Y-1-6RVvfo" %}
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6401774.svg)](https://doi.org/10.5281/zenodo.6401774)

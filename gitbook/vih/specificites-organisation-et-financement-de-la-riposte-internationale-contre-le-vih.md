@@ -105,6 +105,8 @@ Sur bien des aspects, on peut considérer que la riposte internationale au VIH a
 À sa façon, l’épidémie de sida a été un formidable laboratoire de ce qu’on appelle aujourd’hui la santé mondiale, cette approche selon laquelle les problèmes de santé nécessitent une réponse pensée et coordonnée à l’échelle du monde, avec l’ensemble des acteurs.
 {% endhint %}
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6401774.svg)](https://doi.org/10.5281/zenodo.6401774)
+
 **Pour en savoir plus**&#x20;
 
 Bekker, L-G, _et al._ Advancing global health and strengthening the HIV response in the era of the Sustainable Development Goals: the International AIDS Society, Lancet Commission. Lancet, Juillet 2018
