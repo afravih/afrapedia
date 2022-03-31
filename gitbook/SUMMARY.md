@@ -6,7 +6,7 @@
 
 * [Qu'est-ce que le VIH ?](vih/quest-ce-que-le-vih.md)
 * [Les outils virologiques du diagnostic et du suivi de l'infection VIH](vih/les-outils-virologiques-du-diagnostic-et-du-suivi-de-linfection-vih.md)
-* [Stratégies de dépistage](vih/strategies-de-depistage.md)
+* [Stratégies de dépistage](vih/strategies-de-depistage.md)
 * [Impact du VIH sur l'organisme, déficit immunitaire et Sida](vih/impact-du-vih-sur-lorganisme-deficit-immunitaire-et-sida.md)
 * [Traiter l'infection VIH : les médicaments antirétroviraux](vih/traiter-linfection-vih-les-medicaments-antiretroviraux.md)
 * [Traiter l’infection VIH : les stratégies thérapeutiques antirétrovirales](vih/traiter-linfection-vih-les-strategies-therapeutiques-antiretrovirales.md)

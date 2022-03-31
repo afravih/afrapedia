@@ -1,11 +1,13 @@
-# Stratégies de dépistage
+# Stratégies de dépistage
 
-L’agent causal du sida, le VIH, est découvert en 1983. Faire le diagnostic de la maladie va constituer la première étape majeure de sa prise en charge. On ne sait pas détecter le virus dans le sang de façon directe : la mesure du virus dans le sang par PCR n’apparaitra qu’en 1995. Par contre, on peut dès 1985 dépister les anticorps fabriqués par l’organisme quand il est infecté, au moyen de tests sérologiques ([chapitre "les outils virologiques du diagnostic et du suivi de l'infection VIH](les-outils-virologiques-du-diagnostic-et-du-suivi-de-linfection-vih.md))
+L’agent causal du sida, le VIH, est découvert en 1983. Faire le diagnostic de la maladie va constituer la première étape majeure de sa prise en charge. On ne sait pas détecter le virus dans le sang de façon directe : la mesure du virus dans le sang par PCR n’apparaitra qu’en 1995. Par contre, on peut dès 1985 dépister les anticorps fabriqués par l’organisme quand il est infecté, au moyen de tests sérologiques.
+
+(cf [chapitre "les outils virologiques du diagnostic et du suivi de l'infection VIH](les-outils-virologiques-du-diagnostic-et-du-suivi-de-linfection-vih.md)).
 
 Les activités prioritaires du dépistage vont être dans un premier temps :
 
 * celles qui relèvent de la sécurité transfusionnelle (don du sang) pour dépister le sang contaminé ;
-* celles de la surveillance épidémiologique, pour renseigner sur l’épidémie, les groupes de transmission.
+* celles de la surveillance épidémiologique, pour renseigner sur l’épidémie et identifier les populations les plus exposées.
 
 Cependant, dans le contexte d’une maladie mortelle pour laquelle aucun traitement n’était alors disponible et touchant des populations fortement stigmatisées, la mise en place de programmes de dépistage ne pouvait se faire sans soulever des questions éthiques et sociétales.
 
@@ -13,41 +15,41 @@ Cependant, dans le contexte d’une maladie mortelle pour laquelle aucun traitem
 
 En 1987, l’Organisation mondiale de la santé (OMS), à travers son Programme spécial de lutte contre le sida, va tenir à Genève une réunion sur les critères relatifs aux programmes de dépistage du VIH. Le [rapport de cette réunion](https://apps.who.int/iris/handle/10665/60039) éclaire les enjeux posés par le dépistage dès les débuts de la réponse.
 
-_« Il importe toutefois de bien penser l’utilité de tels programmes par rapport aux effets pervers qu’ils risquent d’avoir._
+« Il importe toutefois de bien penser l’utilité de tels programmes par rapport aux effets pervers qu’ils risquent d’avoir.
 
-_Les programmes de dépistage du VIH soulèvent de vastes problèmes allant au-delà de la simple reconnaissance des individus infectés. En raison des modes de propagation extrêmement limités du VIH, du caractère intime du comportement généralement impliqué dans la transmission et de l’absence actuelle de moyens de lutte spécifique, l’institution de programmes de dépistage doit s’entourer de la plus grande prudence. De tels programmes risquent de constituer une ingérence dans la vie privée, d’être coûteux et inefficaces et de mobiliser des ressources humaines, matérielles, financières au détriment des programmes d’éducation dont on sait qu’ils constituent la principale et la plus efficace des mesures de prévention qui existent à l’heure actuelle._
+Les programmes de dépistage du VIH soulèvent de vastes problèmes allant au-delà de la simple reconnaissance des individus infectés. En raison des modes de propagation extrêmement limités du VIH, du caractère intime du comportement généralement impliqué dans la transmission et de l’absence actuelle de moyens de lutte spécifique, l’institution de programmes de dépistage doit s’entourer de la plus grande prudence. De tels programmes risquent de constituer une ingérence dans la vie privée, d’être coûteux et inefficaces et de mobiliser des ressources humaines, matérielles, financières au détriment des programmes d’éducation dont on sait qu’ils constituent la principale et la plus efficace des mesures de prévention qui existent à l’heure actuelle.
 
-_\[…]_
+\[…]
 
-_En l’absence d’un traitement efficace contre les infections à VIH, l’institution de programmes de dépistage du VIH a pour justification sur le plan de la santé publique que l’identification des sujets infectés doit contribuer à la réduction de la transmission du VIH. »_
+En l’absence d’un traitement efficace contre les infections à VIH, l’institution de programmes de dépistage du VIH a pour justification sur le plan de la santé publique que l’identification des sujets infectés doit contribuer à la réduction de la transmission du VIH. »
 
 Le comité d’experts va émettre une série de recommandations qui vont faire du dépistage du VIH un dépistage « exceptionnel » par rapport à d’autres pathologies.
 
 En premier lieu, un **conseil** individualisé pré- et post-test est essentiel, tant pour l’annonce d’un résultat positif que pour éduquer les personnes dépistées afin de favoriser l’adoption de comportements à moindre risque.
 
-_« Il est donc impératif d’informer les sujets avant de pratiquer l’épreuve \[de recherche du VIH] et d’accompagner de conseils l’annonce des résultats à l’intéressé ; dans tous les cas où cela sera possible, les résultats seront communiqués personnellement par un conseiller qualifié. »_
+« Il est donc impératif d’informer les sujets avant de pratiquer l’épreuve \[de recherche du VIH] et d’accompagner de conseils l’annonce des résultats à l’intéressé ; dans tous les cas où cela sera possible, les résultats seront communiqués personnellement par un conseiller qualifié. »
 
 Le **consentement éclairé** et la **confidentialité des données** constituent deux autres prérequis essentiels au dépistage.
 
-_« Le fait d’être la cible d’un programme de dépistage peut avoir pour les intéressés \[…] des conséquences sociales adverses graves, notamment l’isolement social, des pertes économiques, l’annulation de contrats d’assurance et la discrimination sur le plan de l’emploi, des études, du logement, des soins de santé et des services sociaux. Ces conséquences potentiellement destructives donnent une urgence spéciale aux problèmes de consentement éclairé du sujet et de la confidentialité des données. »_
+« Le fait d’être la cible d’un programme de dépistage peut avoir pour les intéressés \[…] des conséquences sociales adverses graves, notamment l’isolement social, des pertes économiques, l’annulation de contrats d’assurance et la discrimination sur le plan de l’emploi, des études, du logement, des soins de santé et des services sociaux. Ces conséquences potentiellement destructives donnent une urgence spéciale aux problèmes de consentement éclairé du sujet et de la confidentialité des données. »
 
 Ainsi, le dépistage du VIH s’est inscrit très tôt dans une perspective de respect des **droits de l’Homme**.
 
-_« Le droit de toute personne au respect de sa vie privée peut être violé si des renseignements concernant les résultats de la sérologie du VIH (ou même simplement le fait que cet examen a été prescrit ou demandé) sont divulgués sans l’autorisation de la personne concernée ou sans que ce soit pour des raisons évidentes de santé publique. Pour respecter les droits de l’Homme, il convient d’utiliser les mesures les moins inopportunes qui permettront d’atteindre les objectifs de santé publique visés. »_
+« Le droit de toute personne au respect de sa vie privée peut être violé si des renseignements concernant les résultats de la sérologie du VIH (ou même simplement le fait que cet examen a été prescrit ou demandé) sont divulgués sans l’autorisation de la personne concernée ou sans que ce soit pour des raisons évidentes de santé publique. Pour respecter les droits de l’Homme, il convient d’utiliser les mesures les moins inopportunes qui permettront d’atteindre les objectifs de santé publique visés. »
 
 Enfin, dans un contexte où certains gouvernements envisageaient la mise en place de programmes de dépistage obligatoires, le comité d’experts réunis par l’OMS a insisté sur le caractère **volontaire** que devait avoir le dépistage du VIH.
 
-_« Le contrôle universel des donneurs de sang ou de produit sanguins et de cellules/tissus/organes se justifie tout à fait. \[…] Comme les autres modes de transmission \[…] sont la conséquence de comportements d’ordre privé, l’efficacité de programmes de santé publique complémentaires dépendra largement de la participation volontaire et d’un effort d’éducation visant à susciter une modification des comportements dangereux._
+« Le contrôle universel des donneurs de sang ou de produit sanguins et de cellules/tissus/organes se justifie tout à fait. \[…] Comme les autres modes de transmission \[…] sont la conséquence de comportements d’ordre privé, l’efficacité de programmes de santé publique complémentaires dépendra largement de la participation volontaire et d’un effort d’éducation visant à susciter une modification des comportements dangereux.
 
-_La recherche des anticorps anti-VIH facilement accessibles, assurés sur une base volontaire, a plus de chance que le dépistage obligatoire de susciter des modifications de comportement qui contribueront à \[…] la réduction de la propagation du VIH. Il y a des mesures de prévention plus efficaces, moins importunes et moins coûteuses que le dépistage universel obligatoire. »_
+Les participants à la réunion ont été d’avis que des services de conseil et de recherche des anticorps anti-VIH facilement accessibles, assurés sur une base volontaire, ont plus de chance que le dépistage obligatoire de susciter des modifications de comportement qui contribueront à \[…] la réduction de la propagation du VIH. Il y a des mesures de prévention plus efficaces, moins importunes et moins coûteuses que le dépistage universel obligatoire. »
 
 Dans plusieurs régions du monde, des programmes de dépistage obligatoire vont être envisagés voire mis en œuvre par certains gouvernements. En 1992, l’Assemblée mondiale de la santé va se positionner contre le dépistage obligatoire :
 
-_« Aucune considération de santé publique ne peut légitimer des mesures de lutte contre le sida attentatoires aux droits des individus et notamment des mesures tendant à l’instauration d’un dépistage obligatoire. »_
+« Aucune considération de santé publique ne peut légitimer des mesures de lutte contre le sida attentatoires aux droits des individus et notamment des mesures tendant à l’instauration d’un dépistage obligatoire. »
 
 Une [consultation sur le dépistage de l’infection à VIH](https://apps.who.int/iris/handle/10665/59333) sous l’égide de l’OMS en novembre 1992 va préciser cela.
 
-_« Le test obligatoire et autres types de test sans consentement éclairé n’ont pas leur place dans un programme de lutte contre le sida. »_
+« Le test obligatoire et autres types de test sans consentement éclairé n’ont pas leur place dans un programme de lutte contre le sida. »
 
 Est promu un dépistage volontaire qui doit :
 
@@ -98,9 +100,9 @@ En Afrique de l’Ouest et du centre, notre compréhension des épidémies chang
 
 Dès lors, vont se développer _des stratégies de dépistage communautaires_ auprès des hommes ayant des rapports sexuels avec des hommes, des travailleuses du sexe et, plus récemment, des usagères et usagers de drogues. Les tests rapides vont permettre la mise en œuvre d’interventions directement sur les sites prostitutionnels, les espaces de socialisation homosexuels et les lieux de consommation de drogues. D’autres groupes de population vont également être visés selon les pays : hommes en uniformes (policiers et militaires), conducteurs de camion, chauffeurs de taxi, coiffeuses et petites marchandes, prisonniers… Les stratégies de dépistage vont ainsi être de plus en plus ciblées.
 
-Au cours de la dernière décennie, notamment en lien avec la philosophie du _new public management_ et la volonté accrue des grands bailleurs internationaux de mieux contrôler l’utilisation et la performance des fonds accordés, les programmes de lutte contre le sida ont adopté des stratégies avec un ciblage populationnel de plus en plus fin. Or, de telles approches produisent également des effets pervers. Devoir vérifier si les personnes rencontrées sur le terrain relèvent bien d’une des cibles du programme (la personne admet-elle par exemple des rapports sexuels avec une personne du même sexe ou bien des rapports tarifés ?) nécessite du temps. Surtout, face à des pratiques socialement réprouvées, il est possible que cela amène à ne pas inclure des personnes qui ne reconnaissent pas avoir de telles pratiques alors qu’elles font partie, en fait, des cibles visées.
+Au cours de la dernière décennie, notamment en lien avec la philosophie du _new public management_ et la volonté accrue des grands bailleurs internationaux de mieux contrôler l’utilisation et la performance des fonds accordés, les programmes de lutte contre le sida ont adopté des stratégies avec un ciblage populationnel de plus en plus fin. Or, de telles approches produisent également des effets pervers. Devoir vérifier si les personnes rencontrées sur le terrain relèvent bien d’une des cibles du programme nécessite du temps. Surtout, face à des pratiques socialement réprouvées, il est possible que cela amène à ne pas inclure des personnes qui ne reconnaissent pas avoir de telles pratiques alors qu’elles font partie, en fait, des cibles visées.
 
-De nombreux _outils de dépistage_ se sont développés. Il s’agit le plus souvent de courts questionnaires sociocomportementaux visant à établir le « niveau de risque » des personnes interrogées afin de déterminer si un dépistage du VIH doit leur être proposé. Ces outils permettent d’augmenter le « rendement » du dépistage, c’est-à-dire les taux de positivité, en étant plus sélectifs dans le dépistage. En contrepartie, cela exclut également du dépistage des personnes qui auraient bénéficié à connaître leur statut.
+De nombreux _outils d’évaluation des « risques »_ se sont développés. Il s’agit le plus souvent de courts questionnaires sociocomportementaux visant à établir le « niveau de risque » des personnes interrogées afin de déterminer si un dépistage du VIH doit leur être proposé. Ces outils permettent d’augmenter le « rendement » du dépistage, c’est-à-dire les taux de positivité, en étant plus sélectifs dans le dépistage. En contrepartie, cela exclut également du dépistage des personnes qui auraient bénéficié à connaître leur statut.
 
 La recherche de performance peut ainsi avoir des effets délétères entravant l’augmentation de la couverture. Surtout, cela revient à ne considérer les bénéfices du dépistage qu’en matière de nouveaux diagnostics, alors qu’il s’agit également d’une opportunité de réengager vers les soins des personnes se sachant déjà séropositives, mais n’ayant pas initié ou ayant abandonné un traitement, et de proposer des services de prévention aux personnes dépistées séronégatives, opportunité récemment rappelée début 2022 dans le cadre d’une consultation de haut niveau sur le futur du dépistage organisée par la _International AIDS Society_.
 
@@ -110,7 +112,7 @@ Au cours des années 2010, vont être développés de nouveaux tests rapides pou
 
 C’est un outil innovant qui donne du pouvoir aux utilisatrices et aux utilisateurs (_empowerment_) et rend le dépistage plus confidentiel. Depuis 2016, l’OMS recommandait l’autodépistage comme approche additionnelle de dépistage. Cette recommandation a été renforcée dans les lignes directrices de 2019 sur le dépistage du VIH. À cette occasion, l’OMS recommande également, en particulier pour les populations clés, les approches basées sur les réseaux sociaux et la simplification du conseil prétest : _« Il n’est pas recommandé d’offrir des services de conseil avant le dépistage. \[…] Au contraire, d’après les données probantes, il vaut mieux communiquer une information et des messages de courte durée avant le dépistage, qui proposent et encouragent le dépistage. »_
 
-En France, les autotests de dépistage du VIH sont autorisés à la vente en pharmacie depuis 2015. En Afrique australe et orientale, l’autodépistage (ADVIH) a commencé à être massivement déployé à partir de 2015 à travers l’initiative STAR (_HIV Self-testing Africa Initiative_) financée par Unitaid. En Afrique de l’Ouest, le premier programme d’envergure a été le programme ATLAS (AutoTest VIH, Libre d’Accéder à la connaissance de son Statut), également financé par Unitaid, et qui a démarré ses activités en 2019 en Côte d’Ivoire, au Mali et au Sénégal.
+En France, les autotests de dépistage du VIH sont autorisés à la vente en pharmacie depuis 2015. En Afrique australe et orientale, l’autodépistage du VIH (ADVIH) a commencé à être massivement déployé à partir de 2015 à travers l’initiative STAR (_HIV Self-testing Africa Initiative_) financée par Unitaid. En Afrique de l’Ouest, le premier programme d’envergure a été le programme ATLAS (AutoTest VIH, Libre d’Accéder à la connaissance de son Statut), également financé par Unitaid, et qui a démarré ses activités en 2019 en Côte d’Ivoire, au Mali et au Sénégal.
 
 Plusieurs études ont montré que l’ADVIH offrait aux utilisateurs plus de discrétion et d’autonomie et améliorait l’accès au dépistage. L’autodépistage est bien accepté, notamment par les populations clés et par celles et ceux que ne se dépistent pas régulièrement. L’ADVIH est une stratégie acceptable, faisable et dont les performances diagnostiques sont bonnes.
 
@@ -120,7 +122,7 @@ Une stratégie de _distribution primaire_ correspond à la situation où les aut
 
 Les résultats des recherches menées dans le cadre du programma ATLAS montrent que l’autodépistage est une offre complémentaire de dépistage permettant d’atteindre des personnes qui ne s’étaient encore jamais dépistées avec les offres conventionnelles de dépistage. La stratégie de distribution secondaire est faisable et acceptable. Elle a le potentiel d'atteindre, au-delà des populations-clés elles-mêmes, d’autres populations périphériques et vulnérables au VIH.
 
-**Vidéo Youtube** : présentation des principaux résultats ATLAS en décembre 2021 au Symposium AFRAVIH lors de la conférence ICASA
+**Vidéo** : présentation des principaux résultats ATLAS en décembre 2021 au Symposium AFRAVIH lors de la conférence ICASA
 
 {% embed url="https://youtu.be/qJDH76ywuR4" %}
 

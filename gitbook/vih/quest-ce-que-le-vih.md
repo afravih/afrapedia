@@ -25,7 +25,7 @@ Tous les VIH dérivent de virus de l’immunodéficience du singe (dits SIV). Ce
 Ainsi, chaque groupe de VIH-1 et VIH-2 représente une introduction séparée d’une souche de SIV à l’homme. Le passage des différentes souches de SIV du singe à l’homme est expliqué par le fait que les singes ont été chassés, et sont parfois encore braconnés, comme gibier (chimpanzé, gorille, sooty mangabey) ou comme animal de compagnie (sooty mangabey).
 
 ![Figure 2. Les différents SIV, leurs hôtes et origines de la transmission du singe à l'homme&#x20;
-Source : Modifié par le Dr Benoit Visseaux d’après Sharp et Hahn 2011](<../.gitbook/assets/Capture d’écran 2022-03-31 à 02.02.54.png>)
+Source : Modifié par le Dr Benoit Visseaux d’après Sharp et Hahn 2011](<../.gitbook/assets/Capture d’écran 2022-03-31 à 02.02.54.png>)
 
 La répartition géographique des différents VIH-1 diffère selon l’ancienneté de l’épidémie dans le pays, l’effet fondateur dans le groupe d’individus considéré et les migrations de population.
 
