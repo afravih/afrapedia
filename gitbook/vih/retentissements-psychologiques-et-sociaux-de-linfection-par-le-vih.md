@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA partie VIH V2.png
 coverY: 0
 ---
 
@@ -21,9 +21,9 @@ Certains HSH (hommes ayant des relations sexuelles avec des hommes) l’apprenne
 
 Lorsqu’un patient est bien informé et pris en charge, l’amélioration des traitements, la restauration de l’immunité et l’acquisition d’une charge virale indétectable permettent assez rapidement un suivi allégé. Les liens avec l’hôpital (toujours vécu comme le lieu de la maladie grave) se distendent et les médecins de ville prennent le relais, ce qui contribue à banaliser l’infection. La prise d’un traitement quotidien vient rappeler la présence du VIH, mais cette contrainte existe aussi dans bien d’autres maladies chroniques.
 
-Pour certains cependant, tous ces éléments positifs ne font pas sens. Le signifiant « sida » vient recouvrir leur vie de son ancien poids mortifère. L’idée qu’en arrêtant le traitement la mort serait rapide reste communément répandue et contribue au maintien de la perception d’une maladie « dangereuse ».
+Pour certains cependant, tous ces éléments positifs ne font pas sens. Le signifiant « sida » vient recouvrir leur vie de son ancien poids mortifère. L’idée qu’en arrêtant le traitement la mort serait rapide reste communément répandue et contribue au maintien de la perception d’une maladie « dangereuse ».
 
-De facto, les conséquences de l’atteinte sur la vie privée sont importantes : comment le dire au partenaire, à l’entourage, à la famille ? Lors de la découverte, quel est le statut sérologique du partenaire, des enfants ? Aujourd’hui, beaucoup de personnes séropositives ne divulguent leur infection qu’à très peu de gens, craignant aussi bien la stigmatisation que la compassion ; en conséquence, l’infection devient de plus en plus invisible et anonyme.
+De facto, les conséquences de l’atteinte sur la vie privée sont importantes : comment le dire au partenaire, à l’entourage, à la famille ? Lors de la découverte, quel est le statut sérologique du partenaire, des enfants ? Aujourd’hui, beaucoup de personnes séropositives ne divulguent leur infection qu’à très peu de gens, craignant aussi bien la stigmatisation que la compassion ; en conséquence, l’infection devient de plus en plus invisible et anonyme.
 
 La recherche d’un partenaire est pour certain(e)s un « parcours du combattant » qui peut entrainer un arrêt de la vie amoureuse et sexuelle. Il est important de rappeler le bénéfice majeur du contrôle de l’infection par le traitement, à savoir la non-transmissibilité du VIH, qui va rendre la vie sexuelle plus souriante.
 
@@ -31,17 +31,17 @@ Les fréquentes difficultés sociales et les conditions de vie, en particulier d
 
 Pour la plupart des migrants, le retour au pays d’origine devient impossible, tant les systèmes de soins locaux sont, la plupart du temps, défaillants ou vécus comme tels. Les liens familiaux sont altérés par l’éloignement, les familles sont souvent décomposées/ recomposées.
 
-Aujourd’hui, les représentations sociales sont très paradoxales : il existe d’un côté un discours rassurant de « villes » ou de « pays » « sans sida », alors que pendant encore des dizaines d’années, les personnes atteintes vont devoir vivre avec le VIH. Ce discours accentue le fossé entre le Nord et le Sud, où l’on parle à présent de 4e épidémie.
+Aujourd’hui, les représentations sociales sont très paradoxales : il existe d’un côté un discours rassurant de « villes » ou de « pays » « sans sida », alors que pendant encore des dizaines d’années, les personnes atteintes vont devoir vivre avec le VIH. Ce discours accentue le fossé entre le Nord et le Sud, où l’on parle à présent de 4e épidémie.
 
 ## **Impacts psychosociaux des troubles psychiatriques**
 
-La dépression a été classée par l’OMS, en 2015, comme le plus grand contributeur mondial à l'incapacité : elle représente 7,5% de toutes les années vécues avec une incapacité (AVI). Les répercussions globales sont également coûteuses : l’OMS estime que le trouble dépressif caractérisé serait dès 2020 au premier rang de l’ensemble des maladies en termes de dépenses globales, directes et indirectes pour la société.
+La dépression a été classée par l’OMS, en 2015, comme le plus grand contributeur mondial à l'incapacité : elle représente 7,5% de toutes les années vécues avec une incapacité (AVI). Les répercussions globales sont également coûteuses : l’OMS estime que le trouble dépressif caractérisé serait dès 2020 au premier rang de l’ensemble des maladies en termes de dépenses globales, directes et indirectes pour la société.
 
 Les troubles psychiatriques ont de lourdes conséquences sur la qualité de vie et l’observance (oubli des prises de traitements, des consultations…). Ils entrainent une consommation plus fréquente de substances (licites ou illicites) telles l’alcool ou de substances psychoactives, dont les psychotropes. Ils peuvent engendrer une augmentation des prises de risques, avoir un retentissement sur la sexualité, des répercussions sur la vie affective, familiale, sociale et professionnelle, et une altération des capacités de travail. Enfin, les troubles dépressifs peuvent avoir des répercussions négatives en majorant les risques de discrimination à l’égard du patient (les troubles mentaux sont très stigmatisés) et en augmentant l’isolement et/ou la précarité.
 
 ## **Dépistage des troubles psychiatriques**
 
-Le dépistage passe avant tout par l’écoute du patient et le repérage précis des symptômes. Pendant la consultation, on recherche par exemple la tristesse de l’humeur, l’idée d’un avenir sombre, les troubles de la concentration, ou au contraire l’exaltation voire des idées délirantes. On interroge aussi le patient sur le retentissement des troubles dans la vie personnelle : vie affective, familiale, professionnelle… L’interrogatoire recherche également les antécédents, les épisodes antérieurs (prises en charges, traitements). Le dépistage des prises de toxiques et des addictions est fondamental.
+Le dépistage passe avant tout par l’écoute du patient et le repérage précis des symptômes. Pendant la consultation, on recherche par exemple la tristesse de l’humeur, l’idée d’un avenir sombre, les troubles de la concentration, ou au contraire l’exaltation voire des idées délirantes. On interroge aussi le patient sur le retentissement des troubles dans la vie personnelle : vie affective, familiale, professionnelle… L’interrogatoire recherche également les antécédents, les épisodes antérieurs (prises en charges, traitements). Le dépistage des prises de toxiques et des addictions est fondamental.
 
 ### Dépression
 
@@ -67,7 +67,7 @@ Les PVVIH âgées souffrent particulièrement de dépression. Une étude effectu
 
 Leur intensité va de l’anxiété diffuse à l’attaque de panique. Les troubles anxieux graves regroupent six entités cliniques : le trouble anxieux généralisé (TAG), le trouble panique avec ou sans agoraphobie, le trouble anxiété sociale, la phobie spécifique, le trouble obsessionnel compulsif (TOC) et l’état de stress post-traumatique (ESPT).
 
-En population générale, la prévalence du TAG est de 5,1%, deux fois plus fréquent chez les femmes que chez les hommes. Être âgé de plus de 24 ans, être séparé, veuf, sans emploi sont des facteurs significativement associé au TAG. Ce trouble s’associe dans 90% des cas avec d’autres troubles psychiatriques. La majorité des patients rapporte un impact important sur leur vie, en particulier dans le domaine professionnel et la consommation de médicaments. Les symptômes comprenant des troubles somatoformes (sécheresse de la bouche, sensation de tension interne, de « souffle coupé», d’étouffement, paresthésies, éruptions dermatologiques), ou encore des symptômes allant de difficultés de concentration à l’idée de mort imminente. Certains symptômes évoquent une pathologie cardiaque (douleur ou gêne thoracique), gastrique (diarrhées, vomissements, nausées ou gênes abdominales), neurologique (sensation de vertige, d’instabilité, de tête vide, tremblements, impression d’évanouissement) ou encore psychiatriques (déréalisation ou dépersonnalisation).
+En population générale, la prévalence du TAG est de 5,1%, deux fois plus fréquent chez les femmes que chez les hommes. Être âgé de plus de 24 ans, être séparé, veuf, sans emploi sont des facteurs significativement associé au TAG. Ce trouble s’associe dans 90% des cas avec d’autres troubles psychiatriques. La majorité des patients rapporte un impact important sur leur vie, en particulier dans le domaine professionnel et la consommation de médicaments. Les symptômes comprenant des troubles somatoformes (sécheresse de la bouche, sensation de tension interne, de « souffle coupé », d’étouffement, paresthésies, éruptions dermatologiques), ou encore des symptômes allant de difficultés de concentration à l’idée de mort imminente. Certains symptômes évoquent une pathologie cardiaque (douleur ou gêne thoracique), gastrique (diarrhées, vomissements, nausées ou gênes abdominales), neurologique (sensation de vertige, d’instabilité, de tête vide, tremblements, impression d’évanouissement) ou encore psychiatriques (déréalisation ou dépersonnalisation).
 
 Les troubles anxieux peuvent être présents avant la séropositivité. Dans une étude sud-africaine portant sur 485 PVVIH, un tiers souffrait d’anxiété ou de troubles dépressifs avant même le test.
 

@@ -1,9 +1,9 @@
 ---
-cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA partie VIH V2.png
 coverY: 0
 ---
 
-# Ce qu'en pensent les personnes atteintes : qualité de vie, accès aux soins, stigmatisation
+# Ce qu'en pensent les personnes atteintes : qualité de vie, accès aux soins, stigmatisation
 
 ## Témoignage de Moussa
 

@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA partie VIH V2.png
 coverY: 0
 ---
 
@@ -25,9 +25,9 @@ L’antigène p24, protéine de capside du VIH, est détectable à partir du qui
 
 ### Les tests
 
-Les tests biologiques de détection du VIH sont de deux types :
+Les tests biologiques de détection du VIH sont de deux types :
 
-* Tests indirects, ou sérologiques, visant à détecter dans le sang les anticorps produits par le système immunitaire contre les antigènes du virus ;
+* Tests indirects, ou sérologiques, visant à détecter dans le sang les anticorps produits par le système immunitaire contre les antigènes du virus ;
 * Tests directs, reposant sur la mise en évidence du virus (détection d’un composant du virus comme l’antigène p24 ou l’ARN génomique).
 
 Le choix des tests dépend de l’âge du sujet testé : chez l’adulte et l’enfant de plus de dix-huit mois, le dépistage et le diagnostic de l’infection à VIH se font à l’aide des tests sérologiques ; chez l’enfant de moins de dix-huit mois, ils font obligatoirement appel aux tests de détection directe du virus. L’enfant né d’une mère séropositive aura les anticorps de sa mère sans pour autant être infecté. Cas particuliers : en cas de suspicion d’infection très récente, on préfèrera un test vital direct en raison du risque de négativité des anticorps (fenêtre sérologique).
@@ -94,7 +94,7 @@ Les techniques de quantification permettent d’amplifier les différents groupe
 
 La charge virale (CV) peut se mesurer dans différents liquides biologiques : sang, sperme, secrétions vaginales, lait, liquide céphalorachidien pour apprécier la production de virus au niveau cérébral.
 
-#### À quoi sert la mesure de la charge virale ?
+#### À quoi sert la mesure de la charge virale ?
 
 La quantification de la réplication virale est un marqueur pronostique de l’évolution de l’infection sans traitement et permet de mesurer l’efficacité du traitement. La quantification de la CV est devenue une recommandation forte de l’OMS pour toutes les personnes vivant avec le VIH.
 
@@ -120,10 +120,10 @@ Ces techniques pourraient favoriser l’expansion nécessaire des tests de CV au
 
 La résistance du VIH aux ARV est liée à la sélection de mutations au niveau des gènes qui codent les enzymes cibles des ARV. Cette résistance ne se développe qu’en cas de réplication virale persistant sous médicaments ARV.
 
-Ceci peut être lié à :
+Ceci peut être lié à :
 
-* Des médicaments ARV insuffisamment pris (défaut d’observance) ;
-* Des médicaments ARV présents en quantité insuffisante dans le sang en raison d’interactions avec d’autres médicaments qui font baisser leur concentration sanguine, les rendant moins efficaces sur le VIH ;
+* Des médicaments ARV insuffisamment pris (défaut d’observance) ;
+* Des médicaments ARV présents en quantité insuffisante dans le sang en raison d’interactions avec d’autres médicaments qui font baisser leur concentration sanguine, les rendant moins efficaces sur le VIH ;
 * Des médicaments ARV insuffisamment puissants face à un virus déjà résistant.
 
 Toute réplication sous traitement ARV « non suppressif », c’est-à-dire ne parvenant pas à rendre la CV indétectable, conduit habituellement au _développement de la résistance_ (figure 5).
@@ -161,7 +161,7 @@ L’interprétation des tests de résistance doit se faire en concertation entre
 
 Dans les centres de prise en charge, les réunions de discussion de dossiers (RCP) sont importantes et doivent prendre en compte l’ensemble des génotypes de résistance disponibles au cours de l’histoire thérapeutique du patient (génotype de résistance dit « cumulé »).
 
-Deux génotypes de résistance interprétés selon l’algorithme ANRS :
+Deux génotypes de résistance interprétés selon l’algorithme ANRS :
 
 ![Virus entièrement sensible](../.gitbook/assets/12)
 

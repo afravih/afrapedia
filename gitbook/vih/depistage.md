@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA partie VIH V2.png
 coverY: 0
 ---
 
@@ -11,9 +11,9 @@ L’agent causal du sida, le VIH, est découvert en 1983. Faire le diagnostic de
 [les-outils-virologiques.md](les-outils-virologiques.md)
 {% endcontent-ref %}
 
-Les activités prioritaires du dépistage vont être dans un premier temps :
+Les activités prioritaires du dépistage vont être dans un premier temps :
 
-* celles qui relèvent de la sécurité transfusionnelle (don du sang) pour dépister le sang contaminé ;
+* celles qui relèvent de la sécurité transfusionnelle (don du sang) pour dépister le sang contaminé ;
 * celles de la surveillance épidémiologique, pour renseigner sur l’épidémie et identifier les populations les plus exposées.
 
 Cependant, dans le contexte d’une maladie mortelle pour laquelle aucun traitement n’était alors disponible et touchant des populations fortement stigmatisées, la mise en place de programmes de dépistage ne pouvait se faire sans soulever des questions éthiques et sociétales.
@@ -28,41 +28,41 @@ En 1987, l’Organisation mondiale de la santé (OMS), à travers son Programme 
 >
 > \[…]
 >
-> En l’absence d’un traitement efficace contre les infections à VIH, l’institution de programmes de dépistage du VIH a pour justification sur le plan de la santé publique que l’identification des sujets infectés doit contribuer à la réduction de la transmission du VIH. »
+> En l’absence d’un traitement efficace contre les infections à VIH, l’institution de programmes de dépistage du VIH a pour justification sur le plan de la santé publique que l’identification des sujets infectés doit contribuer à la réduction de la transmission du VIH. »
 
 Le comité d’experts va émettre une série de recommandations qui vont faire du dépistage du VIH un dépistage « exceptionnel » par rapport à d’autres pathologies.
 
 En premier lieu, un **conseil** individualisé pré- et post-test est essentiel, tant pour l’annonce d’un résultat positif que pour éduquer les personnes dépistées afin de favoriser l’adoption de comportements à moindre risque.
 
-> « Il est donc impératif d’informer les sujets avant de pratiquer l’épreuve \[de recherche du VIH] et d’accompagner de conseils l’annonce des résultats à l’intéressé ; dans tous les cas où cela sera possible, les résultats seront communiqués personnellement par un conseiller qualifié. »
+> « Il est donc impératif d’informer les sujets avant de pratiquer l’épreuve \[de recherche du VIH] et d’accompagner de conseils l’annonce des résultats à l’intéressé ; dans tous les cas où cela sera possible, les résultats seront communiqués personnellement par un conseiller qualifié. »
 
 Le **consentement éclairé** et la **confidentialité des données** constituent deux autres prérequis essentiels au dépistage.
 
-« Le fait d’être la cible d’un programme de dépistage peut avoir pour les intéressés \[…] des conséquences sociales adverses graves, notamment l’isolement social, des pertes économiques, l’annulation de contrats d’assurance et la discrimination sur le plan de l’emploi, des études, du logement, des soins de santé et des services sociaux. Ces conséquences potentiellement destructives donnent une urgence spéciale aux problèmes de consentement éclairé du sujet et de la confidentialité des données. »
+« Le fait d’être la cible d’un programme de dépistage peut avoir pour les intéressés \[…] des conséquences sociales adverses graves, notamment l’isolement social, des pertes économiques, l’annulation de contrats d’assurance et la discrimination sur le plan de l’emploi, des études, du logement, des soins de santé et des services sociaux. Ces conséquences potentiellement destructives donnent une urgence spéciale aux problèmes de consentement éclairé du sujet et de la confidentialité des données. »
 
 Ainsi, le dépistage du VIH s’est inscrit très tôt dans une perspective de respect des **droits de l’Homme**.
 
-« Le droit de toute personne au respect de sa vie privée peut être violé si des renseignements concernant les résultats de la sérologie du VIH (ou même simplement le fait que cet examen a été prescrit ou demandé) sont divulgués sans l’autorisation de la personne concernée ou sans que ce soit pour des raisons évidentes de santé publique. Pour respecter les droits de l’Homme, il convient d’utiliser les mesures les moins inopportunes qui permettront d’atteindre les objectifs de santé publique visés. »
+« Le droit de toute personne au respect de sa vie privée peut être violé si des renseignements concernant les résultats de la sérologie du VIH (ou même simplement le fait que cet examen a été prescrit ou demandé) sont divulgués sans l’autorisation de la personne concernée ou sans que ce soit pour des raisons évidentes de santé publique. Pour respecter les droits de l’Homme, il convient d’utiliser les mesures les moins inopportunes qui permettront d’atteindre les objectifs de santé publique visés. »
 
 Enfin, dans un contexte où certains gouvernements envisageaient la mise en place de programmes de dépistage obligatoires, le comité d’experts réunis par l’OMS a insisté sur le caractère **volontaire** que devait avoir le dépistage du VIH.
 
 « Le contrôle universel des donneurs de sang ou de produit sanguins et de cellules/tissus/organes se justifie tout à fait. \[…] Comme les autres modes de transmission \[…] sont la conséquence de comportements d’ordre privé, l’efficacité de programmes de santé publique complémentaires dépendra largement de la participation volontaire et d’un effort d’éducation visant à susciter une modification des comportements dangereux.
 
-Les participants à la réunion ont été d’avis que des services de conseil et de recherche des anticorps anti-VIH facilement accessibles, assurés sur une base volontaire, ont plus de chance que le dépistage obligatoire de susciter des modifications de comportement qui contribueront à \[…] la réduction de la propagation du VIH. Il y a des mesures de prévention plus efficaces, moins importunes et moins coûteuses que le dépistage universel obligatoire. »
+Les participants à la réunion ont été d’avis que des services de conseil et de recherche des anticorps anti-VIH facilement accessibles, assurés sur une base volontaire, ont plus de chance que le dépistage obligatoire de susciter des modifications de comportement qui contribueront à \[…] la réduction de la propagation du VIH. Il y a des mesures de prévention plus efficaces, moins importunes et moins coûteuses que le dépistage universel obligatoire. »
 
-Dans plusieurs régions du monde, des programmes de dépistage obligatoire vont être envisagés voire mis en œuvre par certains gouvernements. En 1992, l’Assemblée mondiale de la santé va se positionner contre le dépistage obligatoire :
+Dans plusieurs régions du monde, des programmes de dépistage obligatoire vont être envisagés voire mis en œuvre par certains gouvernements. En 1992, l’Assemblée mondiale de la santé va se positionner contre le dépistage obligatoire :
 
-« Aucune considération de santé publique ne peut légitimer des mesures de lutte contre le sida attentatoires aux droits des individus et notamment des mesures tendant à l’instauration d’un dépistage obligatoire. »
+« Aucune considération de santé publique ne peut légitimer des mesures de lutte contre le sida attentatoires aux droits des individus et notamment des mesures tendant à l’instauration d’un dépistage obligatoire. »
 
 Une [consultation sur le dépistage de l’infection à VIH](https://apps.who.int/iris/handle/10665/59333) sous l’égide de l’OMS en novembre 1992 va préciser cela.
 
-« Le test obligatoire et autres types de test sans consentement éclairé n’ont pas leur place dans un programme de lutte contre le sida. »
+« Le test obligatoire et autres types de test sans consentement éclairé n’ont pas leur place dans un programme de lutte contre le sida. »
 
-Est promu un dépistage volontaire qui doit :
+Est promu un dépistage volontaire qui doit :
 
-1. faire partie d’un programme de conseil complet (pré- et post-test) ;
-2. laisser l’individu entièrement libre de faire le test ou non ;
-3. être confidentiel ou anonyme ;
+1. faire partie d’un programme de conseil complet (pré- et post-test) ;
+2. laisser l’individu entièrement libre de faire le test ou non ;
+3. être confidentiel ou anonyme ;
 4. être techniquement irréprochable.
 
 En France, des consultations de dépistage anonyme et gratuit (CDAG) vont être mises en place dès 1988. Le dépistage reposant sur des examens réalisés en laboratoire, il y a un délai entre la première consultation (où le conseil pré-test est réalisé et une prise de sang effectuée) et la remise du résultat (à l’occasion d’une seconde consultation), de l’ordre de 5 à 7 jours. L’attente du résultat est souvent source de stress et d’anxiété conduisant certains à ne pas venir retirer leurs résultats.
@@ -77,7 +77,7 @@ Progressivement, vont s’ouvrir des services de dépistage volontaire, notammen
 
 ## Dépistage à l’initiative des prestataires de santé <a href="#_toc98082194" id="_toc98082194"></a>
 
-L’arrivée des inhibiteurs de la protéase en 1996 et des fameuses « trithérapies » va changer la donne. Des traitements efficaces existent dès lors et des réponses en termes de prise en charge peuvent être offertes aux personnes diagnostiquées séropositives au VIH.
+L’arrivée des inhibiteurs de la protéase en 1996 et des fameuses « trithérapies » va changer la donne. Des traitements efficaces existent dès lors et des réponses en termes de prise en charge peuvent être offertes aux personnes diagnostiquées séropositives au VIH.
 
 La perspective d’un traitement relance la nécessité de développer des programmes de dépistage, à tout le moins dans les pays du Nord.
 
@@ -93,13 +93,13 @@ En quelques années, la majorité des pays africains ont intégré le CDIP dans 
 
 Certaines études ont montré que le dépistage du VIH proposé et réalisé avant la consultation médicale par un personnel dédié était le modèle organisationnel le plus pertinent, du fait qu’il ne nécessite ni temps d’attente supplémentaire pour le patient ni temps de consultation supplémentaire pour les professionnels de santé. Les modèles organisationnels qui réfèrent les patients vers le dépistage à la fin de la consultation vers un autre service ou une autre structure de santé doivent être évités afin de maximiser le nombre de patients testés. Le dépistage du VIH proposé et réalisé avant ou pendant la consultation est à privilégier.
 
-L’offre de dépistage est plus élevée lorsque le dépistage est en quelque sorte « normalisé », routinisé. C’est notamment le cas dans les consultations prénatales où, avec le développement des programmes de prévention de la transmission de la mère à l’enfant, le dépistage est le plus souvent proposé en routine lors de la première consultation de suivi pendant la grossesse.
+L’offre de dépistage est plus élevée lorsque le dépistage est en quelque sorte « normalisé », routinisé. C’est notamment le cas dans les consultations prénatales où, avec le développement des programmes de prévention de la transmission de la mère à l’enfant, le dépistage est le plus souvent proposé en routine lors de la première consultation de suivi pendant la grossesse.
 
 ## Tests rapides, délégation des tâches et dépistage communautaire <a href="#_toc98082195" id="_toc98082195"></a>
 
-À la fin des années 1990 et au début des années 2000, vont se développer des tests de dépistage dits « rapides ». Il s’agit de dispositifs simplifiés qui ne nécessitent pas d’équipement lourd (laboratoire, eau, électricité). Le résultat est disponible en moins de trente minutes et ils ne nécessitent qu’une simple goutte de sang qui peut être prélevée au bout du doigt. Ils peuvent donc être réalisés par des non professionnels de santé après avoir suivi une formation courte. Avec la baisse de leur coût, ces tests rapides vont se révéler parfaitement adaptés aux contextes des pays à ressources limitées. Surtout, ils vont constituer une opportunité _pour développer de nouvelles stratégies de dépistage_.
+À la fin des années 1990 et au début des années 2000, vont se développer des tests de dépistage dits « rapides ». Il s’agit de dispositifs simplifiés qui ne nécessitent pas d’équipement lourd (laboratoire, eau, électricité). Le résultat est disponible en moins de trente minutes et ils ne nécessitent qu’une simple goutte de sang qui peut être prélevée au bout du doigt. Ils peuvent donc être réalisés par des non professionnels de santé après avoir suivi une formation courte. Avec la baisse de leur coût, ces tests rapides vont se révéler parfaitement adaptés aux contextes des pays à ressources limitées. Surtout, ils vont constituer une opportunité _pour développer de nouvelles stratégies de dépistage_.
 
-En premier lieu, des agents communautaires, déjà engagés dans des programmes de sensibilisation et de prévention, vont pouvoir être spécifiquement formés à la réalisation du test rapide et ainsi « décharger » les professionnels de santé, dans une perspective de _délégations des tâches_. Cela concerne en premier le dépistage dans les structures de santé : certaines d’entre elles vont accueillir des agents communautaires pour réaliser le dépistage directement dans les structures sanitaires. Surtout, les tests rapides vont être l’occasion de développer des stratégies de dépistage « hors les murs », en dehors des structures de santé et au plus près des populations. Ces campagnes de dépistage en dehors des structures de santé peuvent être menées directement par des associations communautaires et autres organisations non gouvernementales.
+En premier lieu, des agents communautaires, déjà engagés dans des programmes de sensibilisation et de prévention, vont pouvoir être spécifiquement formés à la réalisation du test rapide et ainsi « décharger » les professionnels de santé, dans une perspective de _délégations des tâches_. Cela concerne en premier le dépistage dans les structures de santé : certaines d’entre elles vont accueillir des agents communautaires pour réaliser le dépistage directement dans les structures sanitaires. Surtout, les tests rapides vont être l’occasion de développer des stratégies de dépistage « hors les murs », en dehors des structures de santé et au plus près des populations. Ces campagnes de dépistage en dehors des structures de santé peuvent être menées directement par des associations communautaires et autres organisations non gouvernementales.
 
 En Afrique australe et orientale, où l’on prend conscience du caractère massif de l’épidémie (dans certaines régions, la prévalence du VIH, c’est-à-dire la proportion de personnes infectées, peut dépasser 30% chez les adultes), des campagnes de dépistage de masse vont être lancées grâce à des cliniques et des équipes mobiles, en porte-à-porte à domicile, sur des marchés, des lieux de socialisation, des places publiques, des églises… Il s’agit des prémisses des approches de dépistage universel qui commenceront à être favorisées dans ces régions dans les années 2010.
 
@@ -117,7 +117,7 @@ La recherche de performance peut ainsi avoir des effets délétères entravant l
 
 Au cours des années 2010, vont être développés de nouveaux tests rapides pouvant être réalisés directement par les personnes elles-mêmes : les autotests de dépistage. L’autodépistage du VIH est un processus par lequel la personne prélève elle-même un échantillon (salive ou sang), effectue un test simple et rapide pour le VIH, puis interprète le résultat, quand et où elle le souhaite. Lorsque le test est réalisé en présence d’un professionnel de santé ou d’un pair-éducateur, l’autodépistage est qualifié d’autotest assisté. L’autodépistage est non-assisté lorsqu’il est réalisé par la personne seule.
 
-C’est un outil innovant qui donne du pouvoir aux utilisatrices et aux utilisateurs (_empowerment_) et rend le dépistage plus confidentiel. Depuis 2016, l’OMS recommandait l’autodépistage comme approche additionnelle de dépistage. Cette recommandation a été renforcée dans les lignes directrices de 2019 sur le dépistage du VIH. À cette occasion, l’OMS recommande également, en particulier pour les populations clés, les approches basées sur les réseaux sociaux et la simplification du conseil prétest : _« Il n’est pas recommandé d’offrir des services de conseil avant le dépistage. \[…] Au contraire, d’après les données probantes, il vaut mieux communiquer une information et des messages de courte durée avant le dépistage, qui proposent et encouragent le dépistage. »_
+C’est un outil innovant qui donne du pouvoir aux utilisatrices et aux utilisateurs (_empowerment_) et rend le dépistage plus confidentiel. Depuis 2016, l’OMS recommandait l’autodépistage comme approche additionnelle de dépistage. Cette recommandation a été renforcée dans les lignes directrices de 2019 sur le dépistage du VIH. À cette occasion, l’OMS recommande également, en particulier pour les populations clés, les approches basées sur les réseaux sociaux et la simplification du conseil prétest : _« Il n’est pas recommandé d’offrir des services de conseil avant le dépistage. \[…] Au contraire, d’après les données probantes, il vaut mieux communiquer une information et des messages de courte durée avant le dépistage, qui proposent et encouragent le dépistage. »_
 
 En France, les autotests de dépistage du VIH sont autorisés à la vente en pharmacie depuis 2015. En Afrique australe et orientale, l’autodépistage du VIH (ADVIH) a commencé à être massivement déployé à partir de 2015 à travers l’initiative STAR (_HIV Self-testing Africa Initiative_) financée par Unitaid. En Afrique de l’Ouest, le premier programme d’envergure a été le programme ATLAS (AutoTest VIH, Libre d’Accéder à la connaissance de son Statut), également financé par Unitaid, et qui a démarré ses activités en 2019 en Côte d’Ivoire, au Mali et au Sénégal.
 

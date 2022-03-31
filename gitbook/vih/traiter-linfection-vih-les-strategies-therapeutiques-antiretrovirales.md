@@ -1,9 +1,9 @@
 ---
-cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA partie VIH V2.png
 coverY: 0
 ---
 
-# Traiter l’infection VIH : les stratégies thérapeutiques antirétrovirales
+# Traiter l’infection VIH : les stratégies thérapeutiques antirétrovirales
 
 ## **Principes du traitement antirétroviral**
 
@@ -15,14 +15,14 @@ L’objectif du traitement ARV (TARV) est de contrôler (empêcher) la réplicat
 
 ### Un traitement ARV pour ne pas risquer de contaminer
 
-Un bénéfice majeur du TARV est, outre le contrôle du VIH dans le sang, celui de son contrôle dans les secrétions potentiellement contaminantes comme les secrétions sexuelles (sperme, secrétions génitales). Des études contrôlées (essai HPTN 052, PARTNERS) ont de façon convaincante confirmé cette efficacité protectrice du traitement antirétroviral (> 95%) vis-à-vis du partenaire non-infecté.
+Un bénéfice majeur du TARV est, outre le contrôle du VIH dans le sang, celui de son contrôle dans les secrétions potentiellement contaminantes comme les secrétions sexuelles (sperme, secrétions génitales). Des études contrôlées (essai HPTN 052, PARTNERS) ont de façon convaincante confirmé cette efficacité protectrice du traitement antirétroviral (> 95%) vis-à-vis du partenaire non-infecté.
 
 ![](../.gitbook/assets/U=U.png)
 
 Le slogan U=U de l’anglais _Undetectable_ = _Untransmittable_ ou en français Indétectable = Intransmissible constitue une révolution majeure. Ceci constitue une profonde évolution de la manière dont se perçoivent et sont perçus les personnes vivant avec le VIH (PVVIH).
 
 {% hint style="success" %}
-Trois décennies de recherche intense ont permis :
+Trois décennies de recherche intense ont permis :
 
 * D’empêcher durablement la progression du virus en empêchant sa multiplication grâce aux médicaments antirétroviraux.
 * De démontrer que le traitement ARV devait concerner tout patient infecté par le VIH quel que soit le stade de son infection et son immunité CD4.
@@ -40,7 +40,7 @@ Dans les années 2000-2010, face à la toxicité et la complexité des traitemen
 Tous ces essais ont conclu à l’impossibilité d’arrêter le TARV, sous peine d’un rebond viral en une à trois semaines et la perte de tous les avantages du traitement sur l’immunité et la transmission.
 {% endhint %}
 
-## **Quand débuter un traitement antirétroviral ?**
+## **Quand débuter un traitement antirétroviral ?**
 
 Les recommandations de traitement basées sur le niveau des CD4 ont considérablement évolué en trois décennies.
 
@@ -69,7 +69,7 @@ Quelques définitions
 
 Trithérapie classique : 2 inhibiteurs nucléosidiques de la transcriptase inverse (INTI) et un 3e agent d’une classe différente. Ce 3e agent a évolué au cours du temps : inhibiteur de la protéase (IP), inhibiteur non nucléosidique de la transcriptase inverse (INNTI) et maintenant, inhibiteur de l’intégrase (INI).
 
-Bithérapie : 2 molécules  INI/3TC ou FTC
+Bithérapie : 2 molécules  INI/3TC ou FTC
 
 &#x20;                                         INI/INNTI
 
@@ -98,7 +98,7 @@ _Source : OMS_ [_https://www.who.int/publications/i/item/9789240031593_](https:/
 
 Le ténofovir disoproxil fumarate (TDF) ou ténofovir alafénamide (TAF) accompagné par l’emtricitabine, constitue la charpente la plus utilisée des trithérapies. L’abacavir doit être utilisé seulement lorsqu’un test génétique HLA-B\*5701 est négatif, en tout cas dans les populations caucasiennes chez lesquelles ce profil génétique est rencontré.
 
-Le choix d’un **3e agent, c’est-à-dire le médicament combiné en trithérapie aux 2INTI,** est, selon les recommandations européennes (EACS Octobre 2021 https://www.eacsociety.org/) ou nord-américaines. (DHSS 2021 https://clinicalinfo.hiv.gov/en/guidelines) ou de l’OMS (https://www.who.int/fr) :
+Le choix d’un **3e agent, c’est-à-dire le médicament combiné en trithérapie aux 2INTI,** est, selon les recommandations européennes (EACS Octobre 2021 https://www.eacsociety.org/) ou nord-américaines. (DHSS 2021 https://clinicalinfo.hiv.gov/en/guidelines) ou de l’OMS (https://www.who.int/fr) :
 
 \- **soit un INI**
 
@@ -111,28 +111,28 @@ L’éfavirenz ou la rilpivirine ne sont plus recommandées en médiation de tra
 
 ### Cas particuliers
 
-* _Grossesse_ : le TARV est une urgence. Le DTG peut maintenant être donné, après une alerte écartée en 2021 sur des anomalies fœtales neurologiques, compte tenu d’un bénéfice important sur la vitesse de suppression virale, particulièrement sensible dans un contexte de découverte de VIH et de grossesse.
-* _Co-infection avec Virus Hépatite B_ : le traitement doit impérativement associer le TDF ou le TAF, actifs sur VHB.
-* _Tuberculose_ nécessitant un traitement par rifampicine : la dose de DTG doit être doublée (2 × 50 mg). Aucune nécessité d’adapter la dose de l’éfavirenz.
+* _Grossesse_ : le TARV est une urgence. Le DTG peut maintenant être donné, après une alerte écartée en 2021 sur des anomalies fœtales neurologiques, compte tenu d’un bénéfice important sur la vitesse de suppression virale, particulièrement sensible dans un contexte de découverte de VIH et de grossesse.
+* _Co-infection avec Virus Hépatite B_ : le traitement doit impérativement associer le TDF ou le TAF, actifs sur VHB.
+* _Tuberculose_ nécessitant un traitement par rifampicine : la dose de DTG doit être doublée (2 × 50 mg). Aucune nécessité d’adapter la dose de l’éfavirenz.
 
 {% hint style="info" %}
 **Abréviations des antirétroviraux**
 
-**INTI : Inhibiteurs nucléos(t)idiques de la transcriptase inverse**
+**INTI : Inhibiteurs nucléos(t)idiques de la transcriptase inverse**
 
-3TC : lamivudine – ABC : abacavir – d4T : stavudine – ddC : zalcitabine – ddI : didanosine – FTC : emtricitabine – TAF : ténofovir alafénamide – TDF : ténofovir disoproxil fumarate – ZDV (ou AZT) : zidovudine
+3TC : lamivudine – ABC : abacavir – d4T : stavudine – ddC : zalcitabine – ddI : didanosine – FTC : emtricitabine – TAF : ténofovir alafénamide – TDF : ténofovir disoproxil fumarate – ZDV (ou AZT) : zidovudine
 
 **INNTI : Inhibiteurs non nucléosidiques de la transcriptase inverse**
 
-DOR : doravirine – EFV : éfavirenz – ETR : étravirine – NVP : névirapine – RPV : rilpivirine
+DOR : doravirine – EFV : éfavirenz – ETR : étravirine – NVP : névirapine – RPV : rilpivirine
 
 **IP : Inhibiteurs de la protéase**
 
-ATV : atazanavir – COBI ou c : cobicistat – DRV : darunavir – LPV : lopinavir – RTV ou r : ritonavir
+ATV : atazanavir – COBI ou c : cobicistat – DRV : darunavir – LPV : lopinavir  RTV ou r : ritonavir
 
 **INI : Inhibiteurs d’intégrase**
 
-BIC : bictégravir – CAB : cabotégravir – DTG : dolutégravir – EVG : elvitégravir – RAL : raltégravir
+BIC : bictégravir – CAB : cabotégravir – DTG : dolutégravir – EVG : elvitégravir – RAL : raltégravir
 
 **Inhibiteur du CCR5**
 
@@ -149,11 +149,11 @@ Les grands essais GEMINI 1 et 2 ont solidement démontré que la bithérapie DTG
 
 Une stratégie dite « allégée » se définit par rapport à un standard, actuellement une trithérapie composée de trois molécules administrées à un dosage fixe et tous les jours. Les stratégies d’allègement peuvent consister en moins de molécules (bi- ou monothérapies), des dosages moins élevés ou une fréquence de prise moindre (figure 1).
 
-Plusieurs éléments ont conduit à cette évolution thérapeutique :
+Plusieurs éléments ont conduit à cette évolution thérapeutique :
 
-* le traitement universel pour tous les patients, qui conduit à traiter plus tôt, avec des CV plus faibles et des CD4 plus élevés ;
-* des molécules actuelles plus efficaces et plus robustes ;
-* la nécessité d’un traitement ARV à vie ;
+* le traitement universel pour tous les patients, qui conduit à traiter plus tôt, avec des CV plus faibles et des CD4 plus élevés ;
+* des molécules actuelles plus efficaces et plus robustes ;
+* la nécessité d’un traitement ARV à vie ;
 * la prise de conscience qu’aucune molécule n’est exempte d’effets secondaires à long terme.
 
 Ainsi, la tendance actuelle est davantage à l’individualisation du traitement. Le dogme de la trithérapie devrait s’effacer devant celui d’une stratégie de contrôle de la réplication, quelles qu’en soient les modalités, pourvu que ce contrôle soit durable.
@@ -168,7 +168,7 @@ Seules quelques médicaments validés dans des essais cliniques peuvent être ut
 
 ### Bithérapies en switch
 
-Plusieurs stratégies se sont révélées aussi efficaces que la poursuite d’une trithérapie pour le maintien du contrôle virologique et figurent dans les recommandations européennes :
+Plusieurs stratégies se sont révélées aussi efficaces que la poursuite d’une trithérapie pour le maintien du contrôle virologique et figurent dans les recommandations européennes :
 
 * Bithérapie DTG/3TC (Dovato®) : 1 comprimé /jour
 * Bithérapie DTG/RPV (Juluca®) : 1 comprimé /jour
@@ -177,29 +177,29 @@ Plusieurs stratégies se sont révélées aussi efficaces que la poursuite d’u
 
 ### Allégement avec traitement intermittent 4 jours par semaine
 
-Ce type de stratégie, dont le but est une réduction de l’exposition aux médicaments, a été évalué dans plusieurs études pilotes. En Afrique du Sud l’essai Breather (cinq jours sur sept) et en France l’essai ANRS 4D vont montrer que des trithérapies comportant des prises quatre jours consécutifs sur sept (lundi-mardi-mercredi-jeudi) et le week-end _off_ permettent de maintenir un excellent taux d’indétectabilité (>90%) (figure 2). Ces résultats vont être validés à plus large échelle dans l’essai comparatif randomisé QUATUOR chez plus de 600 patients, avec des taux de succès virologique équivalents pour la trithérapie quatre jours sur sept comparée à la trithérapie standard sept jours sur sept. Figure 2&#x20;
+Ce type de stratégie, dont le but est une réduction de l’exposition aux médicaments, a été évalué dans plusieurs études pilotes. En Afrique du Sud l’essai Breather (cinq jours sur sept) et en France l’essai ANRS 4D vont montrer que des trithérapies comportant des prises quatre jours consécutifs sur sept (lundi-mardi-mercredi-jeudi) et le week-end _off_ permettent de maintenir un excellent taux d’indétectabilité (>90%) (figure 2). Ces résultats vont être validés à plus large échelle dans l’essai comparatif randomisé QUATUOR chez plus de 600 patients, avec des taux de succès virologique équivalents pour la trithérapie quatre jours sur sept comparée à la trithérapie standard sept jours sur sept.
 
 ![Figure 2. Stratégie d’allégement du traitement antirétroviral par intermittence (4 jours par semaine)](<../.gitbook/assets/Capture d’écran 2022-03-28 à 18.26.17.png>)
 
 Largement utilisée dans certains centres ou par certains médecins, cette stratégie quatre jours sur sept recueille les faveurs des patients qui disposent d’un long week-end end sans TARV ! Elle réduit de 40% l’exposition aux molécules et le coût de la thérapie sans mettre en péril la suppression virologique.
 
-## **Comment surveiller un traitement antirétroviral ?**
+## **Comment surveiller un traitement antirétroviral ?**
 
 ### Surveillance de l’efficacité virologique
 
 L’objectif permanent du TARV étant la suppression virologique, avec maintien d’une CV <50 copies/ml dans le sang, il faut impérativement disposer de la mesure de cette CV pour surveiller l’efficacité du traitement.
 
-En initiation de TARV, les objectifs sont les suivants :
+En initiation de TARV, les objectifs sont les suivants :
 
-* À 1 mois du début : la CV doit avoir diminué de 2 log10, soit d’un facteur 100
-* À 3 mois être < 400 copies /ml
-* À 6 mois être < 50 copies/ml.
+* À 1 mois du début : la CV doit avoir diminué de 2 log10, soit d’un facteur 100
+* À 3 mois être < 400 copies /ml
+* À 6 mois être < 50 copies/ml.
 
 {% hint style="warning" %}
-Exemple : Si CV ARN VIH avant traitement de 100 000 copies/mL Objectif attendu à 1 mois de TARV : CV 1 000 cp/mL maximum
+Exemple : Si CV ARN VIH avant traitement de 100 000 copies/mL, objectif attendu à 1 mois de TARV : CV 1 000 cp/mL maximum
 {% endhint %}
 
-Au cours du suivi : une fois acquise l’indétectabilité, mesure de la CV tous les 6 mois dans les pays sans restriction de ressources.
+Au cours du suivi : une fois acquise l’indétectabilité, mesure de la CV tous les 6 mois dans les pays sans restriction de ressources.
 
 Dans certains cas de CV initiale très élevée, l’indétectabilité peut parfois n’être atteinte qu’au bout d’un an.
 
@@ -222,7 +222,7 @@ _La suppression_ ou _contrôle virologique_ se définit par une CV plasmatique i
 
 _L’échec virologique_ est défini comme toute valeur de la CV plasmatique > 50 copies d’ARN VIH/ml confirmée sur deux prélèvements à deux – quatre semaines d’intervalle. En pratique, il est souvent admis que c’est à partir d’une valeur de CV > 200 copies qu’une modification du TARV est souhaitable. La valeur retenue par l’OMS pour l’échec (CV 100 copie/mL) est considérée comme élevée.
 
-_Réplication persistante de bas niveau,_ en anglais _low level viremia_ (_LLV):_ persistance chez certains patients et de façon répétée d’une CV oscillant entre 50 et 200 copies, alors même que les concentrations plasmatiques d’ARV sont adéquates et qu’il n’existe pas de résistance. Elle est à priori sans conséquence.
+_Réplication persistante de bas niveau,_ en anglais _low level viremia_ (_LLV) :_ persistance chez certains patients et de façon répétée d’une CV oscillant entre 50 et 200 copies, alors même que les concentrations plasmatiques d’ARV sont adéquates et qu’il n’existe pas de résistance. Elle est à priori sans conséquence.
 
 _Blip :_ se définit par une valeur au-dessus de la limite de détection de la CV, encadrée de deux valeurs de CV indétectable. Il ne s’agit donc pas d’un échec virologique.
 
@@ -235,20 +235,20 @@ _Observance :_ prise régulière de traitement selon la prescription médicale
 
 ### **Mécanismes et conséquence de l’échec virologique**
 
-L’échec virologique résulte toujours d’une inhibition insuffisante de la réplication virale, due soit :
+L’échec virologique résulte toujours d’une inhibition insuffisante de la réplication virale, due soit :
 
-* à un défaut d’observance ;
-* à une posologie de médicaments inadéquate ;
-* à des interactions médicamenteuses abaissant les concentrations des ARV ;
+* à un défaut d’observance ;
+* à une posologie de médicaments inadéquate ;
+* à des interactions médicamenteuses abaissant les concentrations des ARV ;
 * à une résistance existante vis-à-vis d’un ou de plusieurs médicaments ARV.
 
 En première ligne de traitement, en dehors d’une résistance primaire du virus, c’est habituellement une observance défaillante qui est à l’origine de l’échec virologique. Plus tard, alors que les résistances s’accumulent, le TARV vient à manquer de puissance et ne peut pas contrôler la réplication, quand bien même le patient est observant.
 
 ### **Qualifier et quantifier le type d’échec virologique**&#x20;
 
-Si la CV est détectable, il peut s’agir :
+Si la CV est détectable, il peut s’agir :
 
-* soit d’une réponse insuffisante à un traitement de première ligne, devant faire évoquer un défaut d’observance ou une résistance. En cas de CV initiale très élevée, l’obtention de l’indétectabilité au seuil de 50 copies /ml peut nécessiter plus de temps, et une CV habituellement < 200 copies/ml peut perdurer plus de 12 mois ;
+* soit d’une réponse insuffisante à un traitement de première ligne, devant faire évoquer un défaut d’observance ou une résistance. En cas de CV initiale très élevée, l’obtention de l’indétectabilité au seuil de 50 copies/ml peut nécessiter plus de temps, et une CV habituellement < 200 copies/ml peut perdurer plus de 12 mois ;
 * soit d’un rebond virologique après une période de succès virologique confirmé sur deux prélèvements consécutifs (à distinguer d’un blip).
 
 ### **Reconstruire l’histoire thérapeutique**
@@ -261,13 +261,13 @@ C’est une étape essentielle qui doit préciser les différentes molécules re
 
 ### Mesures des concentrations plasmatiques d’antirétroviraux
 
-Cette __ mesure des concentrations plasmatiques des molécules ARV permet d’identifier si un sous-dosage peut expliquer dans l’échec virologique : des concentrations inexistantes ou extrêmement basses permettent d’affirmer la non-prise des médicaments ; des concentrations basses peuvent, outre une mauvaise observance, être liées soit à une interaction avec un autre médicament soit une prise inadéquate.
+Cette __ mesure des concentrations plasmatiques des molécules ARV permet d’identifier si un sous-dosage peut expliquer dans l’échec virologique : des concentrations inexistantes ou extrêmement basses permettent d’affirmer la non-prise des médicaments ; des concentrations basses peuvent, outre une mauvaise observance, être liées soit à une interaction avec un autre médicament soit une prise inadéquate.
 
 ### Test de résistance du virus
 
-Les tests de résistance dits génotypiques vont permettre de faire le bilan des mutations de résistance sur les virus présents dans le sang (cf_._ chapitre _« Résistance du VIH aux antirétroviraux »_).
+Les tests de résistance dits génotypiques vont permettre de faire le bilan des mutations de résistance sur les virus présents dans le sang (cf_._ chapitre _« Résistance du VIH aux antirétroviraux »_).
 
-Schématiquement, l’ARN viral plasmatique est séquencé et « observé » à la loupe de la biologie moléculaire pour identifier s’il existe des mutations vis-à-vis des médicaments ARV les rendant partiellement ou entièrement résistants.
+Schématiquement, l’ARN viral plasmatique est séquencé et « observé » à la loupe de la biologie moléculaire pour identifier s’il existe des mutations vis-à-vis des médicaments ARV les rendant partiellement ou entièrement résistants.
 
 Ces tests requièrent une expertise en biologie moléculaire ; coûteux, ils ne sont pas, en pratique, accessibles dans de nombreuses régions du monde.
 
@@ -275,18 +275,18 @@ Ces tests requièrent une expertise en biologie moléculaire ; coûteux, ils ne 
 
 L’analyse de l’échec permet d’envisager les actions suivantes :
 
-_**En cas de défaut d’observance** (si possible attesté par le dosage des ARV) :_
+_**En cas de défaut d’observance** (si possible attesté par le dosage des ARV) :_
 
-* Sans intolérance : reprendre l’éducation du patient vis-à-vis du TARV ;
-* Par intolérance à un médicament : identification et arrêt du médicament en cause pour le remplacer, soit dans la même classe thérapeutique, soit dans une classe nouvelle.
+* Sans intolérance : reprendre l’éducation du patient vis-à-vis du TARV ;
+* Par intolérance à un médicament : identification et arrêt du médicament en cause pour le remplacer, soit dans la même classe thérapeutique, soit dans une classe nouvelle.
 
-_**Si pas de défaut d’observance**, attesté par dosage des médicaments dans le sang :_
+_**Si pas de défaut d’observance**, attesté par dosage des médicaments dans le sang :_
 
 * En fonction du génotype de résistance, idéalement un TARV doit comporter au moins deux molécules pleinement sensibles. \
-  En l’absence de pression médicamenteuse d’une classe donnée, des mutations acquises dans le passé peuvent ne pas être retrouvées dans le génotype ARN VIH réalisé au moment de l’échec. Il faut considérer les données cumulées des génotypes interprétés selon l’algorithme et/ou l’histoire immuno-viro-thérapeutique pour estimer le profil de la résistance accumulée ;
+  En l’absence de pression médicamenteuse d’une classe donnée, des mutations acquises dans le passé peuvent ne pas être retrouvées dans le génotype ARN VIH réalisé au moment de l’échec. Il faut considérer les données cumulées des génotypes interprétés selon l’algorithme et/ou l’histoire immuno-viro-thérapeutique pour estimer le profil de la résistance accumulée ;
 * Cas particulier de la lamivudine : malgré la présence de mutations de résistance (M184V), le 3TC garde une certaine efficacité et peut-être maintenu dans le traitement ultérieur.
 
-La gestion d’une situation d’échec est généralement plus difficile au Sud : l’accès à la CV y est plus difficile, avec des délais de réalisation des examens fluctuant selon la disponibilité des appareils, des réactifs, des ressources humaines, et avec une faible accessibilité au génotype de résistance. Pourtant, les enjeux sont les mêmes : obtenir le statut d’indétectabilité qui garantit la qualité de vie, la non-transmission et limite l’émergence de résistance. Moins on a de molécules disponibles, plus elles sont précieuses et doivent être préservées. Seule la CV accessible et disponible rapidement assure une telle sécurité.
+La gestion d’une situation d’échec est généralement plus difficile au Sud : l’accès à la CV y est plus difficile, avec des délais de réalisation des examens fluctuant selon la disponibilité des appareils, des réactifs, des ressources humaines, et avec une faible accessibilité au génotype de résistance. Pourtant, les enjeux sont les mêmes : obtenir le statut d’indétectabilité qui garantit la qualité de vie, la non-transmission et limite l’émergence de résistance. Moins on a de molécules disponibles, plus elles sont précieuses et doivent être préservées. Seule la CV accessible et disponible rapidement assure une telle sécurité.
 
 {% hint style="success" %}
 * Les stratégies ARV recommandées permettent le contrôle de la réplication virale dans plus de 90% des cas si elles sont adaptées au virus du patient, accessibles et prises de façon adéquate par le patient.
