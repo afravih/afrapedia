@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
 coverY: 0
 ---
 
@@ -51,7 +51,7 @@ Ainsi on décrit :
 
 Ces puissantes défenses spécifiques vont permettre de contrôler partiellement seulement, le pic de réplication virale initial, sans toutefois assurer son éradication **\[2]**.
 
-![](<../.gitbook/assets/0 (5)>)
+![](<../.gitbook/assets/0 (1) (1)>)
 
 ## **Mécanismes d’échappement immunitaire du VIH**
 
@@ -66,7 +66,7 @@ Il s’en suit une course-poursuite entre les réponses protectrices, médiées 
 
 Chaque jour il faudra donc stimuler de nouveaux LT et enfoncer de nouvelles touches du clavier. Cette adaptation nécessite, à chaque fois, le lourd travail de réadaptation du système immunitaire à ces nouveaux variants, comme lors de la primo-infection et l’intervention de la chaine complexe de communications intercellulaires entre CD, LT CD4+, LT CD8+ ou LB. Et ceci doit se produire tout au long de la phase asymptomatique de l’infection, c’est-à-dire tant que les LT CD4+ auxiliaires sont encore présents en nombre suffisant et avec des propriétés fonctionnelles suffisantes pour aider cette perpétuelle activation de nouveaux clones T CD8+ cytotoxiques et de nouveaux clones B producteurs d’IgG neutralisantes.
 
-![](<../.gitbook/assets/Capture d’écran 2022-03-31 à 03.19.34.png>)
+![](<../.gitbook/assets/Capture d’écran 2022-03-31 à 03.19.34 (1).png>)
 
 Chaque jour de nouvelles cellules CD8+ et de nouveaux anticorps anti-VIH s’accumulent, d’où des taux élevés de LT CD8+ sanguins et d’anticorps anti-VIH. Mais cette accumulation traduit l’inefficacité de ces défenses, chaque jour en retard par rapport aux nouveaux variants.
 
@@ -76,7 +76,7 @@ Ainsi au bout de quelques années de course du système immunitaire derrière le
 
 Au bout du compte l’infection par le VIH aura sollicité tous les acteurs essentiels du système immunitaire, mais la destruction des LT CD4+, la rapidité d’évolution et d’échappement du virus et l’activation généralisée du système immunitaire qui s’ensuit conduisent les réponses immunitaires spécifiques anti-VIH à l’échec. C’est le SIDA, où le système immunitaire a perdu toute capacité de contrôle non seulement contre les agents infectieux mais aussi contre le VIH lui-même.
 
-![](<../.gitbook/assets/Capture d’écran 2022-03-31 à 03.19.34 (1).png>)
+![](<../.gitbook/assets/Capture d’écran 2022-03-31 à 03.19.34.png>)
 
 Les traitements antirétroviraux sont la seule façon de briser ce cercle infernal en arrêtant la réplication du VIH.L’effet bénéfique majeur Ceci a pour effet de mettre les défenses immunes au repos. A la reconstitution des stocks de LT CD4+ s’ajoute une diminution progressive des taux d’anticorps et de LT CD8+ anti-VIH, d’où découle une normalisation progressive du rapport CD4/CD8.
 

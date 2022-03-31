@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
 coverY: 0
 ---
 
@@ -115,7 +115,7 @@ A partir du moment où les 1eres infections et cancers opportunistes apparaissen
 
 __
 
-![Figure 3. Lymphopénie CD4 et SIDA](<../.gitbook/assets/Capture d’écran 2022-03-28 à 14.40.35.png>)
+![Figure 3. Lymphopénie CD4 et SIDA](<../.gitbook/assets/Capture d’écran 2022-03-28 à 14.40.35.png>)
 
 ### **Restauration immunitaire sous antirétroviraux**
 
@@ -126,3 +126,5 @@ Les courbes de déclin des lymphocytes T CD4 s’inversent et retournent lenteme
 Cependant cette restauration immune peut prendre des années. La récupération quantitative peut ne pas être totale et les lymphocytes CD4 peuvent rester bas (< 350/mm3)
 
 Les fonctions immunitaires et en particulier les défenses contre certains cancers peuvent rester impactés si le déficit immunitaire a été profond (< 200 CD4/mm3) ce qui peut expliquer en partie la prévalence plus fréquente de certains cancers en particulier liés aux virus HPV, HBV, HCV.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6401774.svg)](https://doi.org/10.5281/zenodo.6401774)

@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
 coverY: 0
 ---
 
@@ -21,7 +21,7 @@ La temporalité d’apparition des marqueurs virologiques et immunologiques (fig
 
 L’antigène p24, protéine de capside du VIH, est détectable à partir du quinzième jour. La réponse anticorps spécifique du VIH (IgM et IgG) apparaît à partir de vingt et un jours en moyenne. Le délai à partir duquel ces anticorps peuvent être détectés va dépendre de la sensibilité des différents tests utilisés. La période sans détection possible d’anticorps est appelée fenêtre sérologique.
 
-![Figure 1. Evolution des marqueurs au cours de l’infection par le VIH](<../.gitbook/assets/Capture d’écran 2022-03-31 à 02.15.00.png>)
+![Figure 1. Evolution des marqueurs au cours de l’infection par le VIH](<../.gitbook/assets/Capture d’écran 2022-03-31 à 02.15.00.png>)
 
 ### Les tests
 
@@ -130,7 +130,7 @@ Toute réplication sous traitement ARV « non suppressif », c’est-à-dire ne 
 
 Cette sélection est rendue possible par la grande diversité génétique du VIH chez un même individu. Ainsi, chaque jour, sont générés des virus portant des mutations à chacune des positions du génome, notamment au niveau des gènes cibles des ARV. Les mutants résistants sont donc préexistants à l’instauration de la thérapeutique, en proportion minoritaire parmi les copies présentes dans l’organisme. Les mutations entraînent des modifications de structure des enzymes cibles dont l’interaction avec les ARV correspondants est perturbée, empêchant ainsi les ARV de se fixer à leur cible, donc de l’inhiber. Ainsi, les virus avec des mutations sélectionnées par les ARV sont capables de se multiplier en présence de l’ARV mais au prix d’une capacité réplicative virale diminuée.
 
-![Figure 5. Principe de la sélection de variants résistants sous pression de sélection antirétrovirale et réémergence des variants sauvages en cas d’arrêt de traitement](<../.gitbook/assets/Capture d’écran 2022-03-31 à 02.26.01.png>)
+![Figure 5. Principe de la sélection de variants résistants sous pression de sélection antirétrovirale et réémergence des variants sauvages en cas d’arrêt de traitement](<../.gitbook/assets/Capture d’écran 2022-03-31 à 02.26.01.png>)
 
 #### Barrière génétique à la résistance
 
@@ -155,7 +155,7 @@ Source : Image B. Visseaux](../.gitbook/assets/11)
 
 Les séquences génotypiques sont interprétées à l’aide d’algorithmes définissant le virus comme « sensible », « résistant » ou « résistant possible » aux différents ARV en fonction des mutations mises en évidence (figure 8). Les algorithmes de l’ANRS I MIE, Stanford et Rega sont les plus utilisés, publiquement accessibles et régulièrement mis à jour.
 
-[_(www.hivfrenchresistance.or_](http://www.hivfrenchresistance.org)__[_g_](https://www.hivfrenchresistance.org)_,_ [_https://hivdb.stanford.edu)_](https://hivdb.stanford.edu)
+[_(www.hivfrenchresistance.or_](http://www.hivfrenchresistance.org)\_\_[_g_](https://www.hivfrenchresistance.org)_,_ [_https://hivdb.stanford.edu)_](https://hivdb.stanford.edu)
 
 L’interprétation des tests de résistance doit se faire en concertation entre cliniciens, virologues et pharmacologues, examinant ensemble l’histoire du traitement du patient, l’évolution de la CV et du nombre de lymphocytes T CD4+, les éventuels problèmes d’observance, d’intolérance et d’interactions médicamenteuses.
 
@@ -182,3 +182,5 @@ Il est possible de détecter les virus résistants archivés dans le réservoir 
 {% hint style="danger" %}
 _Attention_ : l’absence de détection de mutations de résistance dans l’ADN proviral ne signifie pas que la mutation n’est pas archivée, elle peut être présente en proportion minoritaire ou dans un autre réservoir.
 {% endhint %}
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6401774.svg)](https://doi.org/10.5281/zenodo.6401774)

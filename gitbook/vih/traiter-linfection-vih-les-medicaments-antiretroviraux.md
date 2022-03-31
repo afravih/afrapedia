@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
 coverY: 0
 ---
 
@@ -234,7 +234,7 @@ Les inhibiteurs de l’entrée du VIH dans les cellules cibles humaines se répa
 
 **Schéma des étapes d’entrée du VIH et des cibles des inhibiteurs d’entrée**
 
-![](<../.gitbook/assets/schéma C12.png>)
+![](<../.gitbook/assets/schéma C12.png>)
 
 **Enfuvirtide** **(ENF ou T20)**
 
@@ -269,3 +269,5 @@ Si son efficacité et sa bonne tolérance se confirment dans les essais en cours
 * Ils doivent être pris à vie car aucun d’entre eux ne permet d’éradiquer le VIH.
 * Tous ces médicaments conduisent à de la résistance, en cas de réplication persistante sous ARV.
 {% endhint %}
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6401774.svg)](https://doi.org/10.5281/zenodo.6401774)

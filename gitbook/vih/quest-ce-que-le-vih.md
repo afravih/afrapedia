@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Partie VIH.png
 coverY: 0
 ---
 
@@ -30,7 +30,7 @@ Tous les VIH dérivent de virus de l’immunodéficience du singe (dits SIV). Ce
 Ainsi, chaque groupe de VIH-1 et VIH-2 représente une introduction séparée d’une souche de SIV à l’homme. Le passage des différentes souches de SIV du singe à l’homme est expliqué par le fait que les singes ont été chassés, et sont parfois encore braconnés, comme gibier (chimpanzé, gorille, sooty mangabey) ou comme animal de compagnie (sooty mangabey).
 
 ![Figure 2. Les différents SIV, leurs hôtes et origines de la transmission du singe à l'homme&#x20;
-Source : Modifié par le Dr Benoit Visseaux d’après Sharp et Hahn 2011](<../.gitbook/assets/Capture d’écran 2022-03-31 à 02.02.54.png>)
+Source : Modifié par le Dr Benoit Visseaux d’après Sharp et Hahn 2011](<../.gitbook/assets/Capture d’écran 2022-03-31 à 02.02.54.png>)
 
 La répartition géographique des différents VIH-1 diffère selon l’ancienneté de l’épidémie dans le pays, l’effet fondateur dans le groupe d’individus considéré et les migrations de population.
 
@@ -68,7 +68,7 @@ Le VIH est un virus à ARN dont le génome comprend environ 10 000 paire de base
 
 L’enveloppe virale est constituée de deux parties : une sous-unité transmembranaire (TM) et une sous-unité de surface (SU). La capside (dite antigène p24 car protéine d’un poids moléculaire de 24 kDa) va entourer le génome viral (figure 4).
 
-![Figure 4. Structure de la particule virale VIH](<../.gitbook/assets/Figure 4.png>)
+![Figure 4. Structure de la particule virale VIH](<../.gitbook/assets/Figure 4 (1).png>)
 
 ## **Cellules cibles du VIH**
 
@@ -76,7 +76,7 @@ Les cellules cibles du VIH portent à leur surface le principal récepteur du VI
 
 ## **Cycle de multiplication du VIH**
 
-![Figure 5. Les étapes du cycle de réplication virale](<../.gitbook/assets/Figure 5.png>)
+![Figure 5. Les étapes du cycle de réplication virale](<../.gitbook/assets/Figure 5 (1).png>)
 
 ### Entrée du virus dans la cellule
 
@@ -131,3 +131,5 @@ L’infection VIH-2, considérée comme une infection rétrovirale dite « atté
 &#x20;Le VIH-2 présente une résistance naturelle ou une sensibilité diminuée à plusieurs ARV, ce qui limite fortement les possibilités thérapeutiques. Ainsi, le VIH-2 est naturellement résistant à l’ensemble des INNTI, à l’inhibiteur de fusion enfuvirtide et à certains IP (seuls le lopinavir et le darunavir sont actifs). Les INI sont actifs.
 
 ![Figure 6. Virus VIH2 relargués par la cellule lymphocytaire](<../.gitbook/assets/Figure 6.png>)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6401774.svg)](https://doi.org/10.5281/zenodo.6401774)
