@@ -1,18 +1,16 @@
 # Spécificités, organisation et financement de la riposte internationale contre le VIH
 
-**Chapitre 22**
-
-**Spécificités, organisation et financement de la riposte internationale contre le VIH**
-
 De la même façon qu’on considère souvent le VIH/sida comme une maladie exceptionnelle (par sa gravité, sa dimension mondiale, ses implications sociales et politiques), l’histoire de la riposte internationale contre la pandémie est impressionnante : jamais une maladie n’avait provoqué une telle mobilisation sur la scène internationale, jusqu’à la pandémie de Covid-19.
 
 Au-delà de l’analyse des dynamiques locales ou nationales que l’épidémie a suscitées, nous proposons ici de concentrer plus spécifiquement notre attention sur la dimension internationale, voire mondiale de la riposte au VIH/sida.
 
 Après avoir analysé les spécificités de cette riposte, ce qui la caractérise par rapport à d’autres et les grandes étapes qui ont marqué son histoire, nous mettrons l’accent sur deux aspects spécifiques de la lutte contre le sida au niveau international : la façon dont elle s’est progressivement organisée, et son mode de financement.
 
-### **FILM : Les grandes périodes de la riposte internationale contre le VIH**
+**Vidéo :** les grandes périodes de la riposte internationale contre le VIH
 
-### **En quoi la lutte contre le sida se distingue-t-elle des stratégies de lutte contre les autres maladies ?**
+{% embed url="https://youtu.be/0sxjbJMwltc" %}
+
+## **En quoi la lutte contre le sida se distingue-t-elle des stratégies de lutte contre les autres maladies ?**
 
 ### Une riposte mondiale pour répondre à la première grande alerte sanitaire mondiale de l’histoire
 
@@ -48,20 +46,17 @@ Une autre dimension importante de la riposte est la lutte contre la discriminati
 
 S’ils ont été historiquement portés par la lutte contre le sida, ces principes de démocratie sanitaire et d’« approche par les droits » dépassent aujourd’hui largement la maladie et inspirent bien d’autres politiques sanitaires internationales.
 
-### **L’organisation de la riposte internationale**
+## **L’organisation de la riposte internationale**
 
 Une nouvelle architecture de l’aide en santé s’est mise en place progressivement pour répondre à la nécessité d’une concertation au niveau mondial, avec la mise en place de programmes et d’agences spécifiquement dédiés au VIH (figure 1).
 
-Figure 1
+![Figure 1. Mise en place des institutions internationales de lutte contre le VIH, de 1981 à 2006](<../.gitbook/assets/0 (1)>)
 
-![](<../.gitbook/assets/0 (1)>)\
-
-
-La reconnaissance politique du sida comme menace pour le développement
+### La reconnaissance politique du sida comme menace pour le développement
 
 En 2000, le sida, le paludisme et la tuberculose ont été érigés en priorités par la communauté internationale, qui leur consacre un des 15 Objectifs du millénaire pour le développement (OMD). La même année, le conseil de sécurité des Nations Unies déclare le sida « _menace pour la sécurité internationale_ » et les économistes tentent de chiffrer l’impact économique de la maladie. Koffi Annan, alors secrétaire général des Nations Unies, interpelle la communauté internationale : « _le sida est bien plus qu’une crise sanitaire. Il s’agit d’une menace au développement lui-même_ ». Cette double reconnaissance du sida comme enjeu sécuritaire et enjeu économique le transforme en enjeu politique. En 2001, une Assemblée générale des Nations Unies est exclusivement dédiée au VIH (c’est la première fois qu’une maladie fait l’objet d’une réunion d’un tel niveau). Le procès de Pretoria, suite à la plainte engagée par 39 firmes pharmaceutiques pour non-respect de la loi sur les brevets en Afrique du Sud, marque un moment de bascule évident, reconnaissant les droits des malades face aux droits du commerce et des brevets, mobilisant l’opinion publique internationale. Les initiatives d’accès aux antirétroviraux se mettent successivement en place dans différents pays d’Afrique de l’Ouest et du centre. L’accès des pays du Sud aux antirétroviraux devient une priorité, et la création du Fonds mondial en 2002, puis du PEPFAR américain en 2003, permettront de mobiliser des moyens financiers importants.
 
-### &#x20;Une révolution dans l’écosystème international : la création du Fonds mondial
+### Une révolution dans l’écosystème international : la création du Fonds mondial
 
 Dans un premier temps, jusqu’à la fin du XXe siècle, il s’agit de dépasser les cadres nationaux de lutte. En 1986, un programme mondial sida est d’abord mis en place au sein de l’OMS, puis l’exceptionnalité du VIH est officiellement consacrée avec la création de l’ONUSIDA en juillet 1994, seul programme conjoint co-parrainé du système des Nations Unies, exclusivement dédié à la lutte contre le sida. Deux autres programmes seront créés dans le même esprit en 1998, contre le paludisme (Roll Back Malaria) et la tuberculose (Stop TB Partnership).
 
@@ -71,19 +66,15 @@ Dans un deuxième temps, avec l’entrée dans le XXIe siècle, la lutte cont
 
 La riposte internationale au VIH s’est organisée autour de grandes stratégies globales, fondées à la fois sur les évolutions épidémiologiques et les avancées de la science. On retiendra notamment l’« _Initiative 3 by 5_ » lancée par l’OMS en 2003 pour mettre 3 millions de personnes sous traitement antirétroviral à l’horizon 2005, l’objectif d’« accès universel à la prévention, au traitement, aux soins et au soutien en matière de VIH/sida d’ici 2010 » ou encore la stratégie « 90-90-90 » de l’ONUSIDA, qui fixe des cibles collectives pour 2020. Cette cible a été portée à « 95-95-95 » à l’horizon 2030. S’ils pouvaient sembler irréalistes au niveau mondial, ces objectifs, repris et diffusés par les organisations internationales, ont permis de lancer des dynamiques mondiales, de créer un agenda collectif et de rassembler l’ensemble des acteurs derrière des objectifs communs.
 
-### **Le financement de la riposte : une mobilisation financière sans précédent**
+## **Le financement de la riposte : une mobilisation financière sans précédent**
 
 Sur le plan financier, la lutte contre le sida fait l’objet d’une mobilisation financière sans précédent dans l’aide au développement (figures 2 et 3).
 
-Figure 2
-
-![Image 3](<../.gitbook/assets/1 (1)>)
+![Figure 2. Financement de la lutte contre le sida, par canal d'aide internationale, de 1990 à 2020, en milliards de dollars (source IHME)](<../.gitbook/assets/1 (1)>)
 
 L’épidémie devient la première priorité de l’aide en santé à partir de l’année 2003, devant la santé des enfants et des nouveau-nés, la santé sexuelle et maternelle, le paludisme, la tuberculose et le renforcement des systèmes de santé (source : _Institute for Health Metrics and Evaluation_ - IHME), et elle représente encore aujourd’hui presque le quart du budget de l’aide en santé. Au-delà de l’importance des volumes financiers récoltés grâce à cette dynamique mondiale, il est important de noter que le tiers des financements passe par des organisations multilatérales. La circulation des capitaux n’est plus uniquement interétatique, elle ne dépend plus seulement de règles fixées par les États entre eux, elle est devenue « globale » au sens où elle se développe dans un cadre étendu à l’échelle du monde, en incluant des acteurs non étatiques, comme les fondations.
 
-Figure 3
-
-![Espace réservé du contenu 4](<../.gitbook/assets/2 (1)>)
+![Figure 3. Répartition des sources de financement en 2018 (sources IHME retraitées)](<../.gitbook/assets/2 (1)>)
 
 ### Évolution de la mobilisation financière
 
@@ -95,19 +86,21 @@ Les dépenses liées au sida ont stagné, voir régressé depuis 2013, point cul
 
 Notons également une autre spécificité de la riposte internationale contre le sida : la mise en place de financements innovants et notamment d’une taxe sur les billets d’avion. Instaurée en 2006 sous l’impulsion des présidents Chirac et Lula, au moment de la création d’UNITAID, cette taxe est appliquée sur le prix des billets délivrés aux passagers des États participant au dispositif (France, Cameroun, Chili, Madagascar, Mali, Maurice, Niger, Maroc et Corée notamment). Elle est devenue une importante source de financement innovant pour la lutte mondiale contre le sida et plus spécifiquement UNITAID, dont elle représente près de la moitié des financements.
 
-Des financements incertains
+### Des financements incertains
 
 Très dépendants du gouvernement américain qui représente à lui seul plus de la moitié du financement mondial, ces financements ne sont pas, selon la commission sida du Lancet, suffisamment importants pour éradiquer le sida comme menace pour la santé publique d’ici 2030. Ils sont par ailleurs concurrencés par d’autres enjeux, comme le climat, dans l’allocation des financements internationaux.
 
 Les experts de la lutte contre le sida craignent une « fatigue des donneurs », anticipant une reprise de l’épidémie si les efforts de la communauté internationale venaient à se relâcher. Pour la première fois, les financements alloués à la lutte contre le sida ont diminué de 20% entre 2013 et 2016, alors même que l’incidence de nouvelles infections VIH a, par exemple, augmenté de 60% entre 2010 et 2016 en Europe de l’Est et en Asie centrale. Malgré l’importance des enjeux et certaines innovations techniques, comme la mise en place des autotests de dépistage, la lutte contre le sida semble stagner.
 
-### **Conclusions**
+{% hint style="success" %}
+**Conclusion**
 
 Sur bien des aspects, on peut considérer que la riposte internationale au VIH a révolutionné les politiques internationales de santé : approche par les droits, dynamiques communautaires, implication de nouveaux acteurs, créations de partenariats publics-privés, mise en place de fonds communs à l’échelle du monde, développement de nouvelles approches de gouvernance, etc.
 
 À sa façon, l’épidémie de sida a été un formidable laboratoire de ce qu’on appelle aujourd’hui la santé mondiale, cette approche selon laquelle les problèmes de santé nécessitent une réponse pensée et coordonnée à l’échelle du monde, avec l’ensemble des acteurs.
+{% endhint %}
 
-### Pour en savoir plus&#x20;
+**Pour en savoir plus**&#x20;
 
 Bekker, L-G, _et al._ Advancing global health and strengthening the HIV response in the era of the Sustainable Development Goals: the International AIDS Society, Lancet Commission. Lancet, Juillet 2018
 
@@ -120,5 +113,3 @@ Institute for Health Metrics and Evaluation (IHME). Financing Global Health 2020
 [https://www.healthdata.org/infographic/fgh-2020-hivaids](https://www.healthdata.org/infographic/fgh-2020-hivaids)
 
 Brücker G, Tchiombiano S, Bourrelly M, Yazdanpanah Y. « VIH et santé mondiale ». Dans : Katlama C, Ghosn J, Wandeler G. VIH, hépatites virales, santé sexuelle. EDP Sciences, 2020, pp. 821-839.
-
-Lien à rajouter vers ce chapitre du livre :
