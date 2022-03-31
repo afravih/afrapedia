@@ -60,10 +60,10 @@ Il est évidemment important d’apprécier la capacité du patient à débuter 
 
 ## **Stratégies thérapeutiques d’initiation**
 
-Si le socle classique du TARV ([cf chapitre "Traiter l'infection VIH : les médicaments antirétroviraux"](traiter-linfection-vih-les-medicaments-antiretroviraux.md)) reste la trithérapie composée de deux inhibiteurs nucléosidiques (INTI) et d’un troisième agent soit inhibiteur d’intégrase (INI) ou inhibiteur non nucléosidique (INNTI), voire un IP, l’évolution au cours des cinq dernières années s’est faite progressivement vers un allègement du traitement. En effet, plusieurs stratégies d’allègement se sont révélées efficaces soit en initiation de traitement pour induire l’indétectabilité de la charge virale soit pour la maintenir (stratégies de maintenance).
+Si le socle classique du TARV ([cf chapitre "Traiter l'infection VIH : les médicaments antirétroviraux"](ARV.md)) reste la trithérapie composée de deux inhibiteurs nucléosidiques (INTI) et d’un troisième agent soit inhibiteur d’intégrase (INI) ou inhibiteur non nucléosidique (INNTI), voire un IP, l’évolution au cours des cinq dernières années s’est faite progressivement vers un allègement du traitement. En effet, plusieurs stratégies d’allègement se sont révélées efficaces soit en initiation de traitement pour induire l’indétectabilité de la charge virale soit pour la maintenir (stratégies de maintenance).
 
-{% content-ref url="traiter-linfection-vih-les-medicaments-antiretroviraux.md" %}
-[traiter-linfection-vih-les-medicaments-antiretroviraux.md](traiter-linfection-vih-les-medicaments-antiretroviraux.md)
+{% content-ref url="ARV.md" %}
+[ARV.md](ARV.md)
 {% endcontent-ref %}
 
 Plusieurs bithérapies commencent à entrer dans la pratique et figurent dans les recommandations nationales et internationales.
