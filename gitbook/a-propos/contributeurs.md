@@ -3,6 +3,30 @@ cover: ../.gitbook/assets/bannière 1 AFRAPEDIA Contributeurs.png
 coverY: 0
 ---
 
-# Contributrices & Contributeurs
+# Contributeurs & contributrices
 
-Cette page accueillera la liste des personnes ayant contribué à l'AFRAPEDIA.
+### Auteurs
+
+![Brigitte Autran](<../.gitbook/assets/Brigitte Autran.png>)
+
+![Michel Bourrelly](<../.gitbook/assets/Michel Bourrelly.png>)
+
+![Gilles Brücker](<../.gitbook/assets/GBK 3.png>)
+
+![Charlotte Charpentier](<../.gitbook/assets/Charlotte Charpentier.png>)
+
+![Christine Katlama](<../.gitbook/assets/CK 2.png>)
+
+![Joseph Larmarange](<../.gitbook/assets/Joseph Larmarange.png>)
+
+![Françoise Linard](<../.gitbook/assets/Françoise Linard.png>)
+
+![Nicolas Ritter](<../.gitbook/assets/Nicolas Ritter.png>)
+
+![Bruno Spire](<../.gitbook/assets/Bruno Spire.png>)
+
+![Stéphanie Tchiombiano](<../.gitbook/assets/Stéphanie Tchiombiano.png>)
+
+### Relecteurs scientifiques
+
+![Judith Benrekassa](<../.gitbook/assets/Judith Benrekassa.png>)

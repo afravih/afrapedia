@@ -19,4 +19,4 @@ L’AFRAVIH est l’Alliance francophone des Acteurs de santé contre le VIH et 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6401774.svg)](https://doi.org/10.5281/zenodo.6401774)
 
-![](<.gitbook/assets/bannière intro V2.png>)
+![](<.gitbook/assets/bannière intro V2.png>)
