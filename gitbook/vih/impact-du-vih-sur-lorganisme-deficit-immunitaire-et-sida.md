@@ -7,19 +7,19 @@ coverY: 0
 
 L’infection VIH conduit en une dizaine d’années à une perte massive des défenses immunitaires contre les agents infectieux mais aussi contre les cancers, créant cette maladie constamment mortelle que l’on appelle SIDA. Bien que le virus n’infecte qu’une part minime des cellules du système immunitaire, il cible les lymphocytes CD4, cellules chefs d’orchestre de ces défenses immunes en se fixant sur leur membrane à la molécule CD4, conduisant à la destruction et à la désorganisation du système de défense.
 
-## **Comment fonctionne le système immunitaire ?**
+## **Comment fonctionne le système immunitaire ?**
 
-Ces défenses sont organisées en deux grandes lignes de bataille comme une armée :
+Ces défenses sont organisées en deux grandes lignes de bataille comme une armée :
 
 ![Un macrophage](<../.gitbook/assets/0 (4)>)
 
-_Une première ligne de défense, l’immunité innée_, est exercée par des patrouilles circulant dans tout le corps, comprenant notamment les cellules appelées macrophages portant la molécule CD4. Ce sont les sentinelles du corps. Ils résident dans tous les tissus pour surveiller l’invasion éventuelle d’agents étrangers et exercer immédiatement un premier contrôle en les amenant aux casernes de la deuxième ligne de défense.
+_Une première ligne de défense, l’immunité innée_, est exercée par des patrouilles circulant dans tout le corps, comprenant notamment les cellules appelées macrophages portant la molécule CD4. Ce sont les sentinelles du corps. Ils résident dans tous les tissus pour surveiller l’invasion éventuelle d’agents étrangers et exercer immédiatement un premier contrôle en les amenant aux casernes de la deuxième ligne de défense. Un macrophage
 
 ![Un lymphocyte](<../.gitbook/assets/1 (3)>)
 
 _La deuxième ligne de défense_ est composée de casernes spécialisées reliées par des canaux. Ce sont : les ganglions, la rate et les parois de l’intestin et des bronches composent les tissus lymphoïdes emplis de cellules appelées _lymphocytes._
 
-Ces lymphocytes sont chargés des défenses « intelligentes », adaptées à chaque agent infectieux : on parle _d’immunité adaptative_. Les lymphocytes se répartissent en deux groupes ou corps d’armée: le premier, les lymphocytes T, travaillent directement de cellule à cellule, comme des fantassins ; la moitié porte à leur surface la molécule CD4 et a pour rôle de commander à toutes les autres cellules immunes de se mettre en ordre de bataille.
+Ces lymphocytes sont chargés des défenses « intelligentes », adaptées à chaque agent infectieux : on parle _d’immunité adaptative_. Les lymphocytes se répartissent en deux groupes ou corps d’armée: le premier, les lymphocytes T, travaillent directement de cellule à cellule, comme des fantassins ; la moitié porte à leur surface la molécule CD4 et a pour rôle de commander à toutes les autres cellules immunes de se mettre en ordre de bataille.
 
 ![Un lymphocyte CD8](<../.gitbook/assets/2 (3)>)
 
@@ -41,7 +41,7 @@ _Juste après la bataille_, lorsque l’infection est maîtrisée, un grand nomb
 
 ![Figure 1. Fonctionnement système immunitaire](<../.gitbook/assets/3 (1)>)
 
-## **Comment le VIH infecte-t-il le système immunitaire ?**
+## **Comment le VIH infecte-t-il le système immunitaire ?**
 
 Le VIH touche le cœur du système immunitaire et paralyse l’ensemble des défenses en ciblant les macrophages et les lymphocytes. Le VIH infecte les cellules CD4+ en fixant fortement son enveloppe, par la molécule gp120, sur la molécule CD4. La gp120 doit ensuite se fixer sur un deuxième récepteur membranaire, le CCR5, pour injecter le virus dans la cellule. La paroi du lymphocyte CD4 se comporte comme une porte blindée avec deux serrures que la clé gp120 doit ouvrir successivement : d’abord la gp120 puis le CCR5.
 
@@ -61,7 +61,7 @@ La quasi-totalité du virus (90-95%) se trouve dans les lymphocytes T CD4 qui re
 
 ### Ces lymphocytes T CD4+ mémoire constituent ainsi le réservoir principal de VIH.
 
-L’ADN de celui-ci est intégré dans le noyau de la cellule qui l’héberge. Or, pour se répliquer le VIH a besoin que la cellule CD4+ s’active : ainsi l’activation de défenses immunes contre n’importe quel agent infectieux ou vaccin déclenchera fatalement la production de VIH. C’est le phénomène de la « belle au bois dormant » : à tout moment il y aura deux types de cellules CD4+ infectées : les cellules dormantes au repos, non activées et incapables de produire du virus, et des cellules CD4+ qui ont reçu un signal d’activation, se réveillant au contact du baiser du prince charmant mais produisant alors automatiquement du VIH. Comme nous le verrons plus loin, le VIH des cellules dormantes n’est pas sensible aux antirétroviraux et constitue le réservoir latent du virus pouvant se maintenir durant des dizaines d’années.
+L’ADN de celui-ci est intégré dans le noyau de la cellule qui l’héberge. Or, pour se répliquer le VIH a besoin que la cellule CD4+ s’active : ainsi l’activation de défenses immunes contre n’importe quel agent infectieux ou vaccin déclenchera fatalement la production de VIH. C’est le phénomène de la « belle au bois dormant » : à tout moment il y aura deux types de cellules CD4+ infectées : les cellules dormantes au repos, non activées et incapables de produire du virus, et des cellules CD4+ qui ont reçu un signal d’activation, se réveillant au contact du baiser du prince charmant mais produisant alors automatiquement du VIH. Comme nous le verrons plus loin, le VIH des cellules dormantes n’est pas sensible aux antirétroviraux et constitue le réservoir latent du virus pouvant se maintenir durant des dizaines d’années.
 
 ## **Comment le VIH détruit-il le système immunitaire et conduit-il au SIDA?**
 
@@ -69,10 +69,10 @@ En détruisant les cellules CD4+, le VIH altère profondément le fonctionnement
 
 ### Lymphopénie T CD4+
 
-Le taux de lymphocytes T CD4+ baisse inéluctablement en l’absence de traitement antirétroviral. La surveillance du taux de lymphocytes T CD4+ dans le sang permet d’estimer la gravité et l’ancienneté de l’infection VIH. On décrit 3 phases dans cette lymphopénie CD4 :
+Le taux de lymphocytes T CD4+ baisse inéluctablement en l’absence de traitement antirétroviral. La surveillance du taux de lymphocytes T CD4+ dans le sang permet d’estimer la gravité et l’ancienneté de l’infection VIH. On décrit 3 phases dans cette lymphopénie CD4 :
 
-* Baisse rapide du taux de lymphocytes T CD4+ lors de la primo-infection, due à la production majeure de VIH et pouvant descendre jusqu’à 200 CD4+/mm3, puis se redressant partiellement mais restant inférieur aux valeurs normales ;
-* Décroissance lente entre 500 et 200 lymphocytes T CD4+/mm3 sur une longue période de 8 à 10 ans correspondant aux phases de production plus faible de VIH ;
+* Baisse rapide du taux de lymphocytes T CD4+ lors de la primo-infection, due à la production majeure de VIH et pouvant descendre jusqu’à 200 CD4+/mm3, puis se redressant partiellement mais restant inférieur aux valeurs normales ;
+* Décroissance lente entre 500 et 200 lymphocytes T CD4+/mm3 sur une longue période de 8 à 10 ans correspondant aux phases de production plus faible de VIH ;
 * Décroissance rapide et inéluctable sous le seuil de 200 CD4+/mm3, définissant le SIDA. Un taux de lymphocytes T CD4+ en dessous de 50/mm3 signale généralement un risque élevé de mort par SIDA dans les 6 mois.
 
 A cette lymphopénie CD4 s’ajoute une augmentation des taux de lymphocytes T CD8+, impliqués dans la lutte contre le VIH. Il s’en suit une inversion du rapport normal entre les taux de lymphocytes T CD4 et CD8, passant en-dessous de 0.9 après la primo-infection pour arriver à des valeurs inférieures à 0,1 en phase terminale de SIDA.
@@ -81,7 +81,7 @@ La lymphopénie T CD4+ chez les enfants est plus difficile à évaluer en cas d�
 
 De façon tout à fait exceptionnelle, chez certaines personnes, cette lymphopénie CD4 ne se produit pas ou très lentement et leur système immunitaire parvient à contrôler fortement et durablement le VIH, grâce à des gènes très particuliers. On parle de non progresseurs ou de Contrôleurs (_HIV Controllers_) mais ceux-ci représentent moins de 1% de l’ensemble des personnes infectées par le VIH.
 
-Plusieurs mécanismes interviennent dans cette perte de lymphocytes T CD4+ :
+Plusieurs mécanismes interviennent dans cette perte de lymphocytes T CD4+ :
 
 * _Destruction des cellules CD4+ infectées par le virus lui-même et par les défenses immunes_
 
@@ -103,13 +103,13 @@ De plus l’activation permanente des lymphocytes CD4 mémoires non infectés co
 
 Cette lymphopénie T CD4+ désorganise toutes les lignes de défense immune, elles-mêmes altérées par l’inflammation et l’épuisement chronique.
 
-Ces lignes de défense ne peuvent plus contrôler les agents infectieux que nous hébergeons tous en permanence et avec lesquels nous co-existons pacifiquement en situation normale. Au cours du SIDA ces agents infectieux profitent de la désorganisation de ces défenses pacifiques et prolifèrent, développant des infections que l’on appelle « opportunistes » car elles profitent de l’opportunité du déficit immun pour se développer. Ainsi apparaissent d’abord des infections à champignons, les candidats, à parasites comme les pneumocystis jirovecii source de pneumocystose, ou le toxoplasma gondii, source de toxoplasmose, ou à virus EBV source de lymphomes, ou virus CMV source de cécité, ou virus HHV8 source de cancers, et toute sorte d’autres pathogènes opportunistes.
+Ces lignes de défense ne peuvent plus contrôler les agents infectieux que nous hébergeons tous en permanence et avec lesquels nous co-existons pacifiquement en situation normale. Au cours du SIDA ces agents infectieux profitent de la désorganisation de ces défenses pacifiques et prolifèrent, développant des infections que l’on appelle « opportunistes » car elles profitent de l’opportunité du déficit immun pour se développer. Ainsi apparaissent d’abord des infections à champignons, les candidats, à parasites comme les pneumocystis jirovecii source de pneumocystose, ou le toxoplasma gondii, source de toxoplasmose, ou à virus EBV source de lymphomes, ou virus CMV source de cécité, ou virus HHV8 source de cancers, et toute sorte d’autres pathogènes opportunistes.
 
-A ces infections opportunistes s’ajoutent la perte de défenses contre les agents infectieux « étrangers » à notre organisme, au premier rang desquels vient le BK et la tuberculose, mais aussi des défenses contre des virus sources de cancers comme le virus de l’hépatite B ou C responsables de cancers du foie, ou le papillomavirus responsable de cancers ano-génitaux.
+A ces infections opportunistes s’ajoutent la perte de défenses contre les agents infectieux « étrangers » à notre organisme, au premier rang desquels vient le BK et la tuberculose, mais aussi des défenses contre des virus sources de cancers comme le virus de l’hépatite B ou C responsables de cancers du foie, ou le papillomavirus responsable de cancers ano-génitaux.
 
 Non seulement le déficit immunitaire causé par le VIH provoque ces multiples infections et cancers mais celles-ci induisent encore davantage d’inflammation, aggravent l’épuisement des défenses et creusent davantage le déficit immunitaire.
 
-L’inflammation croissante altère également l’ensemble du métabolisme et épuise physiquement le patient qui maigrit inexorablement : c’est la _« slim disease_ ».
+L’inflammation croissante altère également l’ensemble du métabolisme et épuise physiquement le patient qui maigrit inexorablement : c’est la _« slim disease_ ».
 
 A partir du moment où les 1eres infections et cancers opportunistes apparaissent le déclin est inévitable et conduit à la mort du patient.
 
@@ -123,7 +123,7 @@ Ces altérations mortelles ne sont pas définitives. L’arrêt de la réplicati
 
 Les courbes de déclin des lymphocytes T CD4 s’inversent et retournent lentement mais surement vers des valeurs normales tant que le VIH reste contrôlé. Les infections opportunistes et les cancers deviennent plus faciles à traiter et disparaissent progressivement. De plus le contrôle du VIH réduit les taux de lymphocytes T CD8+ et le rapport CD4/CD8 se normalise progressivement de par la combinaison de l’augmentation des CD4+ et de la diminution des CD8+.
 
-Cependant cette restauration immune peut prendre des années. La récupération quantitative peut ne pas être totale et les lymphocytes CD4 peuvent rester bas (< 350/mm3)
+Cependant cette restauration immune peut prendre des années. La récupération quantitative peut ne pas être totale et les lymphocytes CD4 peuvent rester bas (< 350/mm3)
 
 Les fonctions immunitaires et en particulier les défenses contre certains cancers peuvent rester impactés si le déficit immunitaire a été profond (< 200 CD4/mm3) ce qui peut expliquer en partie la prévalence plus fréquente de certains cancers en particulier liés aux virus HPV, HBV, HCV.
 
