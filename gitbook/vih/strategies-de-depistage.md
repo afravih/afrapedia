@@ -7,7 +7,9 @@ coverY: 0
 
 L’agent causal du sida, le VIH, est découvert en 1983. Faire le diagnostic de la maladie va constituer la première étape majeure de sa prise en charge. On ne sait pas détecter le virus dans le sang de façon directe : la mesure du virus dans le sang par PCR n’apparaitra qu’en 1995. Par contre, on peut dès 1985 dépister les anticorps fabriqués par l’organisme quand il est infecté, au moyen de tests sérologiques.
 
-(cf [chapitre "les outils virologiques du diagnostic et du suivi de l'infection VIH](les-outils-virologiques-du-diagnostic-et-du-suivi-de-linfection-vih.md)).
+{% content-ref url="les-outils-virologiques-du-diagnostic-et-du-suivi-de-linfection-vih.md" %}
+[les-outils-virologiques-du-diagnostic-et-du-suivi-de-linfection-vih.md](les-outils-virologiques-du-diagnostic-et-du-suivi-de-linfection-vih.md)
+{% endcontent-ref %}
 
 Les activités prioritaires du dépistage vont être dans un premier temps :
 
@@ -20,19 +22,19 @@ Cependant, dans le contexte d’une maladie mortelle pour laquelle aucun traitem
 
 En 1987, l’Organisation mondiale de la santé (OMS), à travers son Programme spécial de lutte contre le sida, va tenir à Genève une réunion sur les critères relatifs aux programmes de dépistage du VIH. Le [rapport de cette réunion](https://apps.who.int/iris/handle/10665/60039) éclaire les enjeux posés par le dépistage dès les débuts de la réponse.
 
-« Il importe toutefois de bien penser l’utilité de tels programmes par rapport aux effets pervers qu’ils risquent d’avoir.
-
-Les programmes de dépistage du VIH soulèvent de vastes problèmes allant au-delà de la simple reconnaissance des individus infectés. En raison des modes de propagation extrêmement limités du VIH, du caractère intime du comportement généralement impliqué dans la transmission et de l’absence actuelle de moyens de lutte spécifique, l’institution de programmes de dépistage doit s’entourer de la plus grande prudence. De tels programmes risquent de constituer une ingérence dans la vie privée, d’être coûteux et inefficaces et de mobiliser des ressources humaines, matérielles, financières au détriment des programmes d’éducation dont on sait qu’ils constituent la principale et la plus efficace des mesures de prévention qui existent à l’heure actuelle.
-
-\[…]
-
-En l’absence d’un traitement efficace contre les infections à VIH, l’institution de programmes de dépistage du VIH a pour justification sur le plan de la santé publique que l’identification des sujets infectés doit contribuer à la réduction de la transmission du VIH. »
+> « Il importe toutefois de bien penser l’utilité de tels programmes par rapport aux effets pervers qu’ils risquent d’avoir.
+>
+> Les programmes de dépistage du VIH soulèvent de vastes problèmes allant au-delà de la simple reconnaissance des individus infectés. En raison des modes de propagation extrêmement limités du VIH, du caractère intime du comportement généralement impliqué dans la transmission et de l’absence actuelle de moyens de lutte spécifique, l’institution de programmes de dépistage doit s’entourer de la plus grande prudence. De tels programmes risquent de constituer une ingérence dans la vie privée, d’être coûteux et inefficaces et de mobiliser des ressources humaines, matérielles, financières au détriment des programmes d’éducation dont on sait qu’ils constituent la principale et la plus efficace des mesures de prévention qui existent à l’heure actuelle.
+>
+> \[…]
+>
+> En l’absence d’un traitement efficace contre les infections à VIH, l’institution de programmes de dépistage du VIH a pour justification sur le plan de la santé publique que l’identification des sujets infectés doit contribuer à la réduction de la transmission du VIH. »
 
 Le comité d’experts va émettre une série de recommandations qui vont faire du dépistage du VIH un dépistage « exceptionnel » par rapport à d’autres pathologies.
 
 En premier lieu, un **conseil** individualisé pré- et post-test est essentiel, tant pour l’annonce d’un résultat positif que pour éduquer les personnes dépistées afin de favoriser l’adoption de comportements à moindre risque.
 
-« Il est donc impératif d’informer les sujets avant de pratiquer l’épreuve \[de recherche du VIH] et d’accompagner de conseils l’annonce des résultats à l’intéressé ; dans tous les cas où cela sera possible, les résultats seront communiqués personnellement par un conseiller qualifié. »
+> « Il est donc impératif d’informer les sujets avant de pratiquer l’épreuve \[de recherche du VIH] et d’accompagner de conseils l’annonce des résultats à l’intéressé ; dans tous les cas où cela sera possible, les résultats seront communiqués personnellement par un conseiller qualifié. »
 
 Le **consentement éclairé** et la **confidentialité des données** constituent deux autres prérequis essentiels au dépistage.
 
