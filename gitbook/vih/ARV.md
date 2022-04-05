@@ -27,7 +27,7 @@ Depuis 30 ans, le développement des médicaments anti rétroviraux (actif sur l
 
 La nécessité d’un _traitement à vie_, sans interruption puisque le VIH ne peut être éradiqué à orienter, la recherche médicamenteuse vers la mise au point de médicaments à longue durée d’action, permettant des prises espacées de plusieurs semaines voire plusieurs mois par voie injectable. Une nouvelle ère commence à la fois pour le traitement du VIH mais aussi la prévention.
 
-![](<../.gitbook/assets/0 (3)>)
+![](<../.gitbook/assets/0 (3) (1)>)
 
 Les antirétroviraux (ARV) sont des molécules chimiques qui vont empêcher le déroulement du cycle du VIH ([cf chapitre "Qu'est-ce que le VIH ?"](quest-ce-que-le-vih.md)) en empêchant (inhibant) les enzymes qui activent une ou plusieurs étapes du cycle ce qui conduit à l’arêt de la production de nouveaux virus.
 

@@ -12,6 +12,7 @@
 * [Traiter l’infection VIH : les stratégies thérapeutiques antirétrovirales](vih/strategies-ARV.md)
 * [Défenses immunes et vaccins contre le VIH](vih/vaccins.md)
 * [Retentissements psychologiques et sociaux de l'infection par le VIH](vih/retentissements-psychologiques-et-sociaux.md)
+* [PrEP](vih/prep.md)
 * [Politiques de réduction des risques liés à l'usage de drogues](vih/politiques-de-reduction-des-risques-lies-a-lusage-de-drogues.md)
 * [Spécificités, organisation et financement de la riposte internationale contre le VIH](vih/riposte-internationale-vih.md)
 * [Ce qu'en pensent les personnes atteintes : qualité de vie, accès aux soins, stigmatisation](vih/temoignages.md)
