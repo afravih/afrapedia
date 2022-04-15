@@ -52,7 +52,7 @@ Le comité des médicaments à usage humain (CHMP) de l’Agence européenne des
 
 Concernant la _PrEP injectable à base de cabotégravir_ (une injection tous les deux mois), deux essais ont montré l’efficacité de cette dernière : l’essai HPTN 083 auprès de HSH et de femmes transgenres dans sept pays à travers le monde et l’étude HPTN 084 auprès de femmes cisgenres aux États-Unis. La PrEP injectable par cabotégravir serait 69 % à 89 % plus efficace que la PrEP orale quotidienne par TDF/FTC, en raison principalement d’une meilleure observance. Cependant, des effets secondaires non négligeables ont été rapportés et, surtout, la longue demi-vie du cabotégravir pourrait éventuellement être une source de problème en cas d’utilisation discontinue et d’injections à intervalles irréguliers. La PrEP injectable par cabotégravir a été autorisée aux États-Unis début 2022.
 
-D’autres molécules à action prolongée sont en développement. A défaut de vaccin, la PrEP est disponible, une attitude positive, un outil majeur de l’arsenal de prévention. Elle doit être intégrer pour ceux et celles qui en ont besoin dans le panier de « biens » en santé sexuelle.
+D’autres molécules à action prolongée sont en développement. A défaut de vaccin, la PrEP est disponible, une attitude positive, un outil majeur de l’arsenal de prévention. Elle doit être intégrée pour ceux et celles qui en ont besoin dans le panier de « biens » en santé sexuelle.
 
 ### Pour aller plus loin
 
