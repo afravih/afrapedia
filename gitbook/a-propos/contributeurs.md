@@ -29,4 +29,4 @@ coverY: 0
 
 ### Relecteurs scientifiques
 
-![Judith Benrekassa](<../.gitbook/assets/Judith Benrekassa.png>)
+![Judith Benrekassa](<../.gitbook/assets/Judith Benrekassa.png>) ![Nicolas Etien](<../.gitbook/assets/Capture d’écran 2022-04-15 à 15.29.00.png>)
