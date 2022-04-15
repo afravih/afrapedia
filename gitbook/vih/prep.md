@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA partie VIH V2.png
+coverY: 0
+---
+
 # PrEP
 
 La PrEP correspond à l’utilisation de médicaments antirétroviraux à titre préventif chez des personnes séronégatives pour le VIH, mais à haut risque d’acquisition. La présence d’antirétroviraux avec une concentration suffisante au niveau des différentes portes d’entrée du virus (muqueuses génitales et anales) empêche l’infection.

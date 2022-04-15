@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA partie VIH V2.png
+coverY: 0
+---
+
 # Prévention du VIH
 
 La prévention primaire de l’infection à VIH vise à réduire la transmission du virus d’une personne infectée à un individu non infecté et donc à éviter de nouvelles infections.
