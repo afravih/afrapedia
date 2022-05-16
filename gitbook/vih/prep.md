@@ -19,7 +19,7 @@ Deux schémas thérapeutiques ont été évalués en tant que PrEP orale : une p
 
 ## **Schémas de prise de la PrEP orale**&#x20;
 
-![Source : https://www.aides.org/prep](<../.gitbook/assets/0 (3)>) ![Source : https://www.aides.org/prep](<../.gitbook/assets/1 (2)>)
+![Source : https://www.aides.org/prep](<../.gitbook/assets/0 (3)>) ![Source : https://www.aides.org/prep](<../.gitbook/assets/1 (2) (1)>)
 
 À l’heure actuelle, le seul médicament autorisé en France pour la PrEP est un comprimé qui associe deux antirétroviraux contre le VIH : l’emtricitabine (FTC) et le ténofovir disoproxil (TDF). Cette association de deux médicaments antirétroviraux a été initialement commercialisée sous la marque Truvada®. Elle est désormais disponible en versions génériques, produites par différents laboratoires. Dans d’autres pays du monde, d’autres combinaisons peuvent être utilisées comme le ténofovir (TDF) avec la lamivudine (3TC).
 
@@ -62,7 +62,7 @@ D’autres molécules à action prolongée sont en développement. A défaut de 
 ### Pour aller plus loin
 
 * Le site de l’association AIDES dédié à la PrEP : [https://www.aides.org/prep](https://www.aides.org/prep)
-* Le chapitre _Prophylaxie préexposition (PrEP)_ du [livre AFRAVIH](https://www.livre-afravih.org)
+* Le chapitre _Prophylaxie préexposition (PrEP)_ du [livre AFRAVIH](https://www.livre-afravih.org/)
 * Vidéo : [_Comment déployer la PrEP ?_](https://youtu.be/W5F6kvCMosc) mini-lecture présentée à l’AFRAVIH 2020 :
 
 {% embed url="https://youtu.be/W5F6kvCMosc" %}

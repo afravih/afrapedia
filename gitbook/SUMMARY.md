@@ -4,14 +4,17 @@
 
 ## VIH
 
+* [VIH : repères historiques](vih/vih-reperes-historiques.md)
 * [Qu'est-ce que le VIH ?](vih/quest-ce-que-le-vih.md)
 * [Les outils virologiques du diagnostic et du suivi de l'infection VIH](vih/les-outils-virologiques.md)
 * [Stratégies de dépistage](vih/depistage.md)
 * [Impact du VIH sur l'organisme, déficit immunitaire et Sida](vih/impact-du-vih-sur-lorganisme.md)
+* [VIH et comorbidités associées](vih/vih-et-comorbidites-associees.md)
 * [Traiter l'infection VIH : les médicaments antirétroviraux](vih/ARV.md)
 * [Traiter l’infection VIH : les stratégies thérapeutiques antirétrovirales](vih/strategies-ARV.md)
 * [Défenses immunes et vaccins contre le VIH](vih/vaccins.md)
 * [Retentissements psychologiques et sociaux de l'infection par le VIH](vih/retentissements-psychologiques-et-sociaux.md)
+* [La fin du sida : de quoi parle-t-on ?](vih/la-fin-du-sida-de-quoi-parle-t-on.md)
 * [Prévention du VIH](vih/prevention-du-vih.md)
 * [PrEP](vih/prep.md)
 * [Politiques de réduction des risques liés à l'usage de drogues](vih/reduction-des-risques-usage-de-drogues.md)

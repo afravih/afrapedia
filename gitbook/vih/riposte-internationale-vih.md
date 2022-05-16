@@ -55,7 +55,7 @@ S’ils ont été historiquement portés par la lutte contre le sida, ces princi
 
 Une nouvelle architecture de l’aide en santé s’est mise en place progressivement pour répondre à la nécessité d’une concertation au niveau mondial, avec la mise en place de programmes et d’agences spécifiquement dédiés au VIH (figure 1).
 
-![Figure 1. Mise en place des institutions internationales de lutte contre le VIH, de 1981 à 2006](<../.gitbook/assets/0 (1)>)
+![Figure 1. Mise en place des institutions internationales de lutte contre le VIH, de 1981 à 2006](<../.gitbook/assets/0 (1) (1)>)
 
 ### La reconnaissance politique du sida comme menace pour le développement
 

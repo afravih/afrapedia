@@ -11,11 +11,11 @@ L’infection VIH conduit en une dizaine d’années à une perte massive des d�
 
 Ces défenses sont organisées en deux grandes lignes de bataille comme une armée :
 
-![Un macrophage](<../.gitbook/assets/0 (4)>)
+![Un macrophage](<../.gitbook/assets/0 (4) (1)>)
 
 _Une première ligne de défense, l’immunité innée_, est exercée par des patrouilles circulant dans tout le corps, comprenant notamment les cellules appelées macrophages portant la molécule CD4. Ce sont les sentinelles du corps. Ils résident dans tous les tissus pour surveiller l’invasion éventuelle d’agents étrangers et exercer immédiatement un premier contrôle en les amenant aux casernes de la deuxième ligne de défense.
 
-![Un lymphocyte](<../.gitbook/assets/1 (3)>)
+![Un lymphocyte](<../.gitbook/assets/1 (3) (1)>)
 
 _La deuxième ligne de défense_ est composée de casernes spécialisées reliées par des canaux. Ce sont : les ganglions, la rate et les parois de l’intestin et des bronches composent les tissus lymphoïdes emplis de cellules appelées _lymphocytes._
 
