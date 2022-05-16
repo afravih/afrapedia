@@ -1,14 +1,12 @@
 # VIH : repères historiques
 
-**VIH/sida : une épopée du XXe siècle**
-
-**Quelques repères historiques**
+## **VIH/sida : une épopée du XXe siècle, quelques repères historiques**
 
 Si l’épidémie, devenue pandémie, de sida a été officiellement reconnue au début des années 1980, on sait aujourd’hui que le virus responsable est apparu chez l’Homme au tout début du XXe siècle, en Afrique centrale, par transmission à partir du singe. Le VIH s’est adapté et a circulé à bas bruit sur le continent africain, notamment au Congo, ainsi que chez des voyageurs et des colons, puis s’est propagé vers Haïti dans les années 1960 _via_ des travailleurs haïtiens travaillant au Congo. Haïti étant à cette époque une destination de tourisme sexuel pour les gays américains, il est probable que le virus ait été introduit ainsi en Amérique du Nord, avant de disséminer dans le monde entier.
 
 Les repères historiques présentés ici concernent les grandes étapes de l’évolution de l’épidémie depuis 1981, de l’acquisition des connaissances sur le (les) virus en cause, de la lutte contre l’infection et des progrès dans la prise en charge des malades, ainsi que des mobilisations communautaires, médicales, institutionnelles très riches qui ont émaillé cette histoire.
 
-**1981-1982 : l’émergence d’une pandémie**
+## **1981-1982 : l’émergence d’une pandémie**
 
 \- Le 5 juin 1981, le CDC (_Centers for Disease Control)_, agence fédérale américaine de surveillance épidémiologique, publie dans sa revue hebdomadaire une recrudescence anormale, survenue en quelques mois à Los Angeles, de cas de pneumonie appelée pneumocystose : en effet cinq jeunes hommes, homosexuels, ont été hospitalisés pour cette infection peu fréquente, qui ne survient habituellement que chez des personnes immunodéprimées.
 
@@ -30,7 +28,7 @@ Les repères historiques présentés ici concernent les grandes étapes de l’�
 
 \- L’hypothèse d’une origine infectieuse, et même virale, se renforce, en raison des modes de transmission alors identifiés (sanguin et sexuel).
 
-**1983 : découverte de l’agent causal**
+## **1983 : découverte de l’agent causal**
 
 \- Une équipe de l’Institut Pasteur de Paris (Françoise Barré-Sinoussi, Luc Montagnier, Jean-Claude Chermann) isole d’un ganglion lymphatique d’un malade suivi par le Dr Willy Rozenbaum un rétrovirus inconnu, qu’ils baptisent LAV (pour _Lymphadenopathy Associated Virus_).
 
@@ -40,7 +38,7 @@ Les repères historiques présentés ici concernent les grandes étapes de l’�
 
 \- [L’Organisation mondiale de la santé (OMS)](https://www.who.int/fr/news-room/fact-sheets/detail/hiv-aids) débute une surveillance globale de la maladie, repérée dans de nombreux pays désormais.
 
-**1984**
+## **1984**
 
 \- Une équipe nord-américaine dirigée par Robert Gallo revendique à son tour l’identification de ce nouveau virus et le baptise HTLV-III. Après des années de controverse franco-américaine, il est finalement reconnu par la communauté scientifique internationale que l’équipe française est bien le véritable découvreur du virus responsable du sida. Le nom de VIH (virus de l’immunodéficience humaine) lui sera officiellement donné en 1986, et le prix Nobel de médecine attribué à F. Barré-Sinoussi et L. Montagnier en 2008.
 
@@ -50,9 +48,7 @@ Les repères historiques présentés ici concernent les grandes étapes de l’�
 
 Très tôt - dès 1981 aux États-Unis - face à l’impuissance de la médecine à soigner, face au rejet et aux discriminations dont les personnes atteintes sont l’objet, des associations et groupes de pression communautaires se mobilisent fortement pour agir, interpeller les pouvoirs publics, les élus, les chercheurs, les laboratoires pharmaceutiques, les sociétés d’assurance. Activistes, ils vont profondément impacter les relations entre pouvoir, médecine et droits des patients. Revendiquant une expertise basée sur leur expérience (« malades experts »), ils joueront et continuent de jouer un rôle majeur dans la lutte contre l’épidémie, la mise à disposition des traitements (activisme thérapeutique), la reconnaissance des droits des malades etc.
 
-**1985-1986 : des outils diagnostiques apparaissent,**
-
-**la prévention s’organise**
+## **1985-1986 : des outils diagnostiques apparaissent, la prévention s’organise**
 
 \- Mise au point des premiers tests sérologiques (ELISA) permettant le diagnostic de l’infection à VIH. On découvre que des personnes peuvent être porteuses du VIH pendant des années sans être (encore) malades, mais peuvent le transmettre : on parle alors des « séropositifs », et aujourd’hui plutôt de « PVVIH » (pour personnes vivant avec le VIH).
 
@@ -66,9 +62,7 @@ Dépister, informer, prévenir deviennent des priorités, mais aussi l’objet d
 
 \- Un virus un peu différent, le VIH-2, est isolé. Il est très proche du virus de l’immunodéficience simienne du singe _sooty mangabey_, et la très grande majorité des personnes infectées par ce virus se trouve en Afrique de l’Ouest. La maladie qu’il provoque est dite « atténuée » en comparaison avec celle due au VIH-1.
 
-**1987-1994 : premières avancées thérapeutiques,**
-
-**débuts de la mobilisation des institutions internationales**
+## **1987-1994 : premières avancées thérapeutiques, débuts de la mobilisation des institutions internationales**
 
 \- Le tout premier médicament antirétroviral actif, l’AZT ou zidovudine, est commercialisé : c’est un inhibiteur nucléosidique de la transcriptase inverse qui, un temps, donnera l’illusion d’un bénéfice mais se révèlera trop peu efficace et trop mal toléré en monothérapie à fortes doses pour renverser le pronostic extrêmement péjoratif de la maladie.
 
@@ -94,7 +88,7 @@ Dépister, informer, prévenir deviennent des priorités, mais aussi l’objet d
 
 \- L’AZT est officiellement recommandé aux femmes enceintes, des études ayant montré dès 1992 que son administration en fin de grossesse réduit de deux tiers le risque de transmission du VIH de la mère à l’enfant.
 
-**1995 : l’espoir thérapeutique renait**
+## **1995 : l’espoir thérapeutique renait**
 
 \- Une nouvelle famille de médicaments antirétroviraux - les inhibiteurs de protéase (IP) - vient renforcer l’arsenal thérapeutique. Combinés aux inhibiteurs nucléosidiques INTI (classe dont fait partie l’AZT et qui s’est enrichie d’autres molécules comme stavudine, didanosine, lamivudine), les IP, actifs sur les virus résistants aux INTI utilisés jusqu’à présent, vont permettre en trithérapie de réduire drastiquement la quantité de virus, de renverser l’immunodépression et donc d’améliorer considérablement le pronostic des patients.
 
@@ -102,7 +96,7 @@ Cependant, et ceci reste vrai actuellement, toutes les molécules développées 
 
 \- L’OMS estime qu’environ 18 millions d’adultes et 1,5 million d’enfants ont été infectés par le VIH depuis le début de la pandémie.
 
-**1996-1997 : le tournant majeur des thérapies efficaces**
+## **1996-1997 : le tournant majeur des thérapies efficaces**
 
 \- Une troisième classe de médicaments antirétroviraux est mise sur le marché : les inhibiteurs non nucléosidiques de la transcriptase inverse (INNTI).
 
@@ -120,7 +114,7 @@ Cependant, et ceci reste vrai actuellement, toutes les molécules développées 
 
 \- ONUSIDA estime que 30 millions de personnes vivent avec le VIH dans le monde, et que 16 000 nouvelles infections surviennent chaque jour.
 
-**Début des années 2000 : la bataille pour les traitements**
+## **Début des années 2000 : la bataille pour les traitements**
 
 \- La 13e Conférence mondiale sur le sida à Durban (Afrique du Sud), mi-juillet 2000, est centrée sur les enjeux politiques, démographiques et économiques de l'épidémie. La géographie de l’épidémie est sans appel : plus de 70% des personnes infectées dans le monde vivent en Afrique subsaharienne, sans accès aux traitements. L’Afrique du Sud est le pays le plus touché au monde, avec environ 10% de sa population infectée.
 
@@ -152,7 +146,7 @@ Cependant, et ceci reste vrai actuellement, toutes les molécules développées 
 
 \- 2008, création de [Coalition PLUS](https://www.coalitionplus.org/): il s’agit d’un réseau d’organisations communautaires de lutte contre le sida, dont l’action se déploie dans plus de 50 pays en matière de dépistage communautaire, renforcement de l’offre en santé sexuelle, réduction des risques …
 
-**2010 - 2019 : prévention médicamenteuse et suppression virale**
+## **2010 - 2019 : prévention médicamenteuse et suppression virale**
 
 \- Entre 2010 et 2015, plusieurs essais cliniques vont démontrer l’efficacité majeure de la prise orale d’antirétroviraux par des personnes séronégatives, avec une quasi disparition du risque d’acquisition du VIH grâce à la prise de la combinaison fixe TDF/3TC prise régulièrement lors de rapports homosexuels comme hétérosexuels : la prophylaxie pré-exposition (PrEP) est en marche.
 
@@ -172,7 +166,7 @@ Cependant, et ceci reste vrai actuellement, toutes les molécules développées 
 
 \- En 2019, l’OMS met à jour ses recommandations sur la PrEP : la PrEP à la demande est préconisée en remplacement de la PrEP orale quotidienne pour les hommes ayant des relations sexuelles avec d’autres hommes.
 
-**Depuis 2020 : l’irruption de la COVID-19**
+## **Depuis 2020 : l’irruption de la COVID-19**
 
 \- La nouvelle maladie à coronavirus 2019 (COVID-19) est déclarée pandémie par l’OMS, avec un impact sur les définitions des priorités sanitaires à l’échelle mondiale, ainsi que sur l’organisation des services de lutte contre le VIH et leurs prestations, impact dont on ne peut pas encore mesurer l’ampleur.
 
