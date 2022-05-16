@@ -9,7 +9,7 @@
 * [Les outils virologiques du diagnostic et du suivi de l'infection VIH](vih/les-outils-virologiques.md)
 * [Stratégies de dépistage](vih/depistage.md)
 * [Impact du VIH sur l'organisme, déficit immunitaire et Sida](vih/impact-du-vih-sur-lorganisme.md)
-* [VIH et comorbidités associées](vih/vih-et-comorbidites-associees.md)
+* [Comorbidités et vieillissement chez les personnes infectées par le VIH](vih/comorbidites-et-vieillissement-chez-les-personnes-infectees-par-le-vih.md)
 * [Traiter l'infection VIH : les médicaments antirétroviraux](vih/ARV.md)
 * [Traiter l’infection VIH : les stratégies thérapeutiques antirétrovirales](vih/strategies-ARV.md)
 * [Défenses immunes et vaccins contre le VIH](vih/vaccins.md)
