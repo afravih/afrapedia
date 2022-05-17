@@ -1,6 +1,4 @@
-# VIH : repères historiques
-
-## **VIH/sida : une épopée du XXe siècle, quelques repères historiques**
+# VIH/sida : une épopée du XXe siècle, quelques repères historiques
 
 Si l’épidémie, devenue pandémie, de sida a été officiellement reconnue au début des années 1980, on sait aujourd’hui que le virus responsable est apparu chez l’Homme au tout début du XXe siècle, en Afrique centrale, par transmission à partir du singe. Le VIH s’est adapté et a circulé à bas bruit sur le continent africain, notamment au Congo, ainsi que chez des voyageurs et des colons, puis s’est propagé vers Haïti dans les années 1960 _via_ des travailleurs haïtiens travaillant au Congo. Haïti étant à cette époque une destination de tourisme sexuel pour les gays américains, il est probable que le virus ait été introduit ainsi en Amérique du Nord, avant de disséminer dans le monde entier.
 
@@ -82,9 +80,11 @@ Dépister, informer, prévenir deviennent des priorités, mais aussi l’objet d
 
 \- 1991 : le ruban rouge devient le symbole international de sensibilisation au sida.
 
-![](<../.gitbook/assets/0 (1)>)
+![](<../.gitbook/assets/ruban sida\_page-0001.jpg>)
 
 \- 1994 : création d’[ONUSIDA](https://www.unaids.org/fr), programme conjoint des Nations Unies exclusivement dédié à la lutte contre le VIH/sida. Sa collecte de [données sur la pandémie](https://www.unaids.org/fr/topic/data), actualisée chaque année, est précieuse pour suivre l’évolution de la situation. Insérer LOGO
+
+![](../.gitbook/assets/GA-UNCT-Logo-UNAIDS.jpg.webp)
 
 \- L’AZT est officiellement recommandé aux femmes enceintes, des études ayant montré dès 1992 que son administration en fin de grossesse réduit de deux tiers le risque de transmission du VIH de la mère à l’enfant.
 
@@ -106,11 +106,7 @@ Cependant, et ceci reste vrai actuellement, toutes les molécules développées 
 
 \- La thérapie HAART, qui deviendra cART (_combined antitretroviral therapy_) est adoptée comme traitement standard dans les pays riches, mais reste inaccessible au Sud, en raison de son coût élevé. Pourtant, la très grande majorité des malades est en Afrique subsaharienne. Une mobilisation internationale débute pour réparer cette injustice, mais la réponse à l’épidémie en Afrique subsaharienne va devoir pendant encore plusieurs années se focaliser uniquement sur la prévention.
 
-\- On voit enfin s’infléchir nettement la courbe des décès dus au sida
-
-(-47% entre 1996 et 1997 aux États-Unis, par exemple).
-
-(CK : mettre la courbe du NEJM ?)
+\- On voit enfin s’infléchir nettement la courbe des décès dus au sida (-47% entre 1996 et 1997 aux États-Unis, par exemple).
 
 \- ONUSIDA estime que 30 millions de personnes vivent avec le VIH dans le monde, et que 16 000 nouvelles infections surviennent chaque jour.
 

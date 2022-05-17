@@ -4,7 +4,7 @@
 
 ## VIH
 
-* [VIH : repères historiques](vih/vih-reperes-historiques.md)
+* [VIH/sida : une épopée du XXe siècle, quelques repères historiques](vih/vih-sida-une-epopee-du-xxe-siecle-quelques-reperes-historiques.md)
 * [Qu'est-ce que le VIH ?](vih/quest-ce-que-le-vih.md)
 * [Les outils virologiques du diagnostic et du suivi de l'infection VIH](vih/les-outils-virologiques.md)
 * [Stratégies de dépistage](vih/depistage.md)
