@@ -140,7 +140,7 @@ Cependant, et ceci reste vrai actuellement, toutes les molécules développées 
 
 \- 2006 : l’OMS et ONUSIDA recommandent « la circoncision masculine à tout âge comme stratégie additionnelle dans la lutte contre le VIH », après la démonstration par une étude menée au Kenya d’une réduction de plus de 50% du risque de transmission du VIH lors d’un rapport hétérosexuel en cas de circoncision. Des programmes seront mis en place dans 14 pays d’Afrique australe ou de l’Est, où cette pratique est peu fréquente et le VIH très présent.
 
-\- 2008, création de [Coalition PLUS](https://www.coalitionplus.org/): il s’agit d’un réseau d’organisations communautaires de lutte contre le sida, dont l’action se déploie dans plus de 50 pays en matière de dépistage communautaire, renforcement de l’offre en santé sexuelle, réduction des risques …
+\- 2008, création de [Coalition PLUS](https://www.coalitionplus.org/): il s’agit d’un réseau d’organisations communautaires de lutte contre le sida, dont l’action se déploie dans plus de 50 pays en matière de dépistage communautaire, renforcement de l’offre en santé sexuelle, réduction des risques…
 
 ## **2010 - 2019 : prévention médicamenteuse et suppression virale**
 
@@ -170,8 +170,6 @@ Cependant, et ceci reste vrai actuellement, toutes les molécules développées 
 
 \- À la suite du succès de son vaccin à ARN messager contre le SARS-CoV2, la firme Moderna entame les essais de phase I pour un vaccin du même type contre le VIH.
 
-\- L’objectif 90-90-90 de l’ONU, établi pour 2020, n’a pas été complètement atteint, en particulier le 1er objectif de dépistage et le 3e d’une infection maitrisée au plan virologique (avec une charge virale indétectable).Il faut maintenant viser 2025, avec des objectifs portés à 95-95-95.
+\- L’objectif 90-90-90 de l’ONU, établi pour 2020, n’a pas été complètement atteint, en particulier le 1er objectif de dépistage et le 3e d’une infection maitrisée au plan virologique (avec une charge virale indétectable). Il faut maintenant viser 2025, avec des objectifs portés à 95-95-95.
 
-\- La recherche a permis le développement des molécules « longue
-
-durée », capables d’agir après une prise pendant plusieurs semaines et même mois. Celles-ci sont évaluées autant dans le traitement que dans la prévention pour imaginer un monde sans sida.
+\- La recherche a permis le développement des molécules « longue durée », capables d’agir après une prise pendant plusieurs semaines et même mois. Celles-ci sont évaluées autant dans le traitement que dans la prévention pour imaginer un monde sans sida.
