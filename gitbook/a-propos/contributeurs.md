@@ -5,28 +5,10 @@ coverY: 0
 
 # Contributeurs & contributrices
 
-### Auteurs
+![Brigitte Autran](<../.gitbook/assets/1. Brigitte Autran.png>) ![Judith Benrekassa](<../.gitbook/assets/2. Judith.png>) ![Michel Bourrelly](<../.gitbook/assets/3. Michel Bourrelly.png>) ![Gilles Brücker](<../.gitbook/assets/4. gillesbrucker redimensionné.png>)
 
-![Brigitte Autran](<../.gitbook/assets/Brigitte Autran.png>)
+![Charlotte Charpentier](<../.gitbook/assets/5. Charlotte Charpentier.png>) ![Nicolas Etien](<../.gitbook/assets/6. Nicolas Etien.png>) ![Jade Ghosn](<../.gitbook/assets/7. GHOSN-Jade.png>) ![Christine Katlama](<../.gitbook/assets/8. CK.png>)
 
-![Michel Bourrelly](<../.gitbook/assets/Michel Bourrelly.png>)
+![Joseph Larmarange](<../.gitbook/assets/9. Joseph Larmarange.png>) ![Françoise Linard](<../.gitbook/assets/10. linard-francoise.png>) ![Nicolas Ritter](<../.gitbook/assets/11. Nicolas Ritter test.png>) ![Bruno Spire](<../.gitbook/assets/12. Bruno Spire.png>)
 
-![Gilles Brücker](<../.gitbook/assets/GBK 3.png>)
-
-![Charlotte Charpentier](<../.gitbook/assets/Charlotte Charpentier.png>)
-
-![Christine Katlama](<../.gitbook/assets/CK 2.png>)
-
-![Joseph Larmarange](<../.gitbook/assets/Joseph Larmarange.png>)
-
-![Françoise Linard](<../.gitbook/assets/Françoise Linard.png>)
-
-![Nicolas Ritter](<../.gitbook/assets/Nicolas Ritter.png>)
-
-![Bruno Spire](<../.gitbook/assets/Bruno Spire.png>)
-
-![Stéphanie Tchiombiano](<../.gitbook/assets/Stéphanie Tchiombiano.png>)
-
-### Relecteurs scientifiques
-
-![Judith Benrekassa](<../.gitbook/assets/Judith Benrekassa.png>) ![Nicolas Etien](<../.gitbook/assets/Capture d’écran 2022-04-15 à 15.29.00.png>)
+![Stéphanie Tchiombiano](<../.gitbook/assets/13. Stephanie\_Tchiombiano.png>) ![](<../.gitbook/assets/cadre blanc 1.png>) ![](<../.gitbook/assets/cadre blanc 1.png>) ![](<../.gitbook/assets/cadre blanc 1.png>)
