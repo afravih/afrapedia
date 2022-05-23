@@ -132,4 +132,6 @@ L’infection VIH-2, considérée comme une infection rétrovirale dite « atté
 
 ![Figure 6. Virus VIH2 relargués par la cellule lymphocytaire](<../.gitbook/assets/Figure 6.png>)
 
+{% embed url="http://www.livre-afravih.org" %}
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6401774.svg)](https://doi.org/10.5281/zenodo.6401774)

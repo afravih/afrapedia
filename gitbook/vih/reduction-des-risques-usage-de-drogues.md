@@ -72,3 +72,5 @@ Si les risques infectieux liés à l’usage de produits dans les pays du Nord e
 * Olivier MAUREL & Michel BOURRELLY. Une histoire de la lutte contre le sida. Le Nouveau Monde éditions, 2021, 720 p.
 * O’HARE Pat, « Petite histoire de la réduction des risques, de l’initiative locale à la problématique globale » in MdM (coord. par DEBAULIEU Céline, LUHMANN Niklas & MAGUET Olivier)
 * ROBERTSON J.R., BUCKNALL A.B.V. & al. (1986) “Epidemic of AIDS Related Virus (HTVL III/LAV) Infection among Intravenous Drug Abusers”, _British Journal of Addiction, 192_, p.527.
+
+{% embed url="http://www.livre-afravih.org" %}

@@ -278,4 +278,6 @@ Si son efficacité et sa bonne tolérance se confirment dans les essais en cours
 * Tous ces médicaments conduisent à de la résistance, en cas de réplication persistante sous ARV.
 {% endhint %}
 
+{% embed url="http://www.livre-afravih.org" %}
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6401774.svg)](https://doi.org/10.5281/zenodo.6401774)

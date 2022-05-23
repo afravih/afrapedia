@@ -139,4 +139,6 @@ Le dépistage du VIH reste l’une des clés de voûte de la lutte pour la maitr
 À l’heure du _U=U_ (_undetectable= untransmittable :_ les personnes sous traitement ne transmettent pas le virus), il est essentiel de communiquer sur les dernières avancées pour inciter toutes et tous à se faire dépister. D’une mise en place exceptionnelle - et à raison - au début de l’épidémie, il est de temps de banaliser et routiniser le dépistage. Toute personne ayant une activité sexuelle doit se poser la question de son statut vis-à-vis des infections que l’on peut acquérir « silencieusement » par voie sexuelle.
 {% endhint %}
 
+{% embed url="http://www.livre-afravih.org" %}
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6401774.svg)](https://doi.org/10.5281/zenodo.6401774)

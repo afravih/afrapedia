@@ -304,4 +304,6 @@ La gestion d’une situation d’échec est généralement plus difficile au Sud
 * Les conditions de prise en charge
 {% endhint %}
 
+{% embed url="http://www.livre-afravih.org" %}
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6401774.svg)](https://doi.org/10.5281/zenodo.6401774)

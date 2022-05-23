@@ -183,4 +183,6 @@ Il est possible de détecter les virus résistants archivés dans le réservoir 
 _Attention_ : l’absence de détection de mutations de résistance dans l’ADN proviral ne signifie pas que la mutation n’est pas archivée, elle peut être présente en proportion minoritaire ou dans un autre réservoir.
 {% endhint %}
 
+{% embed url="http://www.livre-afravih.org" %}
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6401774.svg)](https://doi.org/10.5281/zenodo.6401774)

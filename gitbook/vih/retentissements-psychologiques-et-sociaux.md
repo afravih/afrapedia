@@ -97,4 +97,6 @@ Mais la principale difficulté réside dans les interactions nombreuses des psyc
 
 {% embed url="https://youtu.be/2Y-1-6RVvfo" %}
 
+{% embed url="http://www.livre-afravih.org" %}
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6401774.svg)](https://doi.org/10.5281/zenodo.6401774)

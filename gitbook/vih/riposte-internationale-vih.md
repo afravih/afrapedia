@@ -120,3 +120,5 @@ Institute for Health Metrics and Evaluation (IHME). Financing Global Health 2020
 [https://www.healthdata.org/infographic/fgh-2020-hivaids](https://www.healthdata.org/infographic/fgh-2020-hivaids)
 
 Brücker G, Tchiombiano S, Bourrelly M, Yazdanpanah Y. « VIH et santé mondiale ». Dans : Katlama C, Ghosn J, Wandeler G. VIH, hépatites virales, santé sexuelle. EDP Sciences, 2020, pp. 821-839.
+
+{% embed url="http://www.livre-afravih.org" %}

@@ -110,3 +110,5 @@ Il est dès lors essentiel de penser la prévention du VIH dans une vision plus 
 * Site web : prévention du VIH sur le site de Sida Info Service : [https://www.sida-info-service.org/categorie/vihsida/prevention/](https://www.sida-info-service.org/categorie/vihsida/prevention/)
 * Site web : prévention sur le site de l’association AIDES : [https://www.aides.org/prevention](https://www.aides.org/prevention)
 * Vidéo _(re)penser la prévention des populations clés_, plénière de Joseph Larmarange à l’AFRVIH 2020 : [https://youtu.be/WgLLz8fpqGE](https://youtu.be/WgLLz8fpqGE)
+
+{% embed url="http://www.livre-afravih.org" %}

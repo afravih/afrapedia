@@ -16,3 +16,5 @@ coverY: 0
 ## Témoignage d'Andréa
 
 {% embed url="https://youtu.be/P4wkAKgfSPc" %}
+
+{% embed url="http://www.livre-afravih.org" %}

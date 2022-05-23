@@ -137,3 +137,5 @@ Le traitement ARV seul ne suffira pas à contrôler les épidémies. Le maintien
 * _La fin du sida est-elle en vue ?_ par Joseph Larmarange & François Dabis, _Face à face_, 2017. [https://journals.openedition.org/faceaface/1160](https://journals.openedition.org/faceaface/1160) (accès libre)
 * Onusida, 2021 : _Test et connexion universels : brèves considérations._ [https://www.unaids.org/fr/resources/documents/2021/universal-test-and-connect-brief-considerations](https://www.unaids.org/fr/resources/documents/2021/universal-test-and-connect-brief-considerations)
 * Chapitre _Le traitement antirétroviral comme moyen de prévention_ Livre AFRAVIH
+
+{% embed url="http://www.livre-afravih.org" %}

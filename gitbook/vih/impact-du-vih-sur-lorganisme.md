@@ -127,4 +127,6 @@ Cependant cette restauration immune peut prendre des années. La récupération 
 
 Les fonctions immunitaires et en particulier les défenses contre certains cancers peuvent rester impactés si le déficit immunitaire a été profond (< 200 CD4/mm3) ce qui peut expliquer en partie la prévalence plus fréquente de certains cancers en particulier liés aux virus HPV, HBV, HCV.
 
+{% embed url="http://www.livre-afravih.org" %}
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6401774.svg)](https://doi.org/10.5281/zenodo.6401774)

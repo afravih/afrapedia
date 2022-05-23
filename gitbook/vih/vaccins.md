@@ -148,4 +148,6 @@ Mais la difficulté ne s’arrête pas à la construction de vaccins efficaces, 
 
 En conclusion la capacité d’échappement du virus aux défenses immunitaires explique l’échec de celles-ci à contrôler durablement l’infection chez un patient infecté et l’échec de toutes les tentatives vaccinales à ce jour. Cependant l’utilisation de vaccins à ARNm pourra peut-être permettre de progresser dans le développement de nouveaux vaccins anti-VIH.
 
+{% embed url="http://www.livre-afravih.org" %}
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6401774.svg)](https://doi.org/10.5281/zenodo.6401774)

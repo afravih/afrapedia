@@ -9,6 +9,8 @@ Suite au succès du [Livre "VIH, Hépatites virales, Santé sexuelle"](https://w
 
 Vous y trouverez des repères sur les thématiques clés de l'AFRAVIH, sous forme écrite mais aussi en vidéo.
 
+{% embed url="http://www.livre-afravih.org" %}
+
 ### Qui sommes-nous ?
 
 L’AFRAVIH est l’Alliance francophone des Acteurs de santé contre le VIH et les infections virales chroniques ou émergentes. Elle œuvre depuis plus de 10 ans à renforcer, dans les pays francophones, la mobilisation des acteurs et professionnels de santé des différentes communautés engagées dans la lutte contre le VIH et les infections virales chroniques.

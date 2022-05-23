@@ -173,3 +173,5 @@ Cependant, et ceci reste vrai actuellement, toutes les molécules développées 
 \- L’objectif 90-90-90 de l’ONU, établi pour 2020, n’a pas été complètement atteint, en particulier le 1er objectif de dépistage et le 3e d’une infection maitrisée au plan virologique (avec une charge virale indétectable). Il faut maintenant viser 2025, avec des objectifs portés à 95-95-95.
 
 \- La recherche a permis le développement des molécules « longue durée », capables d’agir après une prise pendant plusieurs semaines et même mois. Celles-ci sont évaluées autant dans le traitement que dans la prévention pour imaginer un monde sans sida.
+
+{% embed url="http://www.livre-afravih.org" %}
