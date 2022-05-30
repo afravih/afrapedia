@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA partie VIH V2.png
+coverY: 0
+---
+
 # La fin du sida : de quoi parle-t-on ?
 
 En juin 2011, le magazine britannique _The Economist_ titrait en une avec une question provocatrice : « _The end of AIDS?_ ». Un long article revenait, trente ans après les premiers cas de sida identifiés, sur les progrès liés aux traitements et à la prévention, en particulier grâce aux antirétroviraux (ARV).

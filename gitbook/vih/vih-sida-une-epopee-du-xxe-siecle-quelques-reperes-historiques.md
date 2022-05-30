@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA partie VIH V2.png
+coverY: 0
+---
+
 # VIH/sida : une épopée du XXe siècle, quelques repères historiques
 
 Si l’épidémie, devenue pandémie, de sida a été officiellement reconnue au début des années 1980, on sait aujourd’hui que le virus responsable est apparu chez l’Homme au tout début du XXe siècle, en Afrique centrale, par transmission à partir du singe. Le VIH s’est adapté et a circulé à bas bruit sur le continent africain, notamment au Congo, ainsi que chez des voyageurs et des colons, puis s’est propagé vers Haïti dans les années 1960 _via_ des travailleurs haïtiens travaillant au Congo. Haïti étant à cette époque une destination de tourisme sexuel pour les gays américains, il est probable que le virus ait été introduit ainsi en Amérique du Nord, avant de disséminer dans le monde entier.

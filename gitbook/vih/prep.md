@@ -63,6 +63,9 @@ D’autres molécules à action prolongée sont en développement. A défaut de 
 
 * Le site de l’association AIDES dédié à la PrEP : [https://www.aides.org/prep](https://www.aides.org/prep)
 * Le chapitre _Prophylaxie préexposition (PrEP)_ du [livre AFRAVIH](https://www.livre-afravih.org/)
+
+{% embed url="http://www.livre-afravih.org" %}
+
 * Vidéo : [_Comment déployer la PrEP ?_](https://youtu.be/W5F6kvCMosc) mini-lecture présentée à l’AFRAVIH 2020 :
 
 {% embed url="https://youtu.be/W5F6kvCMosc" %}

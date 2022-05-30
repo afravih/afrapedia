@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/bannière 1 AFRAPEDIA partie VIH V2.png
+coverY: 0
+---
+
 # Comorbidités et vieillissement chez les personnes infectées par le VIH
 
 Les progrès spectaculaires en matière de thérapeutique antirétrovirale (ARV) au cours des dernières décennies ont permis de modifier profondément le cours de la maladie VIH, de la « normaliser » et d’allonger la survie. Cependant, les personnes vivant avec le VIH (PVVIH) ont encore, par rapport à la population générale, un risque plus élevé de maladies que l’on nomme comorbidités, non infectieuses le plus souvent, en lien avec des facteurs de risque persistant chez les PVVIH, leurs traitements et une immunodépression non complètement restaurée.
