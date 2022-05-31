@@ -20,7 +20,7 @@ Il existe **trois modes de transmission** du VIH :
 
 ![](../.gitbook/assets/tableau-VIH-1-1448x2048.png)
 
-### **Fellation: risque ou pas risque?**
+#### **Fellation : risque ou pas risque?**
 
 Il n’y a pas de risque pour la personne qui reçoit une fellation. La personne qui donne une fellation peut être infectée par le VIH car il y a une présence de **liquide séminal** (liquide qui apparaît pendant l’excitation). Le risque augmente lorsqu’il y a **éjaculation dans la bouche**, le **sperme étant un liquide plus contaminant** que le liquide séminal.\
 **Le risque vient de micro-lésions dans la bouche qui sont des « portes d’entrée » pour le virus.**\
