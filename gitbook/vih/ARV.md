@@ -46,7 +46,7 @@ Plusieurs molécules / médicaments peuvent avoir la même action inhibitrice su
 
 ![](<../.gitbook/assets/1 (4)>)
 
-![](<../.gitbook/assets/2 (4)>)
+![](<../.gitbook/assets/2 (4) (1)>)
 
 {% hint style="info" %}
 **Abréviations des antirétroviraux**

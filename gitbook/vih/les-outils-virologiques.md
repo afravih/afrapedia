@@ -50,7 +50,7 @@ Ces tests peuvent être _négatifs en cas de primo-infection_ ou d’utilisation
 
 Le taux de faux positifs est estimé entre 1 et 5 % et rend indispensable l’utilisation d’un second test de dépistage (test ELISA).
 
-![Figure 2. Réalisation d'un TROD](<../.gitbook/assets/3 (3)>)
+![Figure 2. Réalisation d'un TROD](<../.gitbook/assets/3 (3) (1)>)
 
 ![Figure 2. Lecture d'un TROD](../.gitbook/assets/4)
 

@@ -55,7 +55,7 @@ S’ils ont été historiquement portés par la lutte contre le sida, ces princi
 
 Une nouvelle architecture de l’aide en santé s’est mise en place progressivement pour répondre à la nécessité d’une concertation au niveau mondial, avec la mise en place de programmes et d’agences spécifiquement dédiés au VIH (figure 1).
 
-![Figure 1. Mise en place des institutions internationales de lutte contre le VIH, de 1981 à 2006](<../.gitbook/assets/0 (1) (1)>)
+![Figure 1. Mise en place des institutions internationales de lutte contre le VIH, de 1981 à 2006](<../.gitbook/assets/0 (1) (1) (1)>)
 
 ### La reconnaissance politique du sida comme menace pour le développement
 
@@ -79,7 +79,7 @@ Sur le plan financier, la lutte contre le sida fait l’objet d’une mobilisati
 
 L’épidémie devient la première priorité de l’aide en santé à partir de l’année 2003, devant la santé des enfants et des nouveau-nés, la santé sexuelle et maternelle, le paludisme, la tuberculose et le renforcement des systèmes de santé (source : _Institute for Health Metrics and Evaluation_ - IHME), et elle représente encore aujourd’hui presque le quart du budget de l’aide en santé. Au-delà de l’importance des volumes financiers récoltés grâce à cette dynamique mondiale, il est important de noter que le tiers des financements passe par des organisations multilatérales. La circulation des capitaux n’est plus uniquement interétatique, elle ne dépend plus seulement de règles fixées par les États entre eux, elle est devenue « globale » au sens où elle se développe dans un cadre étendu à l’échelle du monde, en incluant des acteurs non étatiques, comme les fondations.
 
-![Figure 3. Répartition des sources de financement en 2018 (sources IHME retraitées)](<../.gitbook/assets/2 (1)>)
+![Figure 3. Répartition des sources de financement en 2018 (sources IHME retraitées)](<../.gitbook/assets/2 (1) (1)>)
 
 ### Évolution de la mobilisation financière
 

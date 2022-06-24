@@ -201,7 +201,7 @@ Le tabagisme est primordial dans la survenue de nombreux cancers : larynx et can
 
 Tout doit être fait pour que les patients PVVIH soient traités dans les mêmes conditions que la population générale. La présence d’autres comorbidités, la prise de co-médications, la nécessité de maintenir une charge virale VIH indétectable durant le traitement carcinologique et le risque d’interactions entre les ARV et les molécules utilisées en chimiothérapie rendent nécessaire la mise en œuvre d’une organisation spécifique pour la prise en charge, avec une interaction entre l’équipe soignante VIH et l’équipe oncologique. Cette collaboration permet d’identifier les risques d’interactions médicamenteuses, d’optimiser le traitement ARV quand cela est nécessaire, de définir les chimioprophylaxies vis-à-vis de certaines infections opportunistes et d’établir un protocole de prise en charge de la douleur individualisé, prenant en compte l’exposition éventuelle à des opiacés.
 
-![](<../.gitbook/assets/1 (3)>)
+![](<../.gitbook/assets/1 (3) (1)>)
 
 En France existe une réunion de concertation pluridisciplinaire (RCP) nationale ONCOVIH, qui permet de discuter des dossiers de patients PVVIH atteints de cancers et d’apporter des conseils thérapeutiques.
 

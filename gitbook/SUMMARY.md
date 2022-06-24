@@ -14,6 +14,8 @@
 * [Traiter l'infection VIH : les médicaments antirétroviraux](vih/ARV.md)
 * [Traiter l’infection VIH : les stratégies thérapeutiques antirétrovirales](vih/strategies-ARV.md)
 * [Défenses immunes et vaccins contre le VIH](vih/vaccins.md)
+* [Prévention de la transmission mère-enfant](vih/prevention-de-la-transmission-mere-enfant.md)
+* [VIH chez l'enfant](vih/vih-chez-lenfant.md)
 * [Retentissements psychologiques et sociaux de l'infection par le VIH](vih/retentissements-psychologiques-et-sociaux.md)
 * [La fin du sida : de quoi parle-t-on ?](vih/la-fin-du-sida-de-quoi-parle-t-on.md)
 * [Prévention du VIH](vih/prevention-du-vih.md)
