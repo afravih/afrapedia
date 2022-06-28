@@ -18,7 +18,7 @@ Il existe **trois modes de transmission** du VIH :
 
 ![](<../.gitbook/assets/Capture d’écran 2022-05-30 à 12.10.22.png>) ![](<../.gitbook/assets/Capture d’écran 2022-05-30 à 12.10.28.png>) ![](<../.gitbook/assets/Capture d’écran 2022-05-30 à 12.10.34.png>)
 
-![](../.gitbook/assets/tableau-VIH-1-1448x2048.png)
+![](<../.gitbook/assets/Tableau transmission VIH V2.png>)
 
 #### **Fellation : risque ou pas risque?**
 
