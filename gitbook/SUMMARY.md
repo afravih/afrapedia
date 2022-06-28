@@ -6,7 +6,7 @@
 
 * [VIH/sida : une épopée du XXe siècle, quelques repères historiques](vih/vih-sida-une-epopee-du-xxe-siecle-quelques-reperes-historiques.md)
 * [Qu'est-ce que le VIH ?](vih/quest-ce-que-le-vih.md)
-* [Les modes de transmissions du VIH](vih/les-modes-de-transmissions-du-vih.md)
+* [Les modes de transmission du VIH](vih/les-modes-de-transmission-du-vih.md)
 * [Les outils virologiques du diagnostic et du suivi de l'infection VIH](vih/les-outils-virologiques.md)
 * [Stratégies de dépistage](vih/depistage.md)
 * [Impact du VIH sur l'organisme, déficit immunitaire et Sida](vih/impact-du-vih-sur-lorganisme.md)
