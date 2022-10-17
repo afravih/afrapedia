@@ -22,6 +22,7 @@
 * [PrEP](vih/prep.md)
 * [Politiques de réduction des risques liés à l'usage de drogues](vih/reduction-des-risques-usage-de-drogues.md)
 * [Spécificités, organisation et financement de la riposte internationale contre le VIH](vih/riposte-internationale-vih.md)
+* [L'action communautaire en pratique](vih/laction-communautaire-en-pratique.md)
 * [Ce qu'en pensent les personnes atteintes : qualité de vie, accès aux soins, stigmatisation](vih/temoignages.md)
 
 ## À propos
