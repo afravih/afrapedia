@@ -15,8 +15,8 @@ Vous y trouverez des repères sur les thématiques clés de l'AFRAVIH, sous form
 
 L’AFRAVIH est l’Alliance francophone des Acteurs de santé contre le VIH et les infections virales chroniques ou émergentes. Elle œuvre depuis plus de 10 ans à renforcer, dans les pays francophones, la mobilisation des acteurs et professionnels de santé des différentes communautés engagées dans la lutte contre le VIH et les infections virales chroniques.
 
-{% content-ref url="a-propos/contributeurs.md" %}
-[contributeurs.md](a-propos/contributeurs.md)
+{% content-ref url="contributeurs.md" %}
+[contributeurs.md](contributeurs.md)
 {% endcontent-ref %}
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6401774.svg)](https://doi.org/10.5281/zenodo.6401774)
