@@ -9,7 +9,9 @@ Suite au succès du [Livre "VIH, Hépatites virales, Santé sexuelle"](https://w
 
 Vous y trouverez des repères sur les thématiques clés de l'AFRAVIH, sous forme écrite mais aussi en vidéo.
 
-{% embed url="http://www.livre-afravih.org" %}
+{% content-ref url="vih/" %}
+[vih](vih/)
+{% endcontent-ref %}
 
 ### Qui sommes-nous ?
 
