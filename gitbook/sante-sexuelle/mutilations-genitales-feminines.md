@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Bannière AFRAPEDIA repères santé sexuelle.png
+coverY: 0
+---
+
 # Mutilations génitales féminines
 
 ## Pour bien comprendre de quoi on parle : l’anatomie vulvaire et clitoridienne
@@ -6,9 +11,9 @@ La vulve est un organe comprenant le mont du pubis, les grandes lèvres ou lèvr
 
 **Le clitoris est un organe sensitif, innervé par les nerfs dorsaux du clitoris. Plus de 10 000 terminaisons nerveuses ont été récemment comptées au niveau de cet organe, qui est constitué de tissus composés par plusieurs petites cavités capables de s’engorger de sang lors de l’excitation sexuelle : les corps spongieux (les bulbes) et les corps caverneux (les piliers), qui communiquent entre eux à travers des réseaux veineux**.
 
-<figure><img src="../.gitbook/assets/0 (2).png" alt=""><figcaption><p>Figure 1 : Anatomie de l’appareil génital féminin de face</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/0 (1).png" alt=""><figcaption><p>Figure 1 : Anatomie de l’appareil génital féminin de face</p></figcaption></figure>
 
-![Figure 2 : Anatomie de l’appareil génital féminin en 3D](<../.gitbook/assets/1 (3).png>)
+![Figure 2 : Anatomie de l’appareil génital féminin en 3D](../.gitbook/assets/1.png)
 
 ## Les mutilations génitales féminines : de quoi s’agit-il ?
 
@@ -18,17 +23,17 @@ Il existe quatre types de MGF définis par l’OMS (images diffusées avec permi
 
 **Type 1**: l’ablation du prépuce (1a) et/ou du gland clitoridien (1b) et éventuellement du corps du clitoris
 
-![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](<../.gitbook/assets/2 (1).png>) ![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](<../.gitbook/assets/3 (1).png>)
+![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](<../.gitbook/assets/2 (2).png>) ![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](<../.gitbook/assets/3 (3).png>)
 
 **Type 2**, l’excision : l’excision des lèvres internes et du gland/corps clitoridien
 
-![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](<../.gitbook/assets/4 (3).png>) ![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](<../.gitbook/assets/5 (2).png>)
+![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](<../.gitbook/assets/4 (1).png>) ![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](<../.gitbook/assets/5 (1).png>)
 
-![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](<../.gitbook/assets/6 (2).png>)
+![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](../.gitbook/assets/6.png)
 
 **Type 3**, l’infibulation : la fermeture de la vulve à travers l’apposition après excision des lèvres internes et/ou externes, avec ou sans excision du clitoris
 
-![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](<../.gitbook/assets/7 (1).png>)
+![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](../.gitbook/assets/7.png)
 
 ![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](../.gitbook/assets/8.png)
 

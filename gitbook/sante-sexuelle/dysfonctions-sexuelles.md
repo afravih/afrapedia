@@ -1,8 +1,13 @@
+---
+cover: ../.gitbook/assets/Bannière AFRAPEDIA repères santé sexuelle.png
+coverY: 0
+---
+
 # Dysfonctions sexuelles
 
 Au cours de la vie, de nombreuses personnes éprouvent des difficultés dans leur vie sexuelle. La manière d’exprimer cette difficulté variera d’un individu à l’autre, d’une société à l’autre, mais se pose souvent en filigrane une question angoissante pour les femmes et les hommes de tous âges : « **Suis-je normal ?** ».
 
-![](../.gitbook/assets/0.png)
+![](<../.gitbook/assets/0 (3).png>)
 
 Être dans la norme, conforme à la représentation d’une sexualité « saine » peut préoccuper nombre d’individus qui viennent chercher chez un soignant une réassurance, une validation (de leur sexualité... ou de leurs craintes d’être anormaux). De fait, la difficulté sexuelle pose en creux la question de la norme en sexualité.
 
@@ -26,7 +31,7 @@ _- une femme vous dit ne pas avoir de rapports sexuels depuis deux ans mais n’
 
 Ainsi, la dysfonction sexuelle est une difficulté rapportée par un individu qui l’éloigne de la santé sexuelle, par la souffrance ressentie (par lui) ou infligée (aux autres), par la limitation, parfois, de son champ d’activités ou de son libre-arbitre. Un comportement sexuel envahissant, se substituant à d’autres interactions interpersonnelles, rentrera, par exemple, dans le champ des dysfonctions.
 
-<figure><img src="../.gitbook/assets/1 (2).png" alt="" width="130"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (4).png" alt="" width="130"><figcaption></figcaption></figure>
 
 ## **Documenter la dysfonction sexuelle**
 
@@ -68,7 +73,7 @@ _\* nous faisons le choix de ne pas les aborder sous l’angle « féminin/mascu
 
 ### **Dysfonction érectile**
 
-![](../.gitbook/assets/2.png)
+![](<../.gitbook/assets/2 (3).png>)
 
 Définie comme l’incapacité d’obtenir et/ou de maintenir une érection, c’est à dire une rigidité du pénis suffisante pour une pénétration et le déroulement de l’acte sexuel, elle constitue l’un des troubles les plus fréquents, pouvant concerner une personne sur deux au cours de la vie.
 
@@ -104,11 +109,11 @@ au carrefour de causes à la fois organiques, psychologiques ou liées au trajet
 
 
 
-![](<../.gitbook/assets/3 (2).png>)
+![](../.gitbook/assets/3.png)
 
 ### **Ejaculation prématurée**
 
-![](<../.gitbook/assets/4 (2).png>)
+![](../.gitbook/assets/4.png)
 
 Appelée aussi « éjaculation précoce » ou « éjaculation rapide », elle est définie par la survenue d’une éjaculation jugée trop rapide par la personne, incontrôlable et empêchant la/le partenaire d’avoir du plaisir.
 
@@ -123,7 +128,7 @@ _Les traitements médicamenteux_ sont peu nombreux, essentiellement un inhibiteu
 
 ### **Vaginisme et dyspareunies**
 
-![Source : Womanlog](../.gitbook/assets/5.png)
+![Source : Womanlog](<../.gitbook/assets/5 (3).png>)
 
 Le vaginisme correspond à l’ensemble des réactions musculaires qui ferment l’orifice vaginal lors du coït. Il s’agit de réactions réflexes involontaires. Il peut être complet ou incomplet, si un certain degré de pénétration est possible. Il peut survenir uniquement dans le cadre d’une activité sexuelle avec partenaire, ou être constant à toute tentative d’introduction d’un tampon ou d’un speculum par exemple.
 
@@ -159,7 +164,7 @@ Les personnes ayant un pénis peuvent également présenter des dyspareunies, do
 
 ### **Diminution ou absence de désir sexuel**
 
-![](<../.gitbook/assets/6 (3).png>)
+![](<../.gitbook/assets/6 (1).png>)
 
 Le trouble du désir sexuel, ou désir sexuel hypoactif, est défini comme une déficience persistante ou répétée de s’engager dans une activité sexuelle, ou une absence de pensée ou fantasme érotique. Sont donc concernés les processus cognitifs qui précèdent l’excitation... « l’envie d’avoir envie » comme chanterait Johnny Halliday.
 
@@ -173,7 +178,7 @@ Mettre encadré ici : Dans tous les cas, il ne faut jamais minimiser la souffran
 
 ### **Absence d’orgasme (anorgasmie)**
 
-![](../.gitbook/assets/7.png)
+![](<../.gitbook/assets/7 (1).png>)
 
 L’absence d’orgasme après une phase d’excitation considérée comme « normale » peut être primaire ou secondaire (selon qu’elle a toujours existé ou qu’elle est apparue secondairement dans la vie sexuelle de la personne), constante, situationnelle (dans certaines circonstances) ou coïtale, certaines personnes atteignant parfaitement l’orgasme sauf par le coït.
 

@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Bannière AFRAPEDIA repères santé sexuelle.png
+coverY: 0
+---
+
 # Connaître son corps
 
 Le corps est partout, dans les médias, les publicités, les films, les discussions... Mais les aspects sexuels du corps sont souvent méconnus. Préoccupées par leur apparence physique, la plupart des personnes sont, paradoxalement, peu curieuses de connaître l’anatomie et le fonctionnement de leurs organes sexuels. Elles se reposent sur leurs acquis, maigres connaissances enseignées au collège et lycée ou par leurs parents, informations tirées d’internet et de la pornographie, et parfois quelques articles dans la presse estivale.
@@ -16,7 +21,7 @@ Nous adopterons une approche « homme/femme », tout à fait critiquable car ell
 
 C’est un choix de parler d’organes sexuels et non de système reproducteur. Désigner les organes de la sexualité par l’une de leur fonction seulement, la reproduction, est un biais cognitif qui attribue à la sexualité une finalité exclusive de reproduction, niant le désir et le plaisir comme composantes essentielles du fonctionnement humain.
 
-![](<../.gitbook/assets/0 (4).png>)
+![](<../.gitbook/assets/0 (2).png>)
 
 Cette planche anatomique montre les organes sexuels féminins conformes à leur description la plus récente. En effet, l’anatomie du clitoris, par exemple, n’a été précisément décrite qu’au début de ce siècle ! De nombreux manuels scolaires présentent encore une description du « système reproducteur féminin » (_sic_) caduque, avec un clitoris inexistant, réduit à un petit pois, laissant la part belle à l’utérus et aux ovaires, la sexualité féminine étant ainsi clairement présentée comme « destinée uniquement à faire des bébés ». Prenons quelques secondes pour être conscients de ces biais qui orientent, dès notre enfance, la vision de la sexualité, et, au-delà, du genre féminin.
 
@@ -24,7 +29,7 @@ Cheminons à présent d’organe en organe, afin de souligner quelques notions e
 
 **- la vulve :** soulignons d’emblée que la vulve n’est pas le vagin ! La vulve est extérieure et se voit, le vagin est intérieur, nous y reviendrons.
 
-![](<../.gitbook/assets/1 (1).png>)
+![](<../.gitbook/assets/1 (3).png>)
 
 _La vulve_ se compose des grandes et petites lèvres, du capuchon et du gland du clitoris, du vestibule, du méat urinaire, de l’orifice vaginal, de l’hymen et des glandes de Bartholin. _Les grandes lèvres_ referment l’orifice vaginal et le méat urinaire et ont un rôle protecteur. En écartant les grandes lèvres, on découvre les petites lèvres. _Le vestibule_ est la partie comprise entre petites lèvres et orifice vaginal.
 
@@ -38,7 +43,7 @@ Les _glandes de Bartholin_ (aussi nommées glandes vestibulaires) se situent de 
 
 **- le clitoris :** cet organe souvent méprisé ou dénigré, réduit à un petit pois c’est à dire sa partie émergée (le gland du clitoris, recouvert du capuchon), fait sa révolution depuis une vingtaine d’années. La saga du clitoris, c’est mieux que Star Wars : parfaitement connu au Moyen-Âge, cet organe a été passé sous silence pendant des siècles pour des raisons culturelles, religieuses ou encore médicales (les hommes médecins persuadés que cet organe pouvait poser problème et rendre les femmes « hystériques »). Grâce à une chirurgienne urologue australienne (Helen O’Connell), il a été de nouveau correctement décrit et compris à l’entrée du 21e siècle.
 
-![](<../.gitbook/assets/2 (2).png>)
+![](../.gitbook/assets/2.png)
 
 Et c’est loin d’être un petit pois... ! Plutôt un iceberg, dont le gland n’est que la partie émergée. Le tronc du clitoris prolonge le gland à l’intérieur du corps, telle la hampe du pénis. De ce tronc émergent deux racines, les piliers du clitoris, qui renferment les corps caverneux, et les bulbes vestibulaires, telles deux grosses amandes, se trouvant sous le vestibule et contre la paroi vaginale. Il s’agit donc d’un véritable ensemble, appelé parfois organe bulbo-clitoridien ou complexe clitoridien. Bref, le clitoris est un empire, et, excusez du peu, le seul organe humain dont la seule fonction connue est... le plaisir.
 
@@ -52,7 +57,7 @@ Et pour visualiser un clitoris en 3D : [http://odile.fillod.free.fr/3DClitFR.htm
 
 **- le vagin :** du latin _vagina_ (« fourreau » ou « gaine »), le vagin est un organe extraordinaire par ses multiples fonctions. Focus en GPS : de profil, le vagin se situe entre la vessie et le rectum, et de face il s’étend de l’orifice vaginal (dans la vulve) au col de l’utérus. A l’état de repos, le vagin est une cavité virtuelle, donc un espace vide. Sous l’effet de l’excitation le vagin s’élargit, mais ne le fait pas bêtement comme un contenant épouse un contenu passivement. Il s’élargit et s’allonge dans sa partie supérieure (près du col de l’utérus), on dit qu’il se «ballonise », l’image est parlante. Quant à sa partie inférieure, elle a tendance à se resserrer pendant un rapport sexuel, enserrant le contenu (pénis, sex toy, doigt...) comme un fourreau. Le vagin prend donc la forme d’une poire à l’envers.
 
-![](<../.gitbook/assets/3 (3).png>) ![](<../.gitbook/assets/4 (1).png>)
+![](<../.gitbook/assets/3 (1).png>) ![](<../.gitbook/assets/4 (2).png>)
 
 Cette « élasticité intelligente » lui permet de s’adapter avec précision, mais ce n’est pas la seule capacité de cet organe. Tapissé d’une muqueuse (un peu comme l’intérieur d’une joue), sa paroi intérieure est plissée, et ces plis favorisent l’extension et la dilatation du vagin en fonction de son contenu, un peu comme un accordéon.
 
@@ -62,7 +67,7 @@ La lubrification vaginale, sous l’effet d’une excitation sexuelle, relève d
 
 Pendant une activité sexuelle, vagin et clitoris travaillent de concert pour procurer du plaisir : tels deux acrobates parfaitement synchronisés, ils envoient des messages de plaisir par leur étirement, gonflement, élargissement, allongement...
 
-![](<../.gitbook/assets/5 (1).png>)
+![](../.gitbook/assets/5.png)
 
 Pour le vagin, c’est essentiellement le tiers inférieur (donc près de l’orifice vaginal) qui est doté de terminaisons nerveuses transmettant ces sensations voluptueuses, ce qui rassure beaucoup d’hommes complexés par la taille de leur pénis.
 
@@ -82,7 +87,7 @@ Quelques mots sur des organes moins directement impliqués dans le plaisir sexue
 
 La planche anatomique ci-dessous permet de repérer les organes sexuels et tord d’emblée le cou à une idée reçue : non, tout n’est pas extérieur et « visible » chez l’homme ! Certes, le pénis, le scrotum jouent un rôle clé dans la sexualité, mais ne négligeons pas, par exemple, la prostate ou les muscles du périnée masculin !
 
-![](../.gitbook/assets/6.png)
+![](<../.gitbook/assets/6 (2).png>)
 
 Quelques mots d’explication sur les principaux organes :
 

@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Bannière AFRAPEDIA repères santé sexuelle.png
+coverY: 0
+---
+
 # Désir, plaisir, consentement
 
 Le désir, le plaisir et le consentement sont des notions essentielles en matière de sexualité. Quand une personne ressent du désir, consent à une activité sexuelle et en tire du plaisir, l’expérience sexuelle vécue peut être satisfaisante et renforcer l’estime de soi, ainsi qu’une vision optimiste de la sexualité. En revanche, une expérience sexuelle imposée, par la menace ou la contrainte donc en l’absence de consentement, une absence de désir ou de plaisir entravent la possibilité d’une expérience sexuelle agréable et sont sources d’une mauvaise santé sexuelle, à l’origine d’une image de soi potentiellement dégradée.
@@ -6,13 +11,13 @@ Le désir, le plaisir et le consentement sont des notions essentielles en matiè
 
 Aucune définition satisfaisante du désir sexuel ne fait consensus dans la communauté médicale. On peut, simplement, envisager le désir comme l’ensemble des forces qui poussent un individu vers un comportement sexuel, ou comme un appétit, une attirance, ou un état subjectif lié à la perception d’un besoin. Soulignons d’emblée qu’il s’agit bien de « perception d’un besoin » et non de besoin réel, le comportement sexuel humain n’étant pas irrépressible.
 
-![](<../.gitbook/assets/0 (3).png>)
+![](../.gitbook/assets/0.png)
 
 La notion de « motivation sexuelle » est parfois évoquée à la place du désir, et désigne les raisons qui nous font aller vers un comportement sexuel. Le désir peut être perçu comme la première étape de cette « motivation », un « starter » entrainant une excitation précédant l’activité sexuelle proprement dite.
 
 Le désir est influencé par une multitude de facteurs, biologiques, psychologiques et sociaux (figure 1).
 
-![Figure 1 - Le désir sous de multiples influences (liste non exhaustive)](<../.gitbook/assets/1 (4).png>)
+![Figure 1 - Le désir sous de multiples influences (liste non exhaustive)](<../.gitbook/assets/1 (1).png>)
 
 ### _Les hormones sexuelles_
 
@@ -42,7 +47,7 @@ Pour la plupart des individus, l’accumulation des tensions sexuelles au cours 
 
 L’orgasme est généralement décrit comme une sensation de grand plaisir. On parle parfois de « point culminant du plaisir », ce qui est subjectif car le ressenti dans l’activité sexuelle avant l’orgasme peut être tout aussi agréable, voire plus agréable.
 
-![Source : onsexprime.fr](../.gitbook/assets/3.png)
+![Source : onsexprime.fr](<../.gitbook/assets/3 (2).png>)
 
 D’un point de vue neurophysiologique, le plaisir sexuel est mal connu car peu étudié. De manière générale, le plaisir implique de nombreuses structures cérébrales, dont les aires corticales orbitofrontale, cingulaire et insulaire, et des structures sous-corticales donc situées « en profondeur » dans le cerveau. Le « système de récompense » est évidemment impliqué au même titre qu’il l’est dans le désir sexuel. Quant à l’orgasme, il se caractérise par une série de contractions rapprochées et rythmées déclenchant le relâchement des tensions neuromusculaires accumulées jusqu’ici.
 
@@ -53,7 +58,7 @@ Au moment de l’orgasme,
 
 D’un point de vue sociologique, la quête de l’orgasme alimente les représentations sur la sexualité, et, plus particulièrement, d’un orgasme qui serait simultané pour les partenaires. Cette tendance réduit souvent le plaisir sexuel à l’orgasme, ce qui est une vision très parcellaire de la sexualité humaine.
 
-![](../.gitbook/assets/4.png)
+![](<../.gitbook/assets/4 (3).png>)
 
 ## **Le consentement**
 
@@ -83,7 +88,7 @@ Comment ces notions de désir, plaisir et consentement s’articulent-elles au c
 
 Les travaux de Masters et Johnson dans les années 1950 reposent sur l’observation systématique de milliers d’actes sexuels et ont permis de décrire le cycle de réponse sexuelle selon un modèle en quatre phases : l’’excitation, le plateau, l’orgasme et la résolution (figure 2).
 
-![Figure 2 - Modèle en 4 phases d'un comportement sexuel par Masters et Johnson](<../.gitbook/assets/6 (1).png>)
+![Figure 2 - Modèle en 4 phases d'un comportement sexuel par Masters et Johnson](<../.gitbook/assets/6 (3).png>)
 
 _La phase d’excitation_ commence avec les premières stimulations sexuelles et se caractérise par l’augmentation progressive de la tension musculaire, du rythme cardiaque et de la tension artérielle. La lubrification vaginale ou l’érection du pénis interviennent au cours de cette phase. Cette phase suit donc un désir ou une motivation sexuelle et s’accompagne d’un consentement explicite des personnes engagées dans l’activité sexuelle, consentement qui peut être retiré à tout moment sans justification particulière.
 
