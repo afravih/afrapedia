@@ -25,7 +25,7 @@ Les repères historiques présentés ici concernent les grandes étapes de l’�
 
 \- Les malades sont d'emblée stigmatisés et discriminés, et les peurs que la maladie suscite alimentent toutes sortes de suppositions sur son mode de transmission : la sueur, l’air, la vaisselle partagée, les brosses à dents…
 
-\- **** En 1982, cette maladie prend le nom du désordre immunitaire majeur qu’elle induit : un déficit profond de l’immunité, du jamais vu chez des sujets jeunes et auparavant en bonne santé. Le sigle AIDS, pour _Acquired Immunodeficiency Syndrome,_ est désormais utilisé aux États-Unis. Dans les pays francophones, ce sera le SIDA (syndrome d’immunodéficience acquise), devenu sida, nom commun.
+\- En 1982, cette maladie prend le nom du désordre immunitaire majeur qu’elle induit : un déficit profond de l’immunité, du jamais vu chez des sujets jeunes et auparavant en bonne santé. Le sigle AIDS, pour _Acquired Immunodeficiency Syndrome,_ est désormais utilisé aux États-Unis. Dans les pays francophones, ce sera le SIDA (syndrome d’immunodéficience acquise), devenu sida, nom commun.
 
 \- On découvre que la maladie peut être transmise par voie sexuelle aux femmes. Des cas similaires sont repérés en Afrique.
 
@@ -157,7 +157,7 @@ Cependant, et ceci reste vrai actuellement, toutes les molécules développées 
 
 \- 2014 : dans l’objectif de mettre fin à l’épidémie, l'ONU fixe de nouvelles cibles pour le traitement du VIH : d’ici 2020, 90% des personnes vivant avec le VIH devront être diagnostiquées, 90% des cas diagnostiqués seront traités, et 90% des cas traités auront une charge virale indétectable (cible 90-90-90).
 
-\- **** 2015 : l’essai START démontre que l’initiation du traitement antirétroviral précoce, dès le diagnostic d’infection au VIH et même au-dessus de la limite de 500 CD4/mm3, réduit de moitié la progression de l’infection VIH avec une réduction des comorbidités graves, comme les maladies cardiovasculaires, certains cancers ou la tuberculose. Ainsi nait le concept de traitement universel pour tous les PVVIH, sans limite de niveau de lymphocytes CD4.
+\- 2015 : l’essai START démontre que l’initiation du traitement antirétroviral précoce, dès le diagnostic d’infection au VIH et même au-dessus de la limite de 500 CD4/mm3, réduit de moitié la progression de l’infection VIH avec une réduction des comorbidités graves, comme les maladies cardiovasculaires, certains cancers ou la tuberculose. Ainsi nait le concept de traitement universel pour tous les PVVIH, sans limite de niveau de lymphocytes CD4.
 
 \- TASP (_treatment as prevention_) : les résultats les plus récents des études HPTN 052 et PARTNER confirment que le traitement antirétroviral et une charge virale indétectable chez un partenaire infecté par le VIH conduisent à ne plus transmettre le VIH, pour les rapports sexuels anaux et vaginaux.
 

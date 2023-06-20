@@ -11,4 +11,4 @@ coverY: 0
 
 ![Joseph Larmarange](<.gitbook/assets/9. Joseph Larmarange.png>) ![Françoise Linard](<.gitbook/assets/10. linard-francoise.png>) ![Nicolas Ritter](<.gitbook/assets/11. Nicolas Ritter test.png>) ![Bruno Spire](<.gitbook/assets/12. Bruno Spire.png>)
 
-![Stéphanie Tchiombiano](<.gitbook/assets/13. Stephanie\_Tchiombiano.png>) ![Catherine Dollfus](<.gitbook/assets/Capture d’écran 2022-06-24 à 18.30.33.png>) ![](<.gitbook/assets/cadre blanc 1.png>) ![](<.gitbook/assets/cadre blanc 1.png>)
+![Stéphanie Tchiombiano](<.gitbook/assets/13. Stephanie\_Tchiombiano.png>) ![Catherine Dollfus](<.gitbook/assets/Capture d’écran 2022-06-24 à 18.30.33.png>) ![](<.gitbook/assets/cadre blanc 1.png>) ![](<.gitbook/assets/cadre blanc 1.png>)

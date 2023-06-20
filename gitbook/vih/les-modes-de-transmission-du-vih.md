@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/bannière 1 AFRAPEDIA partie VIH V2.png
 coverY: 0
 ---
 
-# Les modes de transmissions du VIH
+# Les modes de transmission du VIH
 
 ## Comment se transmet le VIH ?
 
@@ -48,7 +48,19 @@ Il existe un risque de transmission :
 
 Il y a un risque de contamination de la mère séropositive à son enfant durant la grossesse (contamination par voie sanguine), l’accouchement (par voie sanguine et par les secrétions vaginales) et l’allaitement (par le lait maternel). Heureusement, aujourd’hui, grâce à un accompagnement médical adapté et la prise d’un traitement, les mères séropositives peuvent donner naissance à un enfant non contaminé.
 
-![](<../.gitbook/assets/cadre blanc 1.png>) ![](<../.gitbook/assets/Capture d’écran 2022-05-30 à 15.25.58.png>) ![](<../.gitbook/assets/cadre blanc 1.png>)
+<div align="right">
+
+<img src="../.gitbook/assets/cadre blanc 1.png" alt="">
+
+ 
+
+<img src="../.gitbook/assets/Capture d’écran 2022-05-30 à 15.25.58.png" alt="">
+
+ 
+
+<img src="../.gitbook/assets/cadre blanc 1.png" alt="">
+
+</div>
 
 {% hint style="info" %}
 Il n’y a pas de transmission :

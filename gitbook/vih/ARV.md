@@ -112,11 +112,11 @@ Au sein de la classe des INTI, la barrière génétique à la résistance est as
 
 Les INTI de première génération (AZT, d4T, ddI, ddC) se sont révélés mal tolérés, avec la survenue d’effets secondaires en lien avec leur toxicité mitochondriale (baisse des globules sanguins avec anémie pour l’AZT, troubles digestifs, douleurs musculaires, perte de la graisse avec creusement des joues, neuropathie des membres inférieurs). Pour ces raisons, ils ne sont plus recommandés.
 
-La **lamivudine (3TC)** et l’**emtricitabine (FTC**), __ deux molécules « cousines », ont un excellent profil de tolérance qui en fait des partenaires de choix, en association avec un autre INTI, pour constituer le socle (_backbone)_ de nombreuses trithérapies, ou avec un ARV d’une autre classe pour construire une bithérapie (par exemple : darunavir/ritonavir + 3TC ou dolutégravir + 3TC).
+La **lamivudine (3TC)** et l’**emtricitabine (FTC**), deux molécules « cousines », ont un excellent profil de tolérance qui en fait des partenaires de choix, en association avec un autre INTI, pour constituer le socle (_backbone)_ de nombreuses trithérapies, ou avec un ARV d’une autre classe pour construire une bithérapie (par exemple : darunavir/ritonavir + 3TC ou dolutégravir + 3TC).
 
 L’**abacavir (ABC)** est bien toléré ; cependant, il ne doit pas être utilisé chez les patients porteur du marqueur génétique HLA B57-01, compte tenu d’un risque d’hypersensibilité grave avec survenue, dans les 6 premières semaines, de fièvre et d’éruption cutanée. En outre, ABC a été associé dans certaines études à un sur-risque d’évènement cardio-vasculaire, et il parait prudent d’envisager des alternatives thérapeutiques chez les patients à haut risque cardio-vasculaire.
 
-Les __ **ténofovir (TDF ou TAF)** sont de loin les INTI les plus utilisés, combinés à 3TC ou FTC Leur tolérance clinique est bonne. Cependant, dans de rares cas (moins de 2%), le TDF peut endommager la fonction rénale (il faut surveiller la créatinine dans le sang). Par ailleurs, le TDF est associé à une déminéralisation osseuse plus importante que les autres ARV, sans qu’un risque plus élevé de fracture osseuse ait été clairement démontré. Ces inconvénients sont bien moins importants avec le TAF.
+Les **ténofovir (TDF ou TAF)** sont de loin les INTI les plus utilisés, combinés à 3TC ou FTC Leur tolérance clinique est bonne. Cependant, dans de rares cas (moins de 2%), le TDF peut endommager la fonction rénale (il faut surveiller la créatinine dans le sang). Par ailleurs, le TDF est associé à une déminéralisation osseuse plus importante que les autres ARV, sans qu’un risque plus élevé de fracture osseuse ait été clairement démontré. Ces inconvénients sont bien moins importants avec le TAF.
 
 ## **Les inhibiteurs non nucléosidiques de la transcriptase inverse (INNTI)**
 
@@ -224,7 +224,7 @@ Ils n’entrainent pas d’interactions majeures ni avec les autres ARV ni avec 
 
 ### Résistance
 
-Les INI de première génération (RAL et EVG) ont une faible barrière génétique à la résistance. Les molécules de deuxième génération comme DTG ou BIC ont une barrière génétique élevée à la résistance avec très peu voire pas de résistance en cas d’échec à DTG chez les patients naïfs d’ARV. _****_ La barrière génétique à la résistance de CAB semble intermédiaire entre celles des INI de première et de deuxième génération.
+Les INI de première génération (RAL et EVG) ont une faible barrière génétique à la résistance. Les molécules de deuxième génération comme DTG ou BIC ont une barrière génétique élevée à la résistance avec très peu voire pas de résistance en cas d’échec à DTG chez les patients naïfs d’ARV. La barrière génétique à la résistance de CAB semble intermédiaire entre celles des INI de première et de deuxième génération.
 
 ### Tolérance
 

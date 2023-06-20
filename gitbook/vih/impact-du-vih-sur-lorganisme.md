@@ -113,7 +113,7 @@ L’inflammation croissante altère également l’ensemble du métabolisme et �
 
 A partir du moment où les 1eres infections et cancers opportunistes apparaissent le déclin est inévitable et conduit à la mort du patient.
 
-__
+
 
 ![Figure 3. Lymphopénie CD4 et SIDA](<../.gitbook/assets/Capture d’écran 2022-03-28 à 14.40.35.png>)
 

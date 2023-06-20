@@ -43,7 +43,7 @@ En revanche, à l’échelle mondiale, les VIH-1 non-B représentent au moins 85
 * le sous-type A (10 %) en Europe de l’Est, Asie centrale et Afrique de l’Est,&#x20;
 * le CRF02\_AG (7,7 %) en Afrique de l’Ouest et le CRF01\_AE (5,3 %) en Asie du Sud-Est (figure 3).&#x20;
 
-La proportion de virus recombinants est de 23 %. **** En Afrique centrale, circulent tous les sous-types du groupe M et la majorité des formes recombinantes. Contrastant avec l’extraordinaire diffusion des VIH-1 du groupe M aboutissant à une pandémie, les infections par les VIH-1 non-M restent localisées en Afrique centrale, principalement au Cameroun.
+La proportion de virus recombinants est de 23 %. En Afrique centrale, circulent tous les sous-types du groupe M et la majorité des formes recombinantes. Contrastant avec l’extraordinaire diffusion des VIH-1 du groupe M aboutissant à une pandémie, les infections par les VIH-1 non-M restent localisées en Afrique centrale, principalement au Cameroun.
 
 ![Figure 3. Répartition des sous-types viraux dans le monde, d’après M. Peeter (2000)](<../.gitbook/assets/Figure 3.png>)
 

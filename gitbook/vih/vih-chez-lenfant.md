@@ -161,14 +161,14 @@ L’accueil en services de médecine adultes d’adolescents et de jeunes adulte
 
 ### **Documents pour en savoir plus et pour la pratique :**
 
-****[**Les recommandations de prise en charge de l’enfant et de l’adolescent**](https://cns.sante.fr/wp-content/uploads/2018/02/experts-vih\_pediatrie.pdf) **** (en cours de révision en 2022 ; document attendu pour fin 2022, les dernières datent de Février 2018)
+[**Les recommandations de prise en charge de l’enfant et de l’adolescent**](https://cns.sante.fr/wp-content/uploads/2018/02/experts-vih\_pediatrie.pdf) (en cours de révision en 2022 ; document attendu pour fin 2022, les dernières datent de Février 2018)
 
 Réseau EVA/Expertise France : [**Guide Pratique Prise en charge des enfants vivant avec le VIH** ; 2016](https://reseaueva.net/sites/default/files/2021-05/Guide%20de%20prise%20en%20charge%20EVA.pdf)
 
-Grandir/ SIDACTION : [**Guide de prise en charge de l’infection à VIH chez l’enfant et l’adolescent**](https://plateforme-elsa.org/wp-content/uploads/2014/03/Guide-Grandir-PEC-InfectionVIH-enfants-et-adolescents\_Edition-2\_2013.pdf)****
+Grandir/ SIDACTION : [**Guide de prise en charge de l’infection à VIH chez l’enfant et l’adolescent**](https://plateforme-elsa.org/wp-content/uploads/2014/03/Guide-Grandir-PEC-InfectionVIH-enfants-et-adolescents\_Edition-2\_2013.pdf)
 
-Grandir/ SIDACTION **:** [**Guide sur l’annonce à l’enfant et à l’adolescent**](https://sites.uclouvain.be/reso/opac\_css/doc\_num.php?explnum\_id=7803)****
+Grandir/ SIDACTION **:** [**Guide sur l’annonce à l’enfant et à l’adolescent**](https://sites.uclouvain.be/reso/opac\_css/doc\_num.php?explnum\_id=7803)
 
-Expertise France, Initiative 5%, SIDACTION **:** [**Ados et jeunes vivant avec le VIH, guide pour pratiquer la Pair Education**](https://plateforme-elsa.org/wp-content/uploads/2021/04/Guide-PE.pdf)****
+Expertise France, Initiative 5%, SIDACTION **:** [**Ados et jeunes vivant avec le VIH, guide pour pratiquer la Pair Education**](https://plateforme-elsa.org/wp-content/uploads/2021/04/Guide-PE.pdf)
 
 ![https://www.unaids.org/fr/resources/presscentre/pressreleaseandstatementarchive/2020/july/20200707\_start-free-stay-free-aids-free](<../.gitbook/assets/4 (3)>)

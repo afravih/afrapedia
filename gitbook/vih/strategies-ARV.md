@@ -53,7 +53,7 @@ Les recommandations de traitement basées sur le niveau des CD4 ont considérabl
 * En 2002, les recommandations sont d’initier le traitement ARV au-dessus de 200 CD4/mm3 chez les personnes asymptomatiques.
 * En 2004, la barre des 350 CD4 pour initier le TARV est franchie. Entre 350/mm3 et 500/mm3, les ARV peuvent être initiés en fonction du niveau de charge virale.
 * À la fin des années 2000, plusieurs études vont démontrer le caractère délétère du VIH non traité. Dans le même temps, arrivent de nouvelles molécules permettant de reconsidérer l’idée d’un contrôle plus précoce de l’infection. Les barres de valeur de CD4 exigibles pour l’initiation vont remonter progressivement. Ainsi, en 2010, en moins de quatre ans, le seuil situé entre 200 et 350 CD4/mm3 est passé à 350 CD4/mm3, puis à 500 CD4/mm3.
-* Puis est venu le traitement universel, quel que soit le niveau de CD4. Pour statuer de façon rigoureuse, ont été mis en place deux larges essais afin de comparer, chez des PVVIH ayant plus de 500 CD4/mm3, le traitement immédiat _versus_ le traitement différé à moins de 500 /mm3. Les deux essais - TEMPRANO (ANRS 12136) en Afrique de l’Ouest et START dans trente-cinq pays - montrent une réduction du risque de morbidité sévère de 44 % chez les patients débutant précocement le TARV. Sur la base de ces résultats, l’OMS recommandera en 2015 __ que le TARV soit instauré chez toutes les PVVIH, quel que soit leur niveau de CD4.
+* Puis est venu le traitement universel, quel que soit le niveau de CD4. Pour statuer de façon rigoureuse, ont été mis en place deux larges essais afin de comparer, chez des PVVIH ayant plus de 500 CD4/mm3, le traitement immédiat _versus_ le traitement différé à moins de 500 /mm3. Les deux essais - TEMPRANO (ANRS 12136) en Afrique de l’Ouest et START dans trente-cinq pays - montrent une réduction du risque de morbidité sévère de 44 % chez les patients débutant précocement le TARV. Sur la base de ces résultats, l’OMS recommandera en 2015 que le TARV soit instauré chez toutes les PVVIH, quel que soit leur niveau de CD4.
 * Depuis 2017, l’OMS comme toutes les sociétés savantes nationales, encourage les prescripteurs à initier le TARV rapidement, c’est-à-dire dans les sept jours maximum après le diagnostic de l’infection par le VIH (site internet [_OMS guidelines_](https://www.who.int/publications/i/item/9789240031593)_)._ Il est même possible de démarrer le traitement immédiatement après confirmation du diagnostic, le même jour, chez les patients qui se sentent prêts.
 
 Il est évidemment important d’apprécier la capacité du patient à débuter le traitement très rapidement : il faut prendre en compte ses connaissances sur le VIH, son état psychologique, évaluer un contexte éventuellement difficile (stigmatisation de l’infection VIH par l’environnement familial, violence domestique ou autre coercition qui risquerait d’influencer négativement les bénéfices du TARV débuté rapidement).
@@ -115,7 +115,7 @@ Le choix d’un **3e agent, c’est-à-dire le médicament combiné en trithéra
 
 **- soit un INNTI** : doravirine associé à TDF et lamivudine (Delstrigo®) (recommandations européennes)
 
-L’éfavirenz ou la rilpivirine ne sont plus recommandées en médiation de traitement pour des raisons de puissances (rilpivirine) ou de tolérance (éfavirenz). Enfin, l’utilisation d’IP en première ligne de traitement __ reste une option, notamment si le risque de résistance transmise ou acquise est évoqué, ou si d’autres options sont inadéquates. Dans ces situations, le choix se portera sur le darunavir boosté soit par du cobicistat soit par du ritonavir.
+L’éfavirenz ou la rilpivirine ne sont plus recommandées en médiation de traitement pour des raisons de puissances (rilpivirine) ou de tolérance (éfavirenz). Enfin, l’utilisation d’IP en première ligne de traitement reste une option, notamment si le risque de résistance transmise ou acquise est évoqué, ou si d’autres options sont inadéquates. Dans ces situations, le choix se portera sur le darunavir boosté soit par du cobicistat soit par du ritonavir.
 
 ### Cas particuliers
 
@@ -269,7 +269,7 @@ C’est une étape essentielle qui doit préciser les différentes molécules re
 
 ### Mesures des concentrations plasmatiques d’antirétroviraux
 
-Cette __ mesure des concentrations plasmatiques des molécules ARV permet d’identifier si un sous-dosage peut expliquer dans l’échec virologique : des concentrations inexistantes ou extrêmement basses permettent d’affirmer la non-prise des médicaments ; des concentrations basses peuvent, outre une mauvaise observance, être liées soit à une interaction avec un autre médicament soit une prise inadéquate.
+Cette mesure des concentrations plasmatiques des molécules ARV permet d’identifier si un sous-dosage peut expliquer dans l’échec virologique : des concentrations inexistantes ou extrêmement basses permettent d’affirmer la non-prise des médicaments ; des concentrations basses peuvent, outre une mauvaise observance, être liées soit à une interaction avec un autre médicament soit une prise inadéquate.
 
 ### Test de résistance du virus
 

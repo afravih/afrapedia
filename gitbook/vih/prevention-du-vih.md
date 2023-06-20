@@ -59,7 +59,7 @@ Les quinze dernières années ont permis la mise au point d’interventions biom
 
 On sait également depuis une dizaine d’années que les personnes séropositives sous traitement antirétroviral et dont la charge virale est indétectable ne transmettent pas le virus. C’est ce qu’on appelle le _TasP (treatment as prevention_, le traitement comme moyen de prévention en français). Cette stratégie préventive est présentée plus en détail dans le chapitre consacré à la fin du sida.
 
-\- La _prophylaxie préexposition (PrEP)_ correspond, quant à elle, à l’utilisation d’antirétroviraux à titre préventif chez des personnes séronégatives pour le VIH. Elle est présentée plus en détail dans un chapitre dédié. __&#x20;
+\- La _prophylaxie préexposition (PrEP)_ correspond, quant à elle, à l’utilisation d’antirétroviraux à titre préventif chez des personnes séronégatives pour le VIH. Elle est présentée plus en détail dans un chapitre dédié.&#x20;
 
 {% content-ref url="prep.md" %}
 [prep.md](prep.md)
