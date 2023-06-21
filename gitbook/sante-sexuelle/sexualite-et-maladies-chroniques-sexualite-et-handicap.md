@@ -47,13 +47,13 @@ Il n’existe pas d’exception, toute maladie chronique peut impacter négative
 
 **Il s’agit véritablement d’une double peine pour les personnes malades :** à la difficulté de vivre avec une condition chronique s’ajoutent des difficultés intimes et/ou affectives, alors même que la sexualité devrait être la zone de liberté de ces personnes, leur terrain de jeu donnant l’opportunité de jouir d’un corps malmené par la maladie et, parfois, les traitements.
 
-<figure><img src="../.gitbook/assets/0 (4).png" alt="" width="130"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/0 (1).png" alt="" width="130"><figcaption></figcaption></figure>
 
 **Documenter les maladies chroniques et leurs traitements**
 
 Quand une personne rapporte une dysfonction sexuelle, il est essentiel de documenter son état de santé, de comprendre si elle vit avec des maladies chroniques, les contraintes imposées par celles-ci, de noter scrupuleusement tout médicament reçu (susceptible d’avoir des effets délétères sur la sexualité) et de discuter avec elle des répercussions de son état de santé sur sa sexualité.
 
-<figure><img src="../.gitbook/assets/1 (2).png" alt="" width="145"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.png" alt="" width="145"><figcaption></figcaption></figure>
 
 **Il faut briser le cercle vicieux**
 
@@ -93,7 +93,7 @@ D’une part, le cancer véhicule encore une image mortifère malgré les immens
 
 D’autre part, les traitements prescrits ont souvent des effets directs sur les organes génitaux (notamment sécheresse voire atrophie vaginale, ou dysfonction érectile suite à une chimiothérapie ou une radiothérapie). Des référentiels ont été publiés par l’Association Francophone pour les Soins Oncologiques de Supports (AFSOS – lien en bas de ce chapitre) et soulignent que **tous les patients, tous les cancers, tous les traitements sont potentiellement concernés quand il s’agit de fonction sexuelle.**
 
-![](<../.gitbook/assets/2 (1).png>)
+![](<../.gitbook/assets/2 (2).png>)
 
 Souvent, les personnes touchées par le cancer n’osent pas évoquer avec leur oncologue les dysfonctions sexuelles qui sont apparues. Elles craignent son jugement sur des préoccupations qui pourraient sembler futiles - ce qui est infondé, les oncologues étant de plus en plus conscients de l’importance de préserver le mieux possible une bonne santé sexuelle.
 
