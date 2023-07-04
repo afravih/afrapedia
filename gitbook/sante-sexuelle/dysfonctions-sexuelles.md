@@ -78,7 +78,7 @@ Définie comme l’incapacité d’obtenir et/ou de maintenir une érection, c�
 
 Il faut s’assurer qu’elle est persistante dans le temps, des « pannes » occasionnelles ne définissant pas une dysfonction érectile (oui, il peut être normal de ne pas avoir d’érection si vous vous êtes disputé avec votre patron le jour même. Du reste, il est possible que votre patron ait aussi une panne pour cette raison. Ce qui peut être réconfortant).
 
-Documenter précisément ce trouble _(_[_voir encadré partie 1_](http://www.afrpedia.org/sante-sexuelle/dysfonctions-sexuelles#definition-dysfonction-sexuelle)_)_ est essentiel car ces renseignements peuvent orienter vers une cause. Par exemple, le contexte médical peut indiquer un terrain vasculaire (diabète, hypertension artérielle...) qui orientera vers une cause organique, ou le contexte de vie (licenciement ou deuil récent) orientera davantage vers une cause dite « psychogène ».
+Documenter précisément ce trouble _(_[_voir encadré partie 1_](dysfonctions-sexuelles.md#definition-dysfonction-sexuelle)_)_ est essentiel car ces renseignements peuvent orienter vers une cause. Par exemple, le contexte médical peut indiquer un terrain vasculaire (diabète, hypertension artérielle...) qui orientera vers une cause organique, ou le contexte de vie (licenciement ou deuil récent) orientera davantage vers une cause dite « psychogène ».
 
 La majorité des dysfonctions érectiles sont d’origine psychogène, c’est à dire qu’elles ne relèvent pas d’une cause organique identifiée. Certaines sont dites d’origine mixte, à la fois organique et psychogène.
 
