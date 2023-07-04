@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Bannière AFRAPEDIA repères santé sexuelle.png
+cover: ../.gitbook/assets/Bannière AFRAPEDIA AVEC AFRAVIH.png
 coverY: 0
 ---
 
@@ -11,9 +11,9 @@ La vulve est un organe comprenant le mont du pubis, les grandes lèvres ou lèvr
 
 **Le clitoris est un organe sensitif, innervé par les nerfs dorsaux du clitoris. Plus de 10 000 terminaisons nerveuses ont été récemment comptées au niveau de cet organe, qui est constitué de tissus composés par plusieurs petites cavités capables de s’engorger de sang lors de l’excitation sexuelle : les corps spongieux (les bulbes) et les corps caverneux (les piliers), qui communiquent entre eux à travers des réseaux veineux**.
 
-<figure><img src="../.gitbook/assets/0 (3).png" alt=""><figcaption><p>Figure 1 : Anatomie de l’appareil génital féminin de face</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/MGF 1..png" alt="" width="563"><figcaption><p>Figure 1 : Anatomie de l’appareil génital féminin de face</p></figcaption></figure>
 
-![Figure 2 : Anatomie de l’appareil génital féminin en 3D](<../.gitbook/assets/1 (3).png>)
+<figure><img src="../.gitbook/assets/MGF 2.png" alt=""><figcaption><p>Figure 2 : Anatomie de l’appareil génital féminin en 3D</p></figcaption></figure>
 
 ## Les mutilations génitales féminines : de quoi s’agit-il ?
 
@@ -21,33 +21,41 @@ Les mutilations génitales féminines ou excisions (MGF/E) sont définies par l�
 
 Il existe quatre types de MGF définis par l’OMS (images diffusées avec permission de l’OMS) :
 
-**Type 1**: l’ablation du prépuce (1a) et/ou du gland clitoridien (1b) et éventuellement du corps du clitoris
+**Type 1**: l’ablation du prépuce et/ou du gland clitoridien (Type 1a) et éventuellement du corps du clitoris (Type 1a)
 
-![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](<../.gitbook/assets/2 (3).png>) ![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](<../.gitbook/assets/3 (1).png>)
+![MGF Type 1 1a ablation du prépuce/capuchon clitoridien](<../.gitbook/assets/MGF 3.png>) ![MGF Type 1 1a ablation du clitoris et du prépuce](<../.gitbook/assets/MGF 4.png>)
 
 **Type 2**, l’excision : l’excision des lèvres internes et du gland/corps clitoridien
 
-![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](<../.gitbook/assets/4 (3).png>) ![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](<../.gitbook/assets/5 (2).png>)
+![MGF Type 2a ablation des petites lèvres uniquement](<../.gitbook/assets/MGF 5.png>) ![MGF Type 2b ablation partielle ou totale du clitoris et des petites lèvres](<../.gitbook/assets/MGF 6.png>)
 
-![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](<../.gitbook/assets/6 (2).png>)
+![MGF Type 2c ablation partielle ou totale du clitoris, des petites lèvres et des grandes lèvres](<../.gitbook/assets/MGF 7.png>)
 
 **Type 3**, l’infibulation : la fermeture de la vulve à travers l’apposition après excision des lèvres internes et/ou externes, avec ou sans excision du clitoris
 
-![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](../.gitbook/assets/7.png)
+<div align="center" data-full-width="true">
 
-![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](../.gitbook/assets/8.png)
+<img src="../.gitbook/assets/MGF 8.png" alt="MGF Type 3a ablation et accolement des petites lèvres avec ou sans excision du clitoris">
+
+ 
+
+<figure><img src="../.gitbook/assets/MGF 9 (1).png" alt=""><figcaption><p>MGF Type 3b ablation et accolement des grandes lèvres avec ou sans excision du clitoris</p></figcaption></figure>
+
+</div>
 
 **Type 4,** toutes les autres MGF (piercing, piqure du clitoris, stretching des lèvres, incision du prépuce ou du gland du clitoris, etc.)
 
-![Source : Lignes directrices de l’OMS sur la prise en charge des complications des mutilations sexuelles féminines](../.gitbook/assets/9.png)
+![MGF Type 4](<../.gitbook/assets/MGF 10.png>)
 
 Si le type 3 (environ 15% des MGF/E) est assez facile à diagnostiquer, les types 1, 2 et 4 sont parfois difficiles à distinguer de variations anatomiques comme, par exemple, des lèvres internes de petite taille, ou d’autres conditions comme la synéchie des lèvres internes.
 
-Un atlas photographique est disponible en accès libre sur ce lien : [https://link.springer.com/chapter/10.1007/978-3-030-81736-7\_5](https://link.springer.com/chapter/10.1007/978-3-030-81736-7\_5)
+Un atlas photographique est disponible en accès libre sur ce lien :
+
+[https://link.springer.com/chapter/10.1007/978-3-030-81736-7\_5](https://link.springer.com/chapter/10.1007/978-3-030-81736-7\_5)
 
 ## Qui est concerné ?
 
-**Les MGF/E sont une pratique traditionnelle largement répandue** **dans le Monde** puisqu’on estime à plus **de 200 millions le nombre actuel de femmes** **et filles** concernées. Elles concernent certains pays d’Afrique subsaharienne, du Moyen-Orient, d’Asie du Sud-Est, notamment l’Indonésie et l’Inde, et les pays d’immigration (Europe, Canada, Etats-Unis, Australie). Elles sont parfois médicalisées, c’est-à-dire effectuées par du personnel de santé ? ou en milieu sanitaire.
+**Les MGF/E sont une pratique traditionnelle largement répandue** **dans le Monde** puisqu’on estime à plus **de 200 millions le nombre actuel de femmes** **et filles** concernées. Elles concernent certains pays d’Afrique subsaharienne, du Moyen-Orient, d’Asie du Sud-Est, notamment l’Indonésie et l’Inde, et les pays d’immigration (Europe, Canada, Etats-Unis, Australie). Elles sont parfois médicalisées, c’est-à-dire effectuées par du personnel de santé ou en milieu sanitaire.
 
 Aujourd’hui en France, **les MGF/E touchent des personnes migrantes et des filles et des femmes nées en France de parent(s) originaire(s) de pays où les MGF/E sont pratiquées**.
 
@@ -55,7 +63,7 @@ Il a été montré récemment que beaucoup de familles qui ont migré en Europe 
 
 Cependant, les MGF/E peuvent être pratiquées lors d’un retour au pays pour les vacances notamment, même si les parents sont opposés à la pratique. Tous les pays du Monde sont donc concernés et doivent s’impliquer dans la prévention de la pratique et de ses conséquences.
 
-<figure><img src="../.gitbook/assets/Prévalence MGF.png" alt=""><figcaption><p>Figure 4 : Prévalence des MGF dans le Monde</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/MGF 11.png" alt=""><figcaption><p>Figure 4 : Prévalence des MGF dans le Monde</p></figcaption></figure>
 
 ## Que dit la loi ?
 
@@ -87,6 +95,8 @@ Des dysfonctions sexuelles du désir, plaisir, excitation et orgasme peuvent aus
 
 Beaucoup de femmes et filles sont concernées dans le Monde, et beaucoup d’hommes aussi ne souhaitent pas que leurs femmes et filles subissent une excision. Peu osent en parler avec leurs proches, leurs maris, leurs familles.
 
+<figure><img src="../.gitbook/assets/Very_big_demonstrations_in_France_against_sexual_or_sexist_violence_(46032755911).jpg" alt=""><figcaption></figcaption></figure>
+
 Les communautés, les politiques des pays, les soignants doivent être informés et pouvoir orienter et soutenir les familles.
 
 Le Burkina Faso est un pays dans lequel la pratique a diminué fortement ces dernières années grâce aux efforts conjoints de l’État et de professionnel.le.s de santé.
@@ -109,7 +119,7 @@ Pour réaliser un message de prévention, le/a professionnel.le peut **évaluer 
 
 Dans un second temps, il/elle pourra poser la question pour l’enfant et l’ensemble de la fratrie. Dans certains pays et notamment la France, si le/la professionnel.le estime qu’il existe un risque de MGF/E chez une enfant avant un départ en vacances par exemple, il/elle réalisera un signalement de l’enfant aux autorités de protection de l’enfance afin que les parents soient reçus, reçoivent un rappel à la loi et que l’enfant soit examinée avant le départ et au retour par les autorités compétentes.
 
-## Que peut-on proposer ?
+## Que peut on proposer ?
 
 **L’accueil et l’information respectueux et professionnels sont le point de départ.**
 
@@ -123,13 +133,13 @@ Les accompagnements proposés dans les structures spécialisées ont une démarc
 
 Voici deux films utilisés en pratique clinique et qui ont été élaboré par le GAMS Belgique (Groupe d’Abolition des Mutilations Sexuelles et mariage forcé) :
 
-Celui là présente l’accompagnement pluridisciplinaire proposé en France et en Belgique :
+Celui-là présente l’accompagnement pluridisciplinaire proposé en France et en Belgique :
 
-[https://www.youtube.com/watch?v=t0FxtmzYR-U](https://www.youtube.com/watch?v=t0FxtmzYR-U)
+{% embed url="https://www.youtube.com/watch?v=t0FxtmzYR-U" %}
 
 Celui-ci présente la désinfibulation :
 
-[https://www.youtube.com/watch?v=t0FxtmzYR-U](https://www.youtube.com/watch?v=t0FxtmzYR-U)
+{% embed url="https://youtu.be/v5kdrj6oWuk" %}
 
 **En conclusion**, les personnes qui ont vécu ou sont à risque d’une MGF/E sont présentes dans le monde entier. La MGF/E est une pratique traditionnelle qui s’inscrit dans le champ des violences faites aux femmes et aux enfants et fait partie d’une norme sociétale qui rend le combat pour certaines familles difficile. Les prfoessionnel.les de santé doivent être sensibilisé.es et formé.es pour aborder le sujet, accueillir les personnes concernées dans la bienveillance et la non-discrimination, prendre en charge les éventuelles complications et prévenir la pratique dans les générations futures.
 

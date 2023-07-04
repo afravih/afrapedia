@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/bannière 1 AFRAPEDIA partie VIH V2.png
+cover: ../.gitbook/assets/Bannière partie VIH avec AFRAVIH.png
 coverY: 0
 ---
 

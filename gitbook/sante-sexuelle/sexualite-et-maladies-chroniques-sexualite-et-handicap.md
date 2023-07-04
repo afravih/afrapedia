@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Bannière AFRAPEDIA repères santé sexuelle.png
+cover: ../.gitbook/assets/Bannière AFRAPEDIA AVEC AFRAVIH.png
 coverY: 0
 ---
 
@@ -9,7 +9,7 @@ Dans le monde, une personne sur cinq serait affectée par une maladie chronique 
 
 Les maladies chroniques peuvent être réparties en plusieurs groupes : les maladies cardiovasculaires, le diabète, les cancers et les affections psychiatriques de longue durée en représentent 75%. Un cinquième groupe est composé des affections respiratoires, des insuffisances rénales, des maladies neurodégénératives et des autres maladies.
 
-{% hint style="success" %}
+{% hint style="info" %}
 **Maladies chroniques : définition**
 
 Selon l’OMS (Organisation Mondiale de la Santé), une maladie chronique est une maladie nécessitant des soins à long terme, pendant une période d’au moins plusieurs mois.
@@ -27,41 +27,35 @@ Il n’existe pas d’exception, toute maladie chronique peut impacter négative
 
 **Les maladies agissent de multiples manières sur la santé sexuelle :**
 
-\- sur la sphère génitale directement en cas d’atteinte du système hormonal, vasculaire, neurologique...,
-
-\- sur le désir/ le plaisir en cas d’atteinte du système nerveux central,
-
-\- sur les fonctions corporelles permettant la sexualité (par exemple, altération de la fonction respiratoire ou trouble de la motricité rendant l’activité sexuelle plus difficile à réaliser),
-
-\- sur l’image corporelle et l’apparence physique avec le deuil du « corps parfait », prise ou perte de poids, perte d’intégrité physique ou d’autonomie, handicap, marques visibles de la maladie...,
-
-\- sur l’estime de soi avec la perte de la capacité à avoir confiance en soi et se considérer comme désirable,
-
-\- sur l’intimité avec un corps « à disposition des soignants », notamment en contexte d’hospitalisation ou de séjour en établissements médicalisés,
-
-\- sur la disponibilité mentale et émotionnelle compte tenu des nombreux rendez-vous médicaux empêchant la personne de se détendre et d’être en situation de désirer,
-
-\- sur la relation avec la/le partenaire avec une lassitude du partenaire aidant, peur face à la maladie du conjoint, réflexe de fuite...
+* sur la sphère génitale directement en cas d’atteinte du système hormonal, vasculaire, neurologique...,
+* sur le désir/ le plaisir en cas d’atteinte du système nerveux central,
+* sur les fonctions corporelles permettant la sexualité (par exemple, altération de la fonction respiratoire ou trouble de la motricité rendant l’activité sexuelle plus difficile à réaliser),
+* sur l’image corporelle et l’apparence physique avec le deuil du « corps parfait », prise ou perte de poids, perte d’intégrité physique ou d’autonomie, handicap, marques visibles de la maladie...,
+* sur l’estime de soi avec la perte de la capacité à avoir confiance en soi et se considérer comme désirable,
+* sur l’intimité avec un corps « à disposition des soignants », notamment en contexte d’hospitalisation ou de séjour en établissements médicalisés,
+* sur la disponibilité mentale et émotionnelle compte tenu des nombreux rendez-vous médicaux empêchant la personne de se détendre et d’être en situation de désirer,
+* sur la relation avec la/le partenaire avec une lassitude du partenaire aidant, peur face à la maladie du conjoint, réflexe de fuite...
 
 **Ces effets peuvent être liés à la maladie même, aux médicaments et soins reçus, à l’environnement médical imposé par la maladie.**
 
 **Il s’agit véritablement d’une double peine pour les personnes malades :** à la difficulté de vivre avec une condition chronique s’ajoutent des difficultés intimes et/ou affectives, alors même que la sexualité devrait être la zone de liberté de ces personnes, leur terrain de jeu donnant l’opportunité de jouir d’un corps malmené par la maladie et, parfois, les traitements.
 
-<figure><img src="../.gitbook/assets/0 (1).png" alt="" width="130"><figcaption></figcaption></figure>
-
+{% hint style="info" %}
 **Documenter les maladies chroniques et leurs traitements**
 
 Quand une personne rapporte une dysfonction sexuelle, il est essentiel de documenter son état de santé, de comprendre si elle vit avec des maladies chroniques, les contraintes imposées par celles-ci, de noter scrupuleusement tout médicament reçu (susceptible d’avoir des effets délétères sur la sexualité) et de discuter avec elle des répercussions de son état de santé sur sa sexualité.
+{% endhint %}
 
-<figure><img src="../.gitbook/assets/1.png" alt="" width="145"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (2).png" alt="" width="145"><figcaption></figcaption></figure>
 
 **Il faut briser le cercle vicieux**
 
-**- de la maladie entrainant des problèmes sexuels qui entrainent une perte d’estime de soi entrainant une moindre motivation pour se soigner et donc une détérioration de la santé,**
-
-**- et instaurer un cercle vertueux avec une écoute et une prise en charge des problèmes sexuels pour augmenter l’estime de soi elle-même augmentant l’envie de bien se soigner pour augmenter la santé générale, dont la santé sexuelle.**
+* **de la maladie entrainant des problèmes sexuels qui entrainent une perte d’estime de soi entrainant une moindre motivation pour se soigner et donc une détérioration de la santé,**
+* **et instaurer un cercle vertueux avec une écoute et une prise en charge des problèmes sexuels pour augmenter l’estime de soi elle-même augmentant l’envie de bien se soigner pour augmenter la santé générale, dont la santé sexuelle.**
 
 ## **L’exemple du diabète**
+
+<figure><img src="../.gitbook/assets/diabetes-777002_1280.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 Le diabète, quel que soit son type, peut affecter la sexualité de différentes manières. S’il est possible d’avoir une vie sexuelle tout à fait satisfaisante en vivant avec un diabète, il est fréquent, au cours de l’évolution de la maladie, de devoir surmonter certains obstacles pour maintenir une bonne santé sexuelle.
 
@@ -69,7 +63,13 @@ Voici quelques conséquences possibles de la maladie diabétique sur la vie sexu
 
 **- Dysfonction érectile :** les hommes atteints de diabète peuvent être plus susceptibles de développer une dysfonction érectile en raison des dommages causés aux vaisseaux sanguins et aux nerfs.
 
-L’existence d’un diabète, en particulier s’il est mal équilibré, orientera davantage vers une cause organique pour expliquer une dysfonction érectile. A l’inverse, la dysfonction érectile est parfois le symptôme qui permet de découvrir un diabète qui n’était pas connu jusqu’à présent, agissant en véritable signe précurseur ou « sentinelle » de cette maladie (voir chapitre « Dysfonctions sexuelles »). La prise en charge d’une dysfonction érectile chez une personne diabétique est comparable à celle de la population générale, mais il existe des études cliniques évaluant des médicaments facilitateurs d’érection spécifiquement dans cette population, ce qui peut conforter le prescripteur (et le patient) dans son choix.
+L’existence d’un diabète, en particulier s’il est mal équilibré, orientera davantage vers une cause organique pour expliquer une dysfonction érectile. A l’inverse, la dysfonction érectile est parfois le symptôme qui permet de découvrir un diabète qui n’était pas connu jusqu’à présent, agissant en véritable signe précurseur ou « sentinelle » de cette maladie (voir chapitre « Dysfonctions sexuelles »).&#x20;
+
+{% content-ref url="dysfonctions-sexuelles.md" %}
+[dysfonctions-sexuelles.md](dysfonctions-sexuelles.md)
+{% endcontent-ref %}
+
+La prise en charge d’une dysfonction érectile chez une personne diabétique est comparable à celle de la population générale, mais il existe des études cliniques évaluant des médicaments facilitateurs d’érection spécifiquement dans cette population, ce qui peut conforter le prescripteur (et le patient) dans son choix.
 
 **- Ejaculation rétrograde :** le diabète peut entraîner chez l'homme une éjaculation rétrograde. Au moment de l'éjaculation, le sperme, au lieu de sortir par l'urètre, remonte dans la vessie. L’absence de sperme visible au moment de l’orgasme peut être très perturbante pour certains patients. Il faut insister sur le fait que cette éjaculation rétrograde ne pose aucun problème physiologique et n’altère en rien le désir et le plaisir.
 
@@ -82,6 +82,8 @@ L’existence d’un diabète, en particulier s’il est mal équilibré, orient
 **- Difficultés au sein du couple :** parfois, le conjoint ou la conjointe d’une personne diabétique peut être lassé.e des traitements, des restrictions diététiques ou de l’intrusion de la maladie dans l’intimité du couple. De manière générale, les partenaires de personnes vivant avec une maladie chronique doivent pouvoir exprimer leurs difficultés auprès d’un thérapeute ou d’un sexologue, afin d’être également accompagnés si besoin.
 
 Au-delà de la prise en charge spécifique de la dysfonction sexuelle, le bon équilibre du diabète et le traitement adapté de cette maladie sont les meilleurs remparts contre une altération de la santé sexuelle. Les dysfonctions sexuelles motivent parfois les personnes pour mieux se prendre en charge globalement : ainsi, une dysfonction érectile peut conduire un homme à respecter scrupuleusement les conseils d’hygiène de vie car la préservation de cette fonction est particulièrement motivante pour lui.
+
+<figure><img src="../.gitbook/assets/atrial-fibrillation-7832673_1280.webp" alt=""><figcaption></figcaption></figure>
 
 Les maladies cardiovasculaires type hypertension artérielle, maladie athéromateuse et événements vasculaires (infarctus du myocarde, accident vasculaire cérébral, artériopathie des membres inférieurs...) peuvent également avoir des conséquences sur la santé sexuelle, et être associées à un diabète. Dans tous les cas, le parfait contrôle de ces maladies est nécessaire pour préserver la fonction sexuelle.
 
@@ -113,13 +115,10 @@ Enfin, pour citer un dernier exemple, les **troubles des conduites alimentaires*
 
 **Ainsi, les conséquences des maladies mentales sur la sexualité présentent plusieurs caractéristiques :**
 
-\- elles sont très fréquentes,
-
-\- elles sont souvent autant liées à la maladie qu’au traitement prescrit,
-
-\- elles couvrent tout le champ des dysfonctions sexuelles,
-
-\- elles posent parfois la question de la sexualité en institution, chez les personnes hospitalisées à répétition en service psychiatrique ou lieux de soins pour la santé mentale.
+* elles sont très fréquentes,
+* elles sont souvent autant liées à la maladie qu’au traitement prescrit,
+* elles couvrent tout le champ des dysfonctions sexuelles,
+* elles posent parfois la question de la sexualité en institution, chez les personnes hospitalisées à répétition en service psychiatrique ou lieux de soins pour la santé mentale.
 
 ## **L’exemple du VIH**
 
@@ -156,13 +155,10 @@ N’oublions pas qu’un effet indésirable qui semble anodin peut gravement nui
 
 Dans tous les cas, il faut :
 
-\- faire la liste de tous les traitements pris par la personne, quelle que soit leur voie d’administration, sans oublier les médicaments achetés librement en pharmacie ou sur internet,
-
-\- retracer la chronologie des troubles sexuels par rapport au début de la prise de ces traitements,
-
-\- chercher et donner en toute transparence l’information disponible sur l’impact, direct ou indirect, du traitement sur la fonction sexuelle,
-
-\- si la personne reste convaincue d’un lien direct entre le médicament et ses difficultés sexuelles malgré l’absence de preuve formelle sur un plan scientifique, s’efforcer d’adapter le traitement pour en favoriser l’observance.
+* faire la liste de tous les traitements pris par la personne, quelle que soit leur voie d’administration, sans oublier les médicaments achetés librement en pharmacie ou sur internet,
+* retracer la chronologie des troubles sexuels par rapport au début de la prise de ces traitements,
+* chercher et donner en toute transparence l’information disponible sur l’impact, direct ou indirect, du traitement sur la fonction sexuelle,
+* si la personne reste convaincue d’un lien direct entre le médicament et ses difficultés sexuelles malgré l’absence de preuve formelle sur un plan scientifique, s’efforcer d’adapter le traitement pour en favoriser l’observance.
 {% endhint %}
 
 ## **Handicap et sexualité**
@@ -195,7 +191,7 @@ _**Pour en savoir plus :**_
 
 **Cancer du sein et sexualité :**
 
-[**https://www.youtube.com/watch?v=W\_yk74L7Qw4**](https://www.youtube.com/watch?v=W\_yk74L7Qw4)
+{% embed url="https://www.youtube.com/watch?v=W_yk74L7Qw4" %}
 
 **Médecine sexuelle, fondements et pratiques.** Frédérique Courtois, Mireille Bonierbale. Edition Lavoisier, 2016.
 
