@@ -11,7 +11,7 @@ coverY: 0
 [Accéder aux numéros de services médicaux d’urgence dans le monde](https://www.europ-assistance.fr/fr/conseils/les-numeros-d-urgence-l-etranger\&sa=D\&source=docs\&ust=1687366794930574\&usg=AOvVaw2F67HR4zddGD2H\_16gualo)
 {% endhint %}
 
-## De quoi allons nous parler ?
+## De quoi allons-nous parler ?
 
 Il s’agit ici d’aborder les enjeux de santé liés à l’association entre pratiques sexuelles et consommation de produits psychoactifs, à des fins notamment de recherche de sensations, de plaisirs, de désinhibition, d’endurance et de performances. Nous ne traiterons pas de consommation de drogues ou de sexualité en général, mais bien de l’articulation et l’interaction entre les deux, tout en rappelant certains grands concepts clés tels que la réduction des risque, dans l’objectif de donner à tout professionnel de santé les clés pour échanger avec une personne qui a des pratiques associant sexe et produits psychoactifs.
 

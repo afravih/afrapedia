@@ -11,7 +11,7 @@ Le désir, le plaisir et le consentement sont des notions essentielles en matiè
 
 Aucune définition satisfaisante du désir sexuel ne fait consensus dans la communauté médicale. On peut, simplement, envisager le désir comme l’ensemble des forces qui poussent un individu vers un comportement sexuel, ou comme un appétit, une attirance, ou un état subjectif lié à la perception d’un besoin. Soulignons d’emblée qu’il s’agit bien de « perception d’un besoin » et non de besoin réel, le comportement sexuel humain n’étant pas irrépressible.
 
-![Source : onsexprime.fr](<../.gitbook/assets/0 (3).png>)
+![Source : onsexprime.fr](<../.gitbook/assets/0 (3) (2).png>)
 
 La notion de « motivation sexuelle » est parfois évoquée à la place du désir, et désigne les raisons qui nous font aller vers un comportement sexuel. Le désir peut être perçu comme la première étape de cette « motivation », un « starter » entrainant une excitation précédant l’activité sexuelle proprement dite.
 
@@ -35,7 +35,7 @@ Soulignons enfin qu’un désir sexuel fréquent ou une absence de désir sexuel
 
 _En clair, on peut être en très bonne santé sexuelle et ne pas éprouver de désir sexuel, si l’on n’en souffre pas !_
 
-![](<../.gitbook/assets/2 (1).jpeg>)
+![](<../.gitbook/assets/2 (1) (1).jpeg>)
 
 ## **Le plaisir sexuel**
 

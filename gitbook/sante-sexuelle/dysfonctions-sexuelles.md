@@ -108,7 +108,7 @@ La dysfonction érectile constitue un bon exemple de dysfonction sexuelle « car
 
 Appelée aussi « éjaculation précoce » ou « éjaculation rapide », elle est définie par la survenue d’une éjaculation jugée trop rapide par la personne, incontrôlable et empêchant la/le partenaire d’avoir du plaisir.
 
-<figure><img src="../.gitbook/assets/4 (3).png" alt="" width="105"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (3) (1).png" alt="" width="105"><figcaption></figcaption></figure>
 
 Cette difficulté pose bien le problème de la norme car il est très difficile de donner une durée « optimale » de rapport sexuel pour objectiver une éjaculation « trop » rapide. C’est donc l’écoute du récit de la personne, et du degré de souffrance ressenti, qui guidera le soignant. S’il est souvent donné le chiffre d’une minute (éjaculation survenant moins d’une minute après le début de la pénétration), ce jalon écartera des personnes qui dépassent la minute mais sont en réelle souffrance avec leurs partenaires.
 

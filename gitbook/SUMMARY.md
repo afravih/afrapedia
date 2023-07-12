@@ -25,7 +25,7 @@
   * [Ce qu'en pensent les personnes atteintes : qualité de vie, accès aux soins, stigmatisation](vih/temoignages.md)
 * [Santé sexuelle](sante-sexuelle/README.md)
   * [Les auteurs et l'équipe AFRAPEDIA - santé sexuelle](sante-sexuelle/contributeurs.md)
-  * [Qu'est-ce que la santé sexuelle ?](sante-sexuelle/quest-ce-que-la-sante-sexuelle.md)
+  * [Qu'est-ce que la santé sexuelle](sante-sexuelle/quest-ce-que-la-sante-sexuelle.md)
   * [Connaître son corps](sante-sexuelle/connaitre-son-corps.md)
   * [Désir, plaisir et consentement](sante-sexuelle/desir-plaisir-et-consentement.md)
   * [Genres, sexualités, identités](sante-sexuelle/genres-sexualites-identites.md)

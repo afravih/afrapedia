@@ -55,7 +55,7 @@ Fine membrane accrochée aux parois vaginales, il est plus ou moins épais et é
 
 Cet organe souvent méprisé ou dénigré, réduit à un petit pois c’est-à-dire sa partie émergée (le gland du clitoris, recouvert du capuchon), fait sa révolution depuis une vingtaine d’années. La saga du clitoris, c’est mieux que Star Wars : parfaitement connu au Moyen-Âge, cet organe a été passé sous silence pendant des siècles pour des raisons culturelles, religieuses ou encore médicales (les hommes médecins persuadés que cet organe pouvait poser problème et rendre les femmes « hystériques »). Grâce à une chirurgienne urologue australienne (Helen O’Connell), il a été de nouveau correctement décrit et compris à l’entrée du 21e siècle.
 
-![](<../.gitbook/assets/2 (6).png>)
+![](<../.gitbook/assets/2 (6) (1).png>)
 
 Et c’est loin d’être un petit pois... ! Plutôt un iceberg, dont le gland n’est que la partie émergée. Le tronc du clitoris prolonge le gland à l’intérieur du corps, telle la hampe du pénis. De ce tronc émergent deux racines, les piliers du clitoris, qui renferment les corps caverneux, et les bulbes vestibulaires, telles deux grosses amandes, se trouvant sous le vestibule et contre la paroi vaginale. Il s’agit donc d’un véritable ensemble, appelé parfois organe bulbo-clitoridien ou complexe clitoridien. Bref, le clitoris est un empire, et, excusez du peu, le seul organe humain dont la seule fonction connue est... le plaisir.
 

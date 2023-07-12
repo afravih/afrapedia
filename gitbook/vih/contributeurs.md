@@ -24,17 +24,17 @@ APHP - Délégation aux relations internationales](<../.gitbook/assets/Gilles Br
 
  
 
-<figure><img src="../.gitbook/assets/Jade Ghosn.png" alt=""><figcaption><p><strong>Pr Jade Ghosn</strong><br>Service des Maladies Infectieuses et Tropicales<br>Hôpital Bichat Claude Bernard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Jade Ghosn.png" alt=""><figcaption><p><strong>Pr Jade Ghosn</strong><br>Service des Maladies Infectieuses et Tropicales<br>Hôpital Bichat Claude Bernard<br>Université Paris Cité</p></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../.gitbook/assets/CK.png" alt=""><figcaption><p><strong>Pr Christine Katlama</strong><br>Présidente de l'AFRAVIH<br>Service des Maladies Infectieuses &#x26; Tropicales<br>Hôpital de la Pitié-Salpêtrière</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CK.png" alt=""><figcaption><p><strong>Pr Christine Katlama</strong><br>Présidente de l'AFRAVIH<br>Sorbonne Université<br>Hôpital de la Pitié-Salpêtrière</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Karine Lacombe.png" alt=""><figcaption><p><strong>Pr Karine Lacombe</strong><br>Cheffe de Service des Maladies Infectieuses et Tropicales<br>Hôpital Saint-Antoine</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Karine Lacombe.png" alt=""><figcaption><p><strong>Pr Karine Lacombe</strong><br>Cheffe de Service des Maladies Infectieuses et Tropicales<br>Hôpital Saint-Antoine<br>Sorbonne Université</p></figcaption></figure>
 
  
 
