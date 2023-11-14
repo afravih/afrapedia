@@ -11,13 +11,13 @@ Le désir, le plaisir et le consentement sont des notions essentielles en matiè
 
 Aucune définition satisfaisante du désir sexuel ne fait consensus dans la communauté médicale. On peut, simplement, envisager le désir comme l’ensemble des forces qui poussent un individu vers un comportement sexuel, ou comme un appétit, une attirance, ou un état subjectif lié à la perception d’un besoin. Soulignons d’emblée qu’il s’agit bien de « perception d’un besoin » et non de besoin réel, le comportement sexuel humain n’étant pas irrépressible.
 
-![Source : onsexprime.fr](<../.gitbook/assets/0 (3) (2).png>)
+![Source : onsexprime.fr](<../.gitbook/assets/0 (3) (2) (1).png>)
 
 La notion de « motivation sexuelle » est parfois évoquée à la place du désir, et désigne les raisons qui nous font aller vers un comportement sexuel. Le désir peut être perçu comme la première étape de cette « motivation », un « starter » entrainant une excitation précédant l’activité sexuelle proprement dite.
 
 Le désir est influencé par une multitude de facteurs, biologiques, psychologiques et sociaux (figure 1).
 
-![Figure 1 – Le désir sous de multiples influences (liste non exhaustive)](<../.gitbook/assets/1 (4).png>)
+![Figure 1 – Le désir sous de multiples influences (liste non exhaustive)](<../.gitbook/assets/1 (4) (2).png>)
 
 _Les hormones sexuelles_
 
@@ -47,7 +47,7 @@ Pour la plupart des individus, l’accumulation des tensions sexuelles au cours 
 
 L’orgasme est généralement décrit comme une sensation de grand plaisir. On parle parfois de « point culminant du plaisir », ce qui est subjectif car le ressenti dans l’activité sexuelle avant l’orgasme peut être tout aussi agréable, voire plus agréable.
 
-![Source : onsexprime.fr](../.gitbook/assets/3.png)
+![Source : onsexprime.fr](<../.gitbook/assets/3 (4).png>)
 
 D’un point de vue neurophysiologique, le plaisir sexuel est mal connu car peu étudié. De manière générale, le plaisir implique de nombreuses structures cérébrales, dont les aires corticales orbitofrontale, cingulaire et insulaire, et des structures sous-corticales donc situées « en profondeur » dans le cerveau. Le « système de récompense » est évidemment impliqué au même titre qu’il l’est dans le désir sexuel. Quant à l’orgasme, il se caractérise par une série de contractions rapprochées et rythmées déclenchant le relâchement des tensions neuromusculaires accumulées jusqu’ici.
 

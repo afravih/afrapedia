@@ -21,25 +21,23 @@ La santé sexuelle s'entend comme une _approche positive et respectueuse de la s
 Pour que la santé sexuelle soit assurée et protégée, _les droits sexuels de toutes les personnes_ doivent être respectés, protégés et appliqués ».
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/0 (2).png" alt="" width="275"><figcaption><p>Source : Organisation Mondiale de la Santé</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/0 (2) (2).png" alt="" width="275"><figcaption><p>Source : Organisation Mondiale de la Santé</p></figcaption></figure>
 
 ## **L’épidémie de VIH/sida : un tournant**
 
 L’irruption du VIH/sida au début des années 1980 marque un tournant majeur dans la manière d’appréhender et de penser la santé sexuelle. Le virus VIH, parce qu’il est mortellement sexuellement transmissible, met en effet en lumière un certain nombre d’impensés et d’injustices dans la prise en charge de la sexualité humaine.
 
-![Source : © Emmanuel Veneau](../.gitbook/assets/1.jpeg)
+![Source : © Emmanuel Veneau](<../.gitbook/assets/1 (3).jpeg>)
 
-* Ainsi, les minorités sexuelles et de genre sont en première ligne face au VIH. L’absence de reconnaissance sociale et légale de leurs réalités (droits pour les couples, lutte contre les discriminations) et les lois discriminatoires vont très vite être identifiées comme un déterminant majeur du risque infectieux. Il apparait aussi que les contextes d’homophobie ou de transphobie jouent un rôle négatif dans la capacité d’affirmation de soi et d’expression de ses besoins de santé. C’est la raison pour laquelle, dès les années 1980, les leaders communautaires, scientifiques et médicaux ont mis en avant la nécessité de penser conjointement lutte contre le sida et promotion des droits humains.
+* Ainsi, les minorités sexuelles et de genre sont en première ligne face au VIH. L’absence de reconnaissance sociale et légale de leurs réalités (droits pour les couples, lutte contre les discriminations) et les lois discriminatoires vont très vite être identifiées comme un déterminant majeur du risque infectieux. Il apparaît aussi que l'homophobie et la transphobie peuvent également éloigner les personnes du soin. C’est la raison pour laquelle, dès les années 1980, les leaders communautaires, scientifiques et médicaux ont mis en avant la nécessité de penser conjointement lutte contre le sida et promotion des droits humains.
 * C’est aussi très clair si l’on s’intéresse aux interventions, programmes et politiques de prévention du VIH et des IST. Jusqu’aux années 1980, les approches dominantes dans ce domaine privilégiaient encore une forme de paternalisme, ou au mieux, de vision descendante (« top-down »), très axée sur les risques.
 * Grâce à la mobilisation des premiers concernés, soutenus par les associations communautaires, une autre voie s’est ouverte, promouvant des messages de prévention positifs, axés sur le plaisir et le choix des outils de protection.
 * C’est le cas également si l’on se penche sur la diversité des représentations et des pratiques sexuelles selon les pays, les cultures et les normes sociales et morales qui encadrent la sexualité. Les homosexualités ont longtemps été réduites à des enjeux d’identité (s’affirmer gay ou lesbienne, par exemple). On voit pourtant que les pratiques sexuelles entre personnes du même sexe existent partout, dans tous les milieux sociaux, même si les termes pour les définir et les stratégies d’affirmation peuvent varier. L’épidémie de sida a agi comme un véritable révélateur social et, dans plusieurs pays, a permis d’obtenir de nouveaux droits comme la reconnaissance des couples de même sexe.
-* C’est enfin évident si l’on s’intéresse aux dynamiques de genre dans la sexualité, les relations femmes/hommes, mais aussi entre hommes et entre femmes.
-
-Longtemps la santé sexuelle des femmes a été avant tout cantonnée aux enjeux de procréation, délaissant les autres dimensions de leurs sexualités. De leur côté, les femmes lesbiennes ont longtemps été perçues comme à l’écart de la santé sexuelle et reproductive, quand bien même elles sont, pour certaines, mères.
+* C’est enfin évident si l’on s’intéresse aux dynamiques de genre dans la sexualité, les relations femmes/hommes, mais aussi entre hommes et entre femmes. Longtemps la santé sexuelle des femmes a été avant tout cantonnée aux enjeux de procréation, délaissant les autres dimensions de leurs sexualités. De leur côté, les femmes lesbiennes ont longtemps été perçues comme à l’écart de la santé sexuelle et reproductive, quand bien même elles sont, pour certaines, mères.
 
 On le voit, la santé sexuelle s’accorde mal avec les préjugés et les rôles préconçus. Il s’agit à l’inverse d’envisager les personnes dans leur complexité et la diversité de leurs besoins.
 
-![](../.gitbook/assets/2.jpeg)
+![](<../.gitbook/assets/2 (3).jpeg>)
 
 ## **La santé sexuelle : diversité d’acteurs, diversité d’enjeux**
 
@@ -52,4 +50,4 @@ Cette diversification est prometteuse, car elle permet véritablement d’approc
 * Dans le champ de la santé sexuelle comme ailleurs en promotion de la santé, les vulnérabilités sont multiples, d’autant plus quand elles s’entrecroisent. Certains et certaines, par leur genre, leur orientation sexuelle, leur position sociale, les discriminations et les violences vécues, sont particulièrement exposés aux injustices. Pour y faire face, les programmes de santé sexuelle se doivent de mettre en œuvre des approches ciblées et proportionnées.
 * La multiplicité des thématiques ne doit pas faire oublier les notions fondamentales de plaisir et d’épanouissement. La santé sexuelle risquerait alors de se limiter à un ensemble de techniques et de recommandations, détachées de l’expérience sensible et subjective. Promouvoir une santé sexuelle « grand angle » implique d’associer la pluralité des points de vue, des professionnels de santé, des acteurs communautaires et des personnes concernées.
 
-La santé sexuelle est le produit de combats anciens pour la santé reproductive, pour les droits des minorités, pour la libre disposition de son corps et de sa sexualité. L’appréhender dans sa complexité est un formidable défi, mais aussi la promesse de la possibilité pour chacun et chacune d’une sexualité plus épanouie et agréable.
+La santé sexuelle résulte de combats anciens pour la santé reproductive, pour les droits des minorités, pour la libre disposition de son corps et de sa sexualité. L’appréhender dans sa complexité est un formidable défi, mais aussi la promesse de la possibilité pour chacun et chacune d’une sexualité plus épanouie et agréable.

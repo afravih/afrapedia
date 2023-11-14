@@ -19,7 +19,7 @@ Les démarches non-binaires bousculent aussi les anciennes classifications et le
 
 Mais on accompagne aussi des démarches non-binaires, où la demande n’est pas d’un accompagnement d’un genre à l’autre mais le souhait de vivre avec des caractéristiques appartenant aux deux genres. Dans ce chapitre ne seront traitées que les demandes binaires. A noter que les études récentes retrouvent entre 0,2 et 0,4% de la population se déclarant trans.
 
-![Drapeau Trans](<../.gitbook/assets/0 (3).png>)
+![Drapeau Trans](<../.gitbook/assets/0 (3) (2).png>)
 
 {% hint style="info" %}
 Petit rappel de vocabulaire&#x20;

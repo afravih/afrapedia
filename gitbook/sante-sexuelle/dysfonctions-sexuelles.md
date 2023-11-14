@@ -34,7 +34,7 @@ Quelques exemples :
 
 Ainsi, la dysfonction sexuelle est une difficulté rapportée par un individu qui l’éloigne de la santé sexuelle, par la souffrance ressentie (par lui) ou infligée (aux autres), par la limitation, parfois, de son champ d’activités ou de son libre-arbitre. Un comportement sexuel envahissant, se substituant à d’autres interactions interpersonnelles, rentrera, par exemple, dans le champ des dysfonctions.
 
-<figure><img src="../.gitbook/assets/1 (1).png" alt="" width="130"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (1) (1).png" alt="" width="130"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **DOCUMENTER LA DYSFONCTION SEXUELLE**
@@ -72,7 +72,7 @@ _\* nous faisons le choix de ne pas les aborder sous l’angle « féminin/mascu
 
 ### **Dysfonction érectile**
 
-![](<../.gitbook/assets/2 (4).png>)
+![](<../.gitbook/assets/2 (4) (1).png>)
 
 Définie comme l’incapacité d’obtenir et/ou de maintenir une érection, c’est à dire une rigidité du pénis suffisante pour une pénétration et le déroulement de l’acte sexuel, elle constitue l’un des troubles les plus fréquents, pouvant concerner une personne sur deux au cours de la vie.
 

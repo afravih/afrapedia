@@ -51,7 +51,7 @@ Les usages et pratiques en matière de consommmation de produits évoluent très
 
 **Tableau 1. Guide des combinaisons de drogues**
 
-<figure><img src="../.gitbook/assets/0 (6).png" alt=""><figcaption><p>Source : https://tripsit.me</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/0 (6) (1).png" alt=""><figcaption><p>Source : https://tripsit.me</p></figcaption></figure>
 
 [**Accéder à l’image en grand format**](https://www.psychoactif.org/forum/image-reelle.php?code=1600/guide-de-combinaisons-de-drogues-par-tripsit.png)
 

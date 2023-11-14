@@ -17,8 +17,8 @@ Nous allons nous attacher à donner quelques jalons pour mieux connaître les or
 
 Nous adopterons une approche « masculin/féminin », tout à fait critiquable car elle repose sur une vision binaire du genre. Oui, certaines femmes ont un pénis, certains hommes un vagin, et le chapitre sur l’identité de genre le souligne bien.&#x20;
 
-{% content-ref url="genres-sexualites-identites.md" %}
-[genres-sexualites-identites.md](genres-sexualites-identites.md)
+{% content-ref url="genre-identites-sexualites.md" %}
+[genre-identites-sexualites.md](genre-identites-sexualites.md)
 {% endcontent-ref %}
 
 Aussi, les termes féminin et masculin seront utilisés comme repères biologiques, sans présumer du genre de la personne possédant ces organes.
@@ -27,7 +27,7 @@ Aussi, les termes féminin et masculin seront utilisés comme repères biologiqu
 
 C’est un choix de parler d’organes sexuels et non de système reproducteur. Désigner les organes de la sexualité par l’une de leur fonction seulement, la reproduction, est un biais cognitif qui attribue à la sexualité une finalité exclusive de reproduction, niant le désir et le plaisir comme composantes essentielles du fonctionnement humain.
 
-![](<../.gitbook/assets/0 (1).png>)
+![](<../.gitbook/assets/0 (1) (2).png>)
 
 Cette planche anatomique montre les organes sexuels féminins conformes à leur description la plus récente. En effet, l’anatomie du clitoris, par exemple, n’a été précisément décrite qu’au début de ce siècle ! De nombreux manuels scolaires présentent encore une description du « système reproducteur féminin » (_sic_) caduque, avec un clitoris inexistant, réduit à un petit pois, laissant la part belle à l’utérus et aux ovaires, la sexualité féminine étant ainsi clairement présentée comme « destinée uniquement à faire des bébés ». Prenons quelques secondes pour être conscients de ces biais qui orientent, dès notre enfance, la vision de la sexualité, et, au-delà, du genre féminin.
 
@@ -37,7 +37,7 @@ Cheminons à présent d’organe en organe, afin de souligner quelques notions e
 
 Soulignons d’emblée que la vulve n’est pas le vagin ! La vulve est extérieure et se voit, le vagin est intérieur, nous y reviendrons.
 
-![](<../.gitbook/assets/1 (3).png>)
+![](<../.gitbook/assets/1 (3) (2).png>)
 
 _La vulve_ se compose des grandes et petites lèvres, du capuchon et du gland du clitoris, du vestibule, du méat urinaire, de l’orifice vaginal, de l’hymen et des glandes de Bartholin. _Les grandes lèvres_ referment l’orifice vaginal et le méat urinaire et ont un rôle protecteur. En écartant les grandes lèvres, on découvre les petites lèvres. _Le vestibule_ est la partie comprise entre petites lèvres et orifice vaginal.
 
@@ -71,7 +71,7 @@ Et pour visualiser un clitoris en 3D : [http://odile.fillod.free.fr/3DClitFR.htm
 
 Du latin _vagina_ (« fourreau » ou « gaine »), le vagin est un organe extraordinaire par ses multiples fonctions. Focus en GPS : de profil, le vagin se situe entre la vessie et le rectum, et de face il s’étend de l’orifice vaginal (dans la vulve) au col de l’utérus. A l’état de repos, le vagin est une cavité virtuelle, donc un espace vide. Sous l’effet de l’excitation le vagin s’élargit, mais ne le fait pas bêtement comme un contenant épouse un contenu passivement. Il s’élargit et s’allonge dans sa partie supérieure (près du col de l’utérus), on dit qu’il se «ballonise », l’image est parlante. Quant à sa partie inférieure, elle a tendance à se resserrer pendant un rapport sexuel, enserrant le contenu (pénis, sex toy, doigt...) comme un fourreau. Le vagin prend donc la forme d’une poire à l’envers.
 
-![](<../.gitbook/assets/3 (4).png>) ![](<../.gitbook/assets/4 (4).png>)
+![](<../.gitbook/assets/3 (4) (1).png>) ![](<../.gitbook/assets/4 (4) (1).png>)
 
 Cette « élasticité intelligente » lui permet de s’adapter avec précision, mais ce n’est pas la seule capacité de cet organe. Tapissé d’une muqueuse (un peu comme l’intérieur d’une joue), sa paroi intérieure est plissée, et ces plis favorisent l’extension et la dilatation du vagin en fonction de son contenu, un peu comme un accordéon.
 
@@ -81,7 +81,7 @@ La lubrification vaginale, sous l’effet d’une excitation sexuelle, relève d
 
 Pendant une activité sexuelle, vagin et clitoris travaillent de concert pour procurer du plaisir : tels deux acrobates parfaitement synchronisés, ils envoient des messages de plaisir par leur étirement, gonflement, élargissement, allongement...
 
-![](<../.gitbook/assets/5 (1).png>)
+![](<../.gitbook/assets/5 (1) (1).png>)
 
 Pour le vagin, c’est essentiellement le tiers inférieur (donc près de l’orifice vaginal) qui est doté de terminaisons nerveuses transmettant ces sensations voluptueuses, ce qui rassure beaucoup d’hommes complexés par la taille de leur pénis.
 
@@ -103,7 +103,7 @@ Quelques mots sur des organes moins directement impliqués dans le plaisir sexue
 
 La planche anatomique ci-dessous permet de repérer les organes sexuels et tord d’emblée le cou à une idée reçue : non, tout n’est pas extérieur et « visible » chez l’homme ! Certes, le pénis, le scrotum jouent un rôle clé dans la sexualité, mais ne négligeons pas, par exemple, la prostate ou les muscles du périnée masculin !
 
-![](../.gitbook/assets/6.png)
+![](<../.gitbook/assets/6 (5).png>)
 
 ### **Le pénis**&#x20;
 

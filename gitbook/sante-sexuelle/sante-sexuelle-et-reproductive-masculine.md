@@ -134,7 +134,7 @@ Elle comporte :
 
 **Le temps du traitement :**
 
-![The Facts about Peyronie's Disease Steinberg Urology, Montreal](../.gitbook/assets/6.jpeg)
+![The Facts about Peyronie's Disease Steinberg Urology, Montreal](<../.gitbook/assets/6 (1).jpeg>)
 
 La prise en charge de la maladie de La Peyronie doit être individualisée en fonction des besoins spécifiques de chaque patient. La prise en charge globale peut inclure des conseils sur la communication avec la/le partenaire, l'adaptation des pratiques sexuelles et des thérapies psychologiques pour surmonter les difficultés émotionnelles associées.
 
@@ -159,7 +159,7 @@ Le traitement du priapisme dépend du type et de la durée de l'épisode.
 
 Devant un priapisme veineux ischémique, le plus fréquent, les premières mesures de traitement consistent généralement en l'application de glace (ou douche froide), la réalisation d’un effort physique ou l’obtention d’une éjaculation. Si ces mesures ne sont pas efficaces, une aspiration du sang « piégé » dans les corps caverneux peut être réalisée. En cas d’échec, un lavage des corps caverneux avec du sérum physiologique peut être réalisé.
 
-![](../.gitbook/assets/7.jpeg)
+![](<../.gitbook/assets/7 (1).jpeg>)
 
 Dans certains cas graves ou récurrents, une intervention chirurgicale peut être nécessaire.
 
@@ -232,8 +232,8 @@ La contraception est un aspect crucial de la santé reproductive et, traditionne
 
 * **Préservatif masculin** : le préservatif est largement utilisé et accessible aujourd’hui. Il est également efficaces pour prévenir les infections sexuellement transmissibles (MST/IST) (voir chapitre IST).
 
-{% content-ref url="les-ist.md" %}
-[les-ist.md](les-ist.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 * **Coït interrompu** : cette méthode, également connue sous le nom de "retrait", consiste à retirer le pénis de la partenaire avant l'éjaculation. Cependant, cette méthode est peu fiable et présente un risque de grossesse élevé, car des spermatozoïdes peuvent être présents dans les sécrétions pré-éjaculatoires. De plus, une impression de rapport sexuel inabouti est parfois ressentie.

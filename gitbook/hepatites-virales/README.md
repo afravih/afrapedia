@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/Bannière AFRAPEDIA hépatites.png
-coverY: 12
+coverY: 0
 ---
 
 # Hépatites virales
